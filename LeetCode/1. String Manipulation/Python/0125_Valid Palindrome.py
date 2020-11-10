@@ -10,4 +10,4 @@ if __name__ == '__main__':
         ""
     ]
     for string in strings:
-        print(f"String '{string}' Result: {isPalindrome(string)}")
+        print(f"String '{string}' Result: {isPalindrome(string)}")0
