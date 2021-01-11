@@ -7,7 +7,7 @@ def reorderLogFiles(logs: list[str]) -> list[str]:
             else:
                 digits.append(log)
 
-        letters = sorted(letters, key = lambda item: (item.split()[1], item.split()[2]))
+        letters = sorted(letters, key = lambda item: (item.split()[1:], item.split()[2]))
         return letters + digits
     
 
