@@ -5,10 +5,12 @@
 ## Table of contents
 
 - [LeetCode](#leetcode)
+    - [String Manipulation](#string-manipulation)
 - [Programmers](#programmers)
 - [DataStructure](#datastructure)
 
 ## LeetCode
+### String Manipulation
 - [0125. Valid Palindrome](https://velog.io/@dev_taehyun/0125.-Valid-Palindrome)
 - [0344. Reverse String](https://velog.io/@dev_taehyun/0344.-Reverse-String)
 - [0937. Reorder Log Files](https://velog.io/@dev_taehyun/0937.-Reorder-Log-Files-jownul54)
