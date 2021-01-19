@@ -17,6 +17,7 @@
 - [0819. Most Common Word](https://velog.io/@dev_taehyun/0819.-Most-Common-Word)
 - [0049. Group Anagrams](https://velog.io/@dev_taehyun/0049.-Group-Anagrams)
 - [0005. Longest Palindromic Substring](https://velog.io/@dev_taehyun/0005.-Longest-Palidromic-Substring-2bzkb4hy)
+- [0001. Two Sum](https://velog.io/@dev_taehyun/LeetCode-0001.-Two-Sum)
 
 ## Programmers
 -
