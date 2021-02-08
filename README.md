@@ -25,8 +25,9 @@
 
 #### Weekly Contest 226
 
-- [1742. Maximum Number of Balls in a Box]()
+- [1742. Maximum Number of Balls in a Box](https://velog.io/@dev_taehyun/LeetCode)
+-
 
 ## DataStructure
 
--
+- [Big-O]()
