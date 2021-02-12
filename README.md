@@ -29,7 +29,8 @@
 #### Weekly Contest 226
 
 - [1742. Maximum Number of Balls in a Box](https://velog.io/@dev_taehyun/LeetCode)
-- [1743. Restore the Array From Adjacent Pairs]()
+- [1743. Restore the Array From Adjacent Pairs](https://velog.io/@dev_taehyun/LeetCode-Weekly-Contest-226-1743.-Restore-the-Array-From-Adjacent-Pairs)
+- [1744. Can You Eat Your Favorite Candy on Your Favorite Day?](https://velog.io/@dev_taehyun/LeetCode-Weekly-Contest-226-1744.-Can-You-Eat-Your-Favorite-Candy-on-Your-Favorite-Day)
 
 ## Algorithm
 
