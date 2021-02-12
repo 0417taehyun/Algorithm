@@ -6,7 +6,8 @@
 
 - [LeetCode](#leetcode)
   - [String Manipulation](#string-manipulation)
-- [Programmers](#programmers)
+  - [Contest](#contest)
+- [Algorithm](#algorithm)
 - [DataStructure](#datastructure)
 
 ## LeetCode
@@ -19,6 +20,8 @@
 - [0819. Most Common Word](https://velog.io/@dev_taehyun/0819.-Most-Common-Word)
 - [0049. Group Anagrams](https://velog.io/@dev_taehyun/0049.-Group-Anagrams)
 - [0005. Longest Palindromic Substring](https://velog.io/@dev_taehyun/0005.-Longest-Palidromic-Substring-2bzkb4hy)
+
+### Array
 - [0001. Two Sum](https://velog.io/@dev_taehyun/LeetCode-0001.-Two-Sum)
 
 ### Contest
@@ -26,8 +29,38 @@
 #### Weekly Contest 226
 
 - [1742. Maximum Number of Balls in a Box](https://velog.io/@dev_taehyun/LeetCode)
--
+- [1743. Restore the Array From Adjacent Pairs]()
+
+## Algorithm
+
+### Sorting
+- 
+
+### Search
+- 
+
+### Bit
+- 
+
+### Sliding Window
+- 
+
+### Greedy
+- 
+
+### Divide and Conquer
+- 
+
+### Daynamic Programming
+- 
+
 
 ## DataStructure
 
+### Big-O
+
 - [Big-O]()
+
+### Linear
+
+- [Array]()
