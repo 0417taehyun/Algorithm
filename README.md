@@ -60,8 +60,8 @@
 
 ### Big-O
 
-- [Big-O]()
+- [Big-O](https://velog.io/@dev_taehyun/Data-Structure-Big-O)
 
 ### Linear
 
-- [Array]()
+- [Array](https://velog.io/@dev_taehyun/Data-Structure-Array)
