@@ -30,3 +30,4 @@
 |                                           문제                                           |                                      코드                                       |               풀이               |     일자     |
 | :--------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :------------------------------: | :----------: |
 | [고양이와 개는 몇 마리 있을까](https://programmers.co.kr/learn/courses/30/lessons/59040) | [1_count_cats_and_dogs.sql](/Programmers/SQL/LEVEL_2/1_count_cats_and_dogs.sql) | [고양이와 개는 몇 마리 있을까]() | 2022. 03. 18 |
+|       [루시와 엘라 찾기](https://programmers.co.kr/learn/courses/30/lessons/59046)       |  [2_find_lucy_and_ella.sql](/Programmers/SQL/LEVEL_2/2_find_lucy_and_ella.sql)  |       [루시와 엘라 찾기]()       | 2022. 03. 18 |
