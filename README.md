@@ -26,3 +26,7 @@
 |      [상위 n개 레코드](https://programmers.co.kr/learn/courses/30/lessons/59405)      |               [10_top_nth_records.sql](/Programmers/SQL/LEVEL_1/10_top_nth_records.sql)               |           [상위 n개 레코드](https://www.weekwith.me/algorithms/programmers/sql/level-1/10-top-nth-records/)            | 2021. 12. 10 |
 
 #### LEVEL 2
+
+|                                           문제                                           |                                      코드                                       |               풀이               |     일자     |
+| :--------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :------------------------------: | :----------: |
+| [고양이와 개는 몇 마리 있을까](https://programmers.co.kr/learn/courses/30/lessons/59040) | [1_count_cats_and_dogs.sql](/Programmers/SQL/LEVEL_2/1_count_cats_and_dogs.sql) | [고양이와 개는 몇 마리 있을까]() | 2022. 03. 18 |
