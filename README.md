@@ -5,6 +5,7 @@
 - [Programmers](#programmers)
   - [SQL](#sql)
     - [LEVEL 1](#level-1)
+    - [LEVEL 2](#level-2)
 
 ## Programmers
 
@@ -27,8 +28,9 @@
 
 #### LEVEL 2
 
-|                                           문제                                           |                                      코드                                       |               풀이               |     일자     |
-| :--------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :------------------------------: | :----------: |
-| [고양이와 개는 몇 마리 있을까](https://programmers.co.kr/learn/courses/30/lessons/59040) | [1_count_cats_and_dogs.sql](/Programmers/SQL/LEVEL_2/1_count_cats_and_dogs.sql) | [고양이와 개는 몇 마리 있을까]() | 2022. 03. 18 |
-|       [루시와 엘라 찾기](https://programmers.co.kr/learn/courses/30/lessons/59046)       |  [2_find_lucy_and_ella.sql](/Programmers/SQL/LEVEL_2/2_find_lucy_and_ella.sql)  |       [루시와 엘라 찾기]()       | 2022. 03. 19 |
-|        [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)         |        [3_find_minimum.sql](/Programmers/SQL/LEVEL_2/3_find_minimum.sql)        |        [최솟값 구하기]()         | 2022. 03. 19 |
+|                                           문제                                           |                                         코드                                          |               풀이               |     일자     |
+| :--------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :------------------------------: | :----------: |
+| [고양이와 개는 몇 마리 있을까](https://programmers.co.kr/learn/courses/30/lessons/59040) |    [1_count_cats_and_dogs.sql](/Programmers/SQL/LEVEL_2/1_count_cats_and_dogs.sql)    | [고양이와 개는 몇 마리 있을까]() | 2022. 03. 18 |
+|       [루시와 엘라 찾기](https://programmers.co.kr/learn/courses/30/lessons/59046)       |     [2_find_lucy_and_ella.sql](/Programmers/SQL/LEVEL_2/2_find_lucy_and_ella.sql)     |       [루시와 엘라 찾기]()       | 2022. 03. 19 |
+|        [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)         |           [3_find_minimum.sql](/Programmers/SQL/LEVEL_2/3_find_minimum.sql)           |        [최솟값 구하기]()         | 2022. 03. 19 |
+|      [동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041)       | [4_find_same_name_animals.sql](/Programmers/SQL/LEVEL_2/4_find_same_name_animals.sql) |      [동명 동물 수 찾기]()       | 2022. 03. 19 |
