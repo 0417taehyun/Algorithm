@@ -1,0 +1,16 @@
+-- [ 프로그래머스 ] NULL 처리하기
+
+SELECT
+    ANIMAL_TYPE,
+    CASE WHEN NAME IS NULL THEN "No name" ELSE NAME END AS "NAME",
+    SEX_UPON_INTAKE
+FROM ANIMAL_INS;
+
+
+-- 아래와 같이 `COALESCE` 함수를 사용하여 간단하게 NULL 값을 처리할 수도 있다.
+
+SELECT
+    ANIMAL_TYPE,
+    COALESCE(NAME, "No name") AS "NAME",
+    SEX_UPON_INTAKE
+FROM ANIMAL_INS;
