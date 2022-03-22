@@ -1,0 +1,21 @@
+-- [ 프로그래머스 ] 보호소에서 중성화한 동물
+
+SELECT
+    ANIMAL_OUTS.ANIMAL_ID AS ANIMAL_ID,
+    ANIMAL_OUTS.ANIMAL_TYPE AS ANIMAL_TYPE,
+    ANIMAL_OUTS.NAME AS NAME
+FROM ANIMAL_OUTS
+JOIN ANIMAL_INS
+USING (ANIMAL_ID)
+WHERE (
+    (
+        SEX_UPON_INTAKE LIKE "%Intact%"
+    )
+    AND
+    (
+        SEX_UPON_OUTCOME LIKE "%Spayed%"
+        OR
+        SEX_UPON_OUTCOME LIKE "%Neutered%"
+    )
+)
+ORDER BY ANIMAL_ID
