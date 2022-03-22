@@ -6,6 +6,7 @@
   - [SQL](#sql)
     - [LEVEL 1](#level-1)
     - [LEVEL 2](#level-2)
+    - [LEVEL 3](#level-3)
 
 ## Programmers
 
@@ -41,3 +42,9 @@
 |      [중성화 여부 파악하기](https://programmers.co.kr/learn/courses/30/lessons/59409)      |                      [9_neutering_or_not.sql](/Programmers/SQL/LEVEL_2/9_neutering_or_not.sql)                      |      [중성화 여부 파악하기]()      | 2022. 03. 21 |
 |         [중복 제거하기](https://programmers.co.kr/learn/courses/30/lessons/59408)          |              [10_remove_duplicated_value.sql](/Programmers/SQL/LEVEL_2/10_remove_duplicated_value.sql)              |         [중복 제거하기]()          | 2022. 03. 21 |
 |  [DATETIME에서 DATE로 형 변환](https://programmers.co.kr/learn/courses/30/lessons/59414)   |         [11_format_from_datetime_to_date.sql](/Programmers/SQL/LEVEL_2/11_format_from_datetime_to_date.sql)         |  [DATETIME에서 DATE로 형 변환]()   | 2022. 03. 21 |
+
+#### LEVEL 3
+
+|                                     문제                                     |                                 코드                                  |         풀이         |     일자     |
+| :--------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :------------------: | :----------: |
+| [없어진 기록 찾기](https://programmers.co.kr/learn/courses/30/lessons/59042) | [1_find_lost_data.sql](/Programmers/SQL/LEVEL_3/1_find_lost_data.sql) | [없어진 기록 찾기]() | 2022. 03. 22 |
