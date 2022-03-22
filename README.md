@@ -7,6 +7,7 @@
     - [LEVEL 1](#level-1)
     - [LEVEL 2](#level-2)
     - [LEVEL 3](#level-3)
+    - [LEVEL 4](#level-4)
 
 ## Programmers
 
@@ -52,3 +53,9 @@
 | [오랜 기간 보호한 동물(1)](https://programmers.co.kr/learn/courses/30/lessons/59044) |   [3_long_protected_animal_1.sql](/Programmers/SQL/LEVEL_3/3_long_protected_animal_1.sql)   | [오랜 기간 보호한 동물(1)]() | 2022. 03. 22 |
 | [오랜 기간 보호한 동물(2)](https://programmers.co.kr/learn/courses/30/lessons/59411) |   [4_long_protected_animal_2.sql](/Programmers/SQL/LEVEL_3/4_long_protected_animal_2.sql)   | [오랜 기간 보호한 동물(2)]() | 2022. 03. 22 |
 | [헤비 유저가 소유한 장소](https://programmers.co.kr/learn/courses/30/lessons/77487)  | [5_place_owned_by_heavy_user.sql](/Programmers/SQL/LEVEL_3/5_place_owned_by_heavy_user.sql) | [헤비 유저가 소유한 장소]()  | 2022. 03. 22 |
+
+#### LEVEL 4
+
+|                                           문제                                            |                                              코드                                               |               풀이                |     일자     |
+| :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :-------------------------------: | :----------: |
+| [우유와 요거트가 담긴 장바구니](https://programmers.co.kr/learn/courses/30/lessons/62284) | [1_basket_with_milk_and_yogurt.sql](/Programmers/SQL/LEVEL_4/1_basket_with_milk_and_yogurt.sql) | [우유와 요거트가 담긴 장바구니]() | 2022. 03. 23 |
