@@ -50,3 +50,4 @@
 |     [없어진 기록 찾기](https://programmers.co.kr/learn/courses/30/lessons/59042)     |          [1_find_lost_data.sql](/Programmers/SQL/LEVEL_3/1_find_lost_data.sql)          |     [없어진 기록 찾기]()     | 2022. 03. 22 |
 |  [있었는데요 없었습니다](https://programmers.co.kr/learn/courses/30/lessons/59043)   |      [2_it_was_but_was_not.sql](/Programmers/SQL/LEVEL_3/2_it_was_but_was_not.sql)      |  [있었는데요 없었습니다]()   | 2022. 03. 22 |
 | [오랜 기간 보호한 동물(1)](https://programmers.co.kr/learn/courses/30/lessons/59044) | [3_long_protected_animal_1.sql](/Programmers/SQL/LEVEL_3/3_long_protected_animal_1.sql) | [오랜 기간 보호한 동물(1)]() | 2022. 03. 22 |
+| [오랜 기간 보호한 동물(2)](https://programmers.co.kr/learn/courses/30/lessons/59411) | [4_long_protected_animal_2.sql](/Programmers/SQL/LEVEL_3/4_long_protected_animal_2.sql) | [오랜 기간 보호한 동물(2)]() | 2022. 03. 22 |
