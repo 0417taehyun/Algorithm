@@ -59,3 +59,4 @@
 |                                           문제                                            |                                              코드                                               |               풀이                |     일자     |
 | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :-------------------------------: | :----------: |
 | [우유와 요거트가 담긴 장바구니](https://programmers.co.kr/learn/courses/30/lessons/62284) | [1_basket_with_milk_and_yogurt.sql](/Programmers/SQL/LEVEL_4/1_basket_with_milk_and_yogurt.sql) | [우유와 요거트가 담긴 장바구니]() | 2022. 03. 23 |
+|      [입양 시각 구하기(2)](https://programmers.co.kr/learn/courses/30/lessons/59413)      |             [2_find_datetime_2.sql](/Programmers/SQL/LEVEL_4/2_find_datetime_2.sql)             |      [입양 시각 구하기(2)]()      | 2022. 03. 23 |
