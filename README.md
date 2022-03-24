@@ -71,6 +71,7 @@
 
 #### Easy
 
-|                                     문제                                     |                                     코드                                      |            풀이             |     일자     |
-| :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :-------------------------: | :----------: |
-| [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [175_combine_two_tables.sql](/LeetCode/SQL/1_Easy/175_combine_two_tables.sql) | [175. Combine Two Tables]() | 2022. 03. 24 |
+|                                                             문제                                                             |                                                             코드                                                              |                        풀이                         |     일자     |
+| :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------: | :----------: |
+|                         [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                         |                         [175_combine_two_tables.sql](/LeetCode/SQL/1_Easy/175_combine_two_tables.sql)                         |             [175. Combine Two Tables]()             | 2022. 03. 24 |
+| [181. Employess Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [181_employess_earning_more_than_their_managers.sql](/LeetCode/SQL/1_Easy/181_employess_earning_more_than_their_managers.sql) | [181. Employess Earning More Than Their Managers]() | 2022. 03. 24 |
