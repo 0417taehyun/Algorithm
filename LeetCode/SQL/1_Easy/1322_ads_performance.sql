@@ -8,6 +8,10 @@ COALESCE 함수의 경우 여러 인자를 받아서 가장 먼저 마주하게 
 이때 SUM 함수는 COUNT 함수와 달리 내부 조건에 따라서 합산하는 로우(Row)를 결정할 수 있기 때문에 SUM 함수를 사용하였고,
 action="Clicked"과 같은 조건을 통해서 해당 BOOL 형태의 값은 TRUE일 경우 1, FALSE일 경우 0을 반환하기 때문에 이를 바탕으로 계산할 수 있다.
 추가적으로 0을 분모로 해서 나눌 경우 자동으로 `NULL` 값을 반환하기 때문에 따로 DIVISION ERROR와 같은 예외 사항은 생각하지 않아도 된다.
+
+** 추가
+ERROR_FOR_DIVISON_BY_ZEOR의 경우 SQL 모드에 관한 사항이다.
+자세한 내용은 1435. Create A Session Bar Chart 문제를 확인하면 된다.
 */
 
 SELECT
