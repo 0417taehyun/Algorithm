@@ -16,12 +16,8 @@ DBMS가 데이터베이스 테이블의 모든 데이터를 검색해서 원하�
 
 추가적으로 별다른 인덱스 없이 데이터베이스 내 테이블의 전체 값을 조회하는 것을 풀 테이블 스캔(Full Table Scan)이라 한다.
 
-인덱스는 두 개의 키로 분류될 수 있다.
 
-먼저 기본 키(Primary Key)가 있는데 레코드를 대표하는 컬럼의 값으로 만들어진 인덱스다. NULL 겂과 중복을 허용하지 않는 게 특징이다.
-다음으로 대체 키(Secondary Key)가 있는데 
-
-구조에 따라 아래와 같이 세 개의 인덱스로 구분할 수 있다.
+인덱스는 구조에 따라 아래와 같이 세 개의 인덱스로 구분할 수 있다.
 
 먼저 B-TREE 인덱스다. 데이터를 트리 구조로 저장하는 형태로 대부분의 인덱스는 이를 사용 중이다.
 예를 들어 별다른 수식 없이 CREATE INDEX 명령문을 실행하면 자동으로 B-TREE 인덱스를 생성한다.
@@ -42,14 +38,38 @@ B+TREE를 사용하는 가장 큰 이유 중 하나는 루트와 리프의 거�
 또한 PostgreSQL, Oracle 내에서의 반대 키 인덱스(Reverse Key Index)와 같이 한정적인 데이터베이스에서만 구현을 지원한다.
 이때 등가 검색이란 등가 비교 검색이라고도 하며 값이 같은지 혹은 다른지 비교하여 검색하는 걸 의미한다.
 
+
 기본적으로 B+TREE 인덱스를 사용하기 때문에 이에 대해 조금 더 자세히 살펴보고자 한다.
-우선 쉽게 키(Key)에 
 
-There is one small change that can improve the performance.
-Since we have a primary key on these columns (program_date, content_id). the program_date is indexed (which is commonly done using B-TREE indexes).
-The date checking part in your query does not utilize the indexes. The query optimizer should extract the month and the year for each date which means that all the rows have to be scanned and the indexes are not utilized.
-If we change the date checking part to p.program_date BETWEEN '2020-06-01' AND '2020-06-30', then the query optimizer will be able to quickly filter the rows without scannign all the rows.
+루트 노드(Root Node), 브랜치 노드(Branch Node), 끝으로 리프 노드(Leaf Node)로 구성된다.
+이때 리프 노드에는 실제 데이터 값을 찾아가기 위한 주소 값이 저장되어 있다.
 
+인덱스를 검색하는 작업은 루트 노드부터 시작해 브랜치 노드를 거쳐 최종 리프 노드까지 이동하면 비교하는 작업을 수행하게 된다.
+이러한 트리 검색은 앞서 말했던 것처럼 UPDATE, DELETE를 위해 데이터를 조회할 때도 발생하는데 이때 `LIKE '%___%'`와 같은 문법을 사용할 경우 인덱스를 사용하지 않게 된다.
+왜냐하면 인덱스는 검색 결과가 100% 일치하는 경우 혹은 값의 앞 부분만 일치하는 경우에 사용할 수 있기 때문이다.
+
+결론적으로 인덱스를 통해 검색 속도의 향상을 노려볼 수 있지만 반대로 이를 저장하기 위해 추가적인 공간이 필요하고
+더욱이 INSERT, UPDATE, DELETE가 빈번할 경우 오히려 성능을 저하시킬 수 있기 때문에 상황에 따라 유의하여 사용해야 한다.
+
+인덱스를 잘 활용하기 위해서는 카디널리티와 선택률, 그리고 클러스터링 팩터(Clustering Factor) 등에 대해서도 고민해야 한다.
+또한 B+TREE 관련 개념으로 키와 깊이(Depth)에 대한 부분, 그리고 더 나아가 랜덤 I/O와 순차 I/O 같은 디스크 읽기 방식에 대해서도 알면 좋은데 이는 추가적으로 추후에 알아볼 예정이다.
+
+
+이러한 상황에서 다시 문제로 넘어와보면 program_date 필드가 기본 키이기 때문에 기본적으로 인덱싱 되어 있다.
+따라서 MONTH 함수 및 YEAR 함수는 모든 로우(Row)의 개별 program_date 필드 값에 대해 실행되기 때문에 상당히 비효율적이다.
+따라서 해당 함수 대신 BETWEEN 조건을 사용할 경우 모든 로우를 조회하지 않고 최적화 작업을 진행할 수 있게 된다.
+
+결론적으로 쿼리로 표현하면 아래와 같다.
+
+SELECT title
+FROM Content
+JOIN (
+    SELECT DISTINCT content_id AS content_id
+    FROM TVProgram
+    WHERE program_date BETWEEN '2020.06.01' AND '2020.06.30'
+) AS Filtered_TVProgram
+USING (content_id)
+WHERE Kids_Content = 'Y' AND content_type = 'Movies'
 */
 
 SELECT title
