@@ -159,3 +159,9 @@
 |                             [2082. The Number of Rich Customers](https://leetcode.com/problems/the-number-of-rich-customers/)                             |                             [2082_the_number_of_rich_customers.sql](/LeetCode/SQL/1_Easy/2082_the_number_of_rich_customers.sql)                             |               [2082. The Number of Rich Customers]()               | 2022. 04. 23 |
 |       [2205. The Number of Users That Are Eligible for Discount](https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount/)       |       [2205_the_number_of_users_that_are_eligible_for_discount.sql](/LeetCode/SQL/1_Easy/2205_the_number_of_users_that_are_eligible_for_discount.sql)       |    [2205. The Number of Users That Are Eligible for Discount]()    | 2022. 04. 23 |
 |                 [2230. The Users That Are Eligible for Discount](https://leetcode.com/problems/the-users-that-are-eligible-for-discount/)                 |                 [2230_the_users_that_are_eligible_for_discount.sql](/LeetCode/SQL/1_Easy/2230_the_users_that_are_eligible_for_discount.sql)                 |         [2230. The Users That Are Eligible for Discount]()         | 2022. 04. 23 |
+
+#### Medium
+
+|                                        문제                                        |                                         코드                                          |              풀이              |     일자     |
+| :--------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :----------------------------: | :----------: |
+| [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [176_second_highest_salary.sql](/LeetCode/SQL/2_Medium/176_second_highest_salary.sql) | [176. Second Highest Salary]() | 2022. 04. 24 |
