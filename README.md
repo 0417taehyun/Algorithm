@@ -166,3 +166,4 @@
 | :--------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :----------------------------: | :----------: |
 | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [176_second_highest_salary.sql](/LeetCode/SQL/2_Medium/176_second_highest_salary.sql) | [176. Second Highest Salary]() | 2022. 04. 24 |
 |    [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)    |    [177_nth_highest_salary.sql](/LeetCode/SQL/2_Medium/177_nth_highest_salary.sql)    |  [177. Nth Highest Salary]()   | 2022. 04. 24 |
+|           [178. Rank Scores](https://leetcode.com/problems/rank-scores/)           |           [178_rank_scores.sql](/LeetCode/SQL/2_Medium/178_rank_scores.sql)           |      [178. Rank Scores]()      | 2022. 04. 25 |
