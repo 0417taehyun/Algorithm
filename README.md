@@ -170,3 +170,4 @@
 |               [178. Rank Scores](https://leetcode.com/problems/rank-scores/)               |               [178_rank_scores.sql](/LeetCode/SQL/2_Medium/178_rank_scores.sql)               |        [178. Rank Scores]()        | 2022. 04. 25 |
 |       [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)       |       [180_consecutive_numbers.sql](/LeetCode/SQL/2_Medium/180_consecutive_numbers.sql)       |    [180. Consecutive Numbers]()    | 2022. 04. 25 |
 | [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [184_department_highest_salary.sql](/LeetCode/SQL/2_Medium/184_department_highest_salary.sql) | [184. Department Highest Salary]() | 2022. 04. 26 |
+|    [534. Game Play Analysis III](https://leetcode.com/problems/game-play-analysis-iii/)    |    [534_game_play_analysis_III.sql](/LeetCode/SQL/2_Medium/534_game_play_analysis_III.sql)    |  [534. Game Play Analysis III]()   | 2022. 04. 26 |
