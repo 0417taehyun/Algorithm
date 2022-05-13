@@ -23,5 +23,5 @@ JOIN (
 ) AS UniqueProductOrders
 USING (customer_id)
 GROUP BY Customers.customer_id
-HAVING SUM(CASE WHEN product_name = 'A' OR product_name ='B' THEN 1 WHEN product_name = 'c' THEN -1 END) = 2
+HAVING SUM(CASE WHEN product_name = 'A' OR product_name ='B' THEN 1 WHEN product_name = 'C' THEN -1 END) = 2
 ORDER BY customer_id;
