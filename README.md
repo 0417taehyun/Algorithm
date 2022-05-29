@@ -242,3 +242,4 @@
 | 문제                                                                                               | 코드                                                                                                | 일자         |
 | :------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- | :----------- |
 | [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [185_department_top_three_salaries.sql](/LeetCode/SQL/3_Hard/185_department_top_three_salaries.sql) | 2022. 05. 30 |
+| [262. Trips and Users](https://leetcode.com/problems/trips-and-users/)                             | [262_trips_and_users.sql](/LeetCode/SQL/3_Hard/262_trips_and_users.sql)                             | 2022. 05. 30 |
