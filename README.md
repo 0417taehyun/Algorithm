@@ -12,6 +12,7 @@
   - [SQL](#sql-1)
     - [Easy](#easy)
     - [Medium](#medium)
+    - [Hard](#hard)
 
 ## Programmers
 
@@ -235,3 +236,9 @@
 | [1951. All the Pairs With the Maximum Number of Common Followers](https://leetcode.com/problems/all-the-pairs-with-the-maximum-number-of-common-followers/) | [1951_all_the_pairs_with_the_maximum_number_of_common_followers.sql](/LeetCode/SQL/2_Medium/1951_all_the_pairs_with_the_maximum_number_of_common_followers.sql) | 2022. 05. 29 |
 | [1270. All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/)                                       | [1270_all_people_report_to_the_given_manager.sql](/LeetCode/SQL/2_Medium/1270_all_people_report_to_the_given_manager.sql)                                       | 2022. 05. 30 |
 | [1270. All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/)                                       | [1949_strong_friendship.sql](/LeetCode/SQL/2_Medium/1949_strong_friendship.sql)                                                                                 | 2022. 05. 30 |
+
+#### Hard
+
+| 문제                                                                                               | 코드                                                                                                | 일자         |
+| :------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- | :----------- |
+| [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [185_department_top_three_salaries.sql](/LeetCode/SQL/3_Hard/185_department_top_three_salaries.sql) | 2022. 05. 30 |
