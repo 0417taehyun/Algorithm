@@ -239,6 +239,7 @@
 | [1990. Count the Number of Experiments](https://leetcode.com/problems/count-the-number-of-experiments/)                                                     | [1990_count_the_number_of_experiments.sql](/LeetCode/SQL/2_Medium/1990_count_the_number_of_experiments.sql)                                                     | 2022. 05. 31 |
 | [2020. Number of Accounts That Did Not Stream](https://leetcode.com/problems/number-of-accounts-that-did-not-stream/)                                       | [2020_number_of_accounts_that_did_not_stream.sql](/LeetCode/SQL/2_Medium/2020_number_of_accounts_that_did_not_stream.sql)                                       | 2022. 05. 31 |
 | [2041. Accepted Candidates From the Interviews](https://leetcode.com/problems/accepted-candidates-from-the-interviews/)                                     | [2041_accepted_candidates_from_the_interviews.sql](/LeetCode/SQL/2_Medium/2041_accepted_candidates_from_the_interviews.sql)                                     | 2022. 06. 01 |
+| [2051. The Category of Each Member in the Store](https://leetcode.com/problems/the-category-of-each-member-in-the-store/)                                   | [2051_the_category_of_each_member_in_the_store.sql](/LeetCode/SQL/2_Medium/2051_the_category_of_each_member_in_the_store.sql)                                   | 2022. 06. 01 |
 
 #### Hard
 
