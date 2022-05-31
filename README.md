@@ -237,6 +237,7 @@
 | [1270. All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/)                                       | [1270_all_people_report_to_the_given_manager.sql](/LeetCode/SQL/2_Medium/1270_all_people_report_to_the_given_manager.sql)                                       | 2022. 05. 30 |
 | [1949. Strong Friendship](https://leetcode.com/problems/strong-friendship/)                                                                                 | [1949_strong_friendship.sql](/LeetCode/SQL/2_Medium/1949_strong_friendship.sql)                                                                                 | 2022. 05. 30 |
 | [1990. Count the Number of Experiments](https://leetcode.com/problems/count-the-number-of-experiments/)                                                     | [1990_count_the_number_of_experiments.sql](/LeetCode/SQL/2_Medium/1990_count_the_number_of_experiments.sql)                                                     | 2022. 05. 31 |
+| [2020. Number of Accounts That Did Not Stream](https://leetcode.com/problems/number-of-accounts-that-did-not-stream/)                                       | [2020_number_of_accounts_that_did_not_stream.sql](/LeetCode/SQL/2_Medium/2020_number_of_accounts_that_did_not_stream.sql)                                       | 2022. 05. 31 |
 
 #### Hard
 
