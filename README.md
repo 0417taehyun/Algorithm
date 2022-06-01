@@ -245,6 +245,7 @@
 | [2112. The Airport With the Most Traffic](https://leetcode.com/problems/the-airport-with-the-most-traffic/)                                                 | [2112_the_airport_with_the_most_traffic.sql](/LeetCode/SQL/2_Medium/2112_the_airport_with_the_most_traffic.sql)                                                 | 2022. 06. 02 |
 | [2142. The Number of Passengers in Each Bus I](https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i/)                                       | [2142_the_number_of_passengers_in_each_bus_I.sql](/LeetCode/SQL/2_Medium/2142_the_number_of_passengers_in_each_bus_I.sql)                                       | 2022. 06. 02 |
 | [2159. Order Two Columns Independently](https://leetcode.com/problems/order-two-columns-independently/)                                                     | [2159_order_two_columns_independently.sql](/LeetCode/SQL/2_Medium/2159_order_two_columns_independently.sql)                                                     | 2022. 06. 02 |
+| [2175. The Change in Global Rankings](https://leetcode.com/problems/the-change-in-global-rankings/)                                                         | [2175_the_change_in_global_rankings.sql](/LeetCode/SQL/2_Medium/2175_the_change_in_global_rankings.sql)                                                         | 2022. 06. 02 |
 
 #### Hard
 
