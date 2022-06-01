@@ -244,6 +244,7 @@
 | [2084. Drop Type 1 Orders for Customers With Type 0 Orders](https://leetcode.com/problems/drop-type-1-orders-for-customers-with-type-0-orders/)             | [2084_drop_type_1_orders_for_customers_with_type_0_orders.sql](/LeetCode/SQL/2_Medium/2084_drop_type_1_orders_for_customers_with_type_0_orders.sql)             | 2022. 06. 02 |
 | [2112. The Airport With the Most Traffic](https://leetcode.com/problems/the-airport-with-the-most-traffic/)                                                 | [2112_the_airport_with_the_most_traffic.sql](/LeetCode/SQL/2_Medium/2112_the_airport_with_the_most_traffic.sql)                                                 | 2022. 06. 02 |
 | [2142. The Number of Passengers in Each Bus I](https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i/)                                       | [2142_the_number_of_passengers_in_each_bus_I.sql](/LeetCode/SQL/2_Medium/2142_the_number_of_passengers_in_each_bus_I.sql)                                       | 2022. 06. 02 |
+| [2159. Order Two Columns Independently](https://leetcode.com/problems/order-two-columns-independently/)                                                     | [2159_order_two_columns_independently.sql](/LeetCode/SQL/2_Medium/2159_order_two_columns_independently.sql)                                                     | 2022. 06. 02 |
 
 #### Hard
 
