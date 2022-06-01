@@ -242,6 +242,7 @@
 | [2051. The Category of Each Member in the Store](https://leetcode.com/problems/the-category-of-each-member-in-the-store/)                                   | [2051_the_category_of_each_member_in_the_store.sql](/LeetCode/SQL/2_Medium/2051_the_category_of_each_member_in_the_store.sql)                                   | 2022. 06. 01 |
 | [2066. Account Balance](https://leetcode.com/problems/account-balance/)                                                                                     | [2066_account_balance.sql](/LeetCode/SQL/2_Medium/2066_account_balance.sql)                                                                                     | 2022. 06. 01 |
 | [2084. Drop Type 1 Orders for Customers With Type 0 Orders](https://leetcode.com/problems/drop-type-1-orders-for-customers-with-type-0-orders/)             | [2084_drop_type_1_orders_for_customers_with_type_0_orders.sql](/LeetCode/SQL/2_Medium/2084_drop_type_1_orders_for_customers_with_type_0_orders.sql)             | 2022. 06. 02 |
+| [22112. The Airport With the Most Traffic](https://leetcode.com/problems/the-airport-with-the-most-traffic/)                                                | [2112_the_airport_with_the_most_traffic.sql](/LeetCode/SQL/2_Medium/2112_the_airport_with_the_most_traffic.sql)                                                 | 2022. 06. 02 |
 
 #### Hard
 
