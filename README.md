@@ -247,6 +247,7 @@
 | [2159. Order Two Columns Independently](https://leetcode.com/problems/order-two-columns-independently/)                                                     | [2159_order_two_columns_independently.sql](/LeetCode/SQL/2_Medium/2159_order_two_columns_independently.sql)                                                     | 2022. 06. 02 |
 | [2175. The Change in Global Rankings](https://leetcode.com/problems/the-change-in-global-rankings/)                                                         | [2175_the_change_in_global_rankings.sql](/LeetCode/SQL/2_Medium/2175_the_change_in_global_rankings.sql)                                                         | 2022. 06. 02 |
 | [2228. Users With Two Purchases Within Seven Days](https://leetcode.com/problems/users-with-two-purchases-within-seven-days/)                               | [2228_users_with_two_purchases_within_seven_days.sql](/LeetCode/SQL/2_Medium/2228_users_with_two_purchases_within_seven_days.sql)                               | 2022. 06. 02 |
+| [2238. Number of Times a Driver Was a Passenger](https://leetcode.com/problems/number-of-times-a-driver-was-a-passenger/)                                   | [2238_number_of_times_a_driver_was_a_passenger.sql](/LeetCode/SQL/2_Medium/2238_number_of_times_a_driver_was_a_passenger.sql)                                   | 2022. 06. 02 |
 
 #### Hard
 
