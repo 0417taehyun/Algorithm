@@ -246,6 +246,7 @@
 | [2142. The Number of Passengers in Each Bus I](https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i/)                                       | [2142_the_number_of_passengers_in_each_bus_I.sql](/LeetCode/SQL/2_Medium/2142_the_number_of_passengers_in_each_bus_I.sql)                                       | 2022. 06. 02 |
 | [2159. Order Two Columns Independently](https://leetcode.com/problems/order-two-columns-independently/)                                                     | [2159_order_two_columns_independently.sql](/LeetCode/SQL/2_Medium/2159_order_two_columns_independently.sql)                                                     | 2022. 06. 02 |
 | [2175. The Change in Global Rankings](https://leetcode.com/problems/the-change-in-global-rankings/)                                                         | [2175_the_change_in_global_rankings.sql](/LeetCode/SQL/2_Medium/2175_the_change_in_global_rankings.sql)                                                         | 2022. 06. 02 |
+| [2228. Users With Two Purchases Within Seven Days](https://leetcode.com/problems/users-with-two-purchases-within-seven-days/)                               | [2228_users_with_two_purchases_within_seven_days.sql](/LeetCode/SQL/2_Medium/2228_users_with_two_purchases_within_seven_days.sql)                               | 2022. 06. 02 |
 
 #### Hard
 
