@@ -251,8 +251,9 @@
 
 #### Hard
 
-| 문제                                                                                                            | 코드                                                                                                              | 일자         |
-| :-------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------- | :----------- |
-| [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)              | [185_department_top_three_salaries.sql](/LeetCode/SQL/3_Hard/185_department_top_three_salaries.sql)               | 2022. 05. 30 |
-| [262. Trips and Users](https://leetcode.com/problems/trips-and-users/)                                          | [262_trips_and_users.sql](/LeetCode/SQL/3_Hard/262_trips_and_users.sql)                                           | 2022. 05. 30 |
-| [1369. Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | [1369_get_the_second_most_recent_activity.sql](/LeetCode/SQL/3_Hard/1369_get_the_second_most_recent_activity.sql) | 2022. 06. 03 |
+| 문제                                                                                                              | 코드                                                                                                                | 일자         |
+| :---------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ | :----------- |
+| [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)                | [185_department_top_three_salaries.sql](/LeetCode/SQL/3_Hard/185_department_top_three_salaries.sql)                 | 2022. 05. 30 |
+| [262. Trips and Users](https://leetcode.com/problems/trips-and-users/)                                            | [262_trips_and_users.sql](/LeetCode/SQL/3_Hard/262_trips_and_users.sql)                                             | 2022. 05. 30 |
+| [1369. Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/)   | [1369_get_the_second_most_recent_activity.sql](/LeetCode/SQL/3_Hard/1369_get_the_second_most_recent_activity.sql)   | 2022. 06. 03 |
+| [1412. Find the Quiet Students in All Exams](https://leetcode.com/problems/find-the-quiet-students-in-all-exams/) | [1412_find_the_quiet_students_in_all_exams.sql](/LeetCode/SQL/3_Hard/1412_find_the_quiet_students_in_all_exams.sql) | 2022. 06. 04 |
