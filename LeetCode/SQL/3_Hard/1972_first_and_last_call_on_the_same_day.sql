@@ -66,6 +66,7 @@ FROM cte;
 만약 아래 UNION ALL 키워드 다음에 오는 SELECT 구에서 첫 번째 필드를 `caller_id AS recipient_id`와 같이 정의할 경우
 앞선 필드에서 첫 번째 필드가 caller_id 필드이기 때문에 이름에 따라 이것이 자동으로 매칭되어지는 게 아니라 순서대로 매칭이 되어
 정의한 대로 recipient_id 필드가 아닌 caller_id 필드가 된다.
+
 따라서 UNION 또는 UNION ALL 구를 사용할 때는 SELECT 구에서 필드를 정의할 때 그 순서에 유의해야 한다.
 */
 
