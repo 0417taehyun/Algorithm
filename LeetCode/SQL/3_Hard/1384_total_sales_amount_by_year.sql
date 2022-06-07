@@ -30,5 +30,33 @@ GROUP BY Product.product_id, YEAR(YearsPoints.start_date)
 ORDER BY product_id ASC, report_year ASC;
 
 
+/*
+아래와 같이 WITH RECURSIVE 구에서 period_start 필드 및 period_end 사이에 있는 모든 sale_date 필드를 구하여 확장성 있는 쿼리를 만들 수 있다.
+이렇게 할 경우 이전 풀이와 다르게 연도가 유동적으로 주어지더라도 해결 가능하기 때문이다.
+*/
 
+WITH RECURSIVE cte (product_id, sale_date) AS (
+    SELECT
+        product_id,
+        period_start AS sale_date
+    FROM Sales
+    UNION ALL
+    SELECT
+        product_id,
+        DATE_ADD(sale_date, INTERVAL 1 DAY) AS sale_date
+    FROM cte
+    WHERE sale_date < (SELECT period_end FROM Sales WHERE cte.product_id = Sales.product_id)
+)
 
+SELECT 
+    CAST(Product.product_id AS CHAR) AS product_id,
+    Product.product_name,
+    DATE_FORMAT(cte.sale_date, "%Y") AS report_year,
+    SUM(average_daily_sales) AS total_amount
+FROM Product
+JOIN Sales
+USING (product_id)
+JOIN cte
+USING (product_id)
+GROUP BY Product.product_id, report_year
+ORDER BY product_id ASC, report_year ASC;
