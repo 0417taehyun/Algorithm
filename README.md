@@ -13,6 +13,9 @@
     - [Easy](#easy)
     - [Medium](#medium)
     - [Hard](#hard)
+- [Baekjoon](#baekjoon)
+  - [Python](#python)
+    - [Silver](#silver)
 
 ## Programmers
 
@@ -273,3 +276,26 @@
 | [1127. User Purchase Platform](https://leetcode.com/problems/user-purchase-platform/)                                                                                 | [1127_user_purchase_platform.sql](/LeetCode/SQL/3_Hard/1127_user_purchase_platform.sql)                                                                     | 2022. 06. 11 |
 | [1159. Market Analysis II](https://leetcode.com/problems/market-analysis-ii/)                                                                                         | [1159_market_analysis_II.sql](/LeetCode/SQL/3_Hard/1159_market_analysis_II.sql)                                                                             | 2022. 06. 11 |
 | [1194. Tournament Winners](https://leetcode.com/problems/tournament-winners/)                                                                                         | [1194_tournament_winners.sql](/LeetCode/SQL/3_Hard/1194_tournament_winners.sql)                                                                             | 2022. 06. 11 |
+
+## Baekjoon
+
+### Python
+
+#### Silver
+
+<table>
+<tr>
+    <th> 문제 </th>
+    <th> 분류 </th>
+    <th> 코드 </th>
+    <th> 풀이 </th>
+    <th> 일자 </th>
+</tr>
+<tr align="center">
+    <td> <a href="https://www.acmicpc.net/problem/11399">11399번: ATM</a> </td>
+    <td> 그리디 알고리즘, 정렬 </td>
+    <td> <a href="./Baekjoon/Python/02_Silver/11399.py"> 11399.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-11399-ATM"> [ 알고리즘 ] 백준 11399번: ATM </a> </td>
+    <td> 2022. 06. 11 </td>
+</tr>
+</table>
