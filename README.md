@@ -1202,6 +1202,12 @@
     <td> <a href="./LeetCode/SQL/3_Hard/1194_tournament_winners.sql"> 1194_tournament_winners.sql </a> </td>
     <td> 2022. 06. 11 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/number-of-transactions-per-visit/"> 1336. Number of Transactions per Visit
+ </a> </td>
+    <td> <a href="./LeetCode/SQL/3_Hard/1336_number_of_transactions_per_visit.sql"> 1336_number_of_transactions_per_visit.sql </a> </td>
+    <td> 2022. 06. 12 </td>
+</tr>
 </table>
 
 </details>
