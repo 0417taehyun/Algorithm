@@ -1239,6 +1239,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-11399-ATM"> [ 알고리즘 ] 백준 11399번: ATM </a> </td>
     <td> 2022. 06. 11 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/1439">1439번: 뒤집기</a> </td>
+    <td> 문자열, 그리디 알고리즘 </td>
+    <td> <a href="./Baekjoon/Python/02_Silver/1439.py"> 1439.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-1439"> [ 알고리즘 ] 백준 1439번: 뒤집기 </a> </td>
+    <td> 2022. 06. 13 </td>
+</tr>
 </table>
 
 </details>
