@@ -1203,10 +1203,14 @@
     <td> 2022. 06. 11 </td>
 </tr>
 <tr align="left">
-    <td> <a href="https://leetcode.com/problems/number-of-transactions-per-visit/"> 1336. Number of Transactions per Visit
- </a> </td>
+    <td> <a href="https://leetcode.com/problems/number-of-transactions-per-visit/"> 1336. Number of Transactions per Visit </a> </td>
     <td> <a href="./LeetCode/SQL/3_Hard/1336_number_of_transactions_per_visit.sql"> 1336_number_of_transactions_per_visit.sql </a> </td>
     <td> 2022. 06. 12 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/sales-by-day-of-the-week/"> 1479. Sales by Day of the Week </a> </td>
+    <td> <a href="./LeetCode/SQL/3_Hard/1479_sales_by_day_of_the_week.sql"> 1479_sales_by_day_of_the_week.sql </a> </td>
+    <td> 2022. 06. 13 </td>
 </tr>
 </table>
 
