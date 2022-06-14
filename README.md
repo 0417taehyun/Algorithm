@@ -1093,6 +1093,11 @@
     <td> <a href="./LeetCode/SQL/2_Medium/2292_products_with_three_or_more_orders_in_two_consecutive_years.sql"> 2292_products_with_three_or_more_orders_in_two_consecutive_years.sql </a> </td>
     <td> 2022. 06. 09 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/tasks-count-in-the-weekend/"> 2298. Tasks Count in the Weekend </a> </td>
+    <td> <a href="./LeetCode/SQL/2_Medium/2298_tasks_count_in_the_weekend.sql"> 2298_tasks_count_in_the_weekend.sql</a> </td>
+    <td> 2022. 06. 15 </td>
+</tr>
 </table>
 
 </details>
