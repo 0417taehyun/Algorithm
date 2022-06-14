@@ -1251,6 +1251,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-1439"> [ 알고리즘 ] 백준 1439번: 뒤집기 </a> </td>
     <td> 2022. 06. 13 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/1026">1026번: 보물</a> </td>
+    <td> 수학, 그리디 알고리즘, 정렬 </td>
+    <td> <a href="./Baekjoon/Python/02_Silver/1026.py"> 1026.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-1026"> [ 알고리즘 ] 백준 1026번: 보물 </a> </td>
+    <td> 2022. 06. 14 </td>
+</tr>
 </table>
 
 </details>
