@@ -5,7 +5,7 @@
 Recursive CTE (Common Table Expression) 에서는 집계 함수(Aggregation Function) 또는 윈도우 함수(Window Function)를 사용하지 못한다는 걸 알게 되었다.
 
 이후 단순히 Months 테이블만 WITH RECURSIVE 구를 활용해 임시 테이블로 만들고
-해당 테이블에 각각의 ActiverDriversCount 테이블과 AcceptedRidesCount 테이블을 LEFT JOIN 구로 결합하려 했는데
+해당 테이블에 각각의 ActiveDriversCount 테이블과 AcceptedRidesCount 테이블을 LEFT JOIN 구로 결합하려 했는데
 이럴 경우 한번만 작성되고 SUM 또는 COUNT 함수가 작동되어야 하는 게 여러 번 중복되는 레코드로 인해 오작동하게 되어 원하는 값보다 훨씬 큰 값을 얻게 된다.
 예를 들어 3월 이전의 ActiverDriversCount 테이블의 수가 6개이면 결국 Months 테이블에 만들어지는 month 필드의 값이 `3`인 행이 6개이기 때문에 AcceptedRides 테이블이 하나씩 결합이 되더라도 6번 반복되게 된다.
 
