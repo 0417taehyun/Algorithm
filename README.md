@@ -1248,25 +1248,32 @@
     <th> 일자 </th>
 </tr>
 <tr align="left">
-    <td> <a href="https://www.acmicpc.net/problem/11399">11399번: ATM</a> </td>
+    <td> <a href="https://www.acmicpc.net/problem/11399"> 11399번: ATM </a> </td>
     <td> 그리디 알고리즘, 정렬 </td>
     <td> <a href="./Baekjoon/Python/02_Silver/11399.py"> 11399.py </a> </td>
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-11399-ATM"> [ 알고리즘 ] 백준 11399번: ATM </a> </td>
     <td> 2022. 06. 11 </td>
 </tr>
 <tr align="left">
-    <td> <a href="https://www.acmicpc.net/problem/1439">1439번: 뒤집기</a> </td>
+    <td> <a href="https://www.acmicpc.net/problem/1439"> 1439번: 뒤집기 </a> </td>
     <td> 문자열, 그리디 알고리즘 </td>
     <td> <a href="./Baekjoon/Python/02_Silver/1439.py"> 1439.py </a> </td>
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-1439"> [ 알고리즘 ] 백준 1439번: 뒤집기 </a> </td>
     <td> 2022. 06. 13 </td>
 </tr>
 <tr align="left">
-    <td> <a href="https://www.acmicpc.net/problem/1026">1026번: 보물</a> </td>
+    <td> <a href="https://www.acmicpc.net/problem/1026"> 1026번: 보물 </a> </td>
     <td> 수학, 그리디 알고리즘, 정렬 </td>
     <td> <a href="./Baekjoon/Python/02_Silver/1026.py"> 1026.py </a> </td>
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-1026"> [ 알고리즘 ] 백준 1026번: 보물 </a> </td>
     <td> 2022. 06. 14 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2217"> 2217번: 로프 </a> </td>
+    <td> 수학, 그리디 알고리즘, 정렬 </td>
+    <td> <a href="./Baekjoon/Python/02_Silver/2217.py"> 2217.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-2217"> [ 알고리즘 ] 백준 2217번: 로프 </a> </td>
+    <td> 2022. 06. 15 </td>
 </tr>
 </table>
 
