@@ -1222,6 +1222,11 @@
     <td> <a href="./LeetCode/SQL/3_Hard/1635_hopper_company_queries_I.sql"> 1635_hopper_company_queries_I.sql </a> </td>
     <td> 2022. 06. 14 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/hopper-company-queries-ii/"> 1645. Hopper Company Queries II </a> </td>
+    <td> <a href="./LeetCode/SQL/3_Hard/1645_hopper_company_queries_II.sql"> 1645_hopper_company_queries_II.sql </a> </td>
+    <td> 2022. 06. 15 </td>
+</tr>
 </table>
 
 </details>
