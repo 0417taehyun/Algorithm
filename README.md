@@ -1297,6 +1297,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-2839"> [ 알고리즘 ] 백준 2839번: 설탕 배달 </a> </td>
     <td> 2022. 06. 16 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/11047"> 11047번: 동전 0 </a> </td>
+    <td> 그리디 알고리즘 </td>
+    <td> <a href="./Baekjoon/Python/02_Silver/11047.py"> 11047.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-11047"> [ 알고리즘 ] 백준 11047번: 동전 0 </a> </td>
+    <td> 2022. 06. 17 </td>
+</tr>
 </table>
 
 </details>
