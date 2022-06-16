@@ -1095,8 +1095,13 @@
 </tr>
 <tr align="left">
     <td> <a href="https://leetcode.com/problems/tasks-count-in-the-weekend/"> 2298. Tasks Count in the Weekend </a> </td>
-    <td> <a href="./LeetCode/SQL/2_Medium/2298_tasks_count_in_the_weekend.sql"> 2298_tasks_count_in_the_weekend.sql</a> </td>
+    <td> <a href="./LeetCode/SQL/2_Medium/2298_tasks_count_in_the_weekend.sql"> 2298_tasks_count_in_the_weekend.sql </a> </td>
     <td> 2022. 06. 15 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/arrange-table-by-gender/"> 2308. Arrange Table by Gender </a> </td>
+    <td> <a href="./LeetCode/SQL/2_Medium/2308_arrange_table_by_gender.sql"> 2308_arrange_table_by_gender.sql </a> </td>
+    <td> 2022. 06. 16 </td>
 </tr>
 </table>
 
