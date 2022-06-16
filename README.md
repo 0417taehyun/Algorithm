@@ -1234,7 +1234,12 @@
 </tr>
 <tr align="left">
     <td> <a href="https://leetcode.com/problems/hopper-company-queries-iii/"> 1651. Hopper Company Queries III </a> </td>
-    <td> <a href="./LeetCode/SQL/3_Hard/1651_hopper_company_queries_III.sql"> 11651_hopper_company_queries_III.sql </a> </td>
+    <td> <a href="./LeetCode/SQL/3_Hard/1651_hopper_company_queries_III.sql"> 1651_hopper_company_queries_III.sql </a> </td>
+    <td> 2022. 06. 16 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/page-recommendations-ii/"> 1892. Page Recommendations II </a> </td>
+    <td> <a href="./LeetCode/SQL/3_Hard/1892_page_recommendations_II.sql"> 1892_page_recommendations_II.sql </a> </td>
     <td> 2022. 06. 16 </td>
 </tr>
 </table>
