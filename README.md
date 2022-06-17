@@ -1304,6 +1304,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-11047"> [ 알고리즘 ] 백준 11047번: 동전 0 </a> </td>
     <td> 2022. 06. 17 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/4673"> 4673번: 셀프 넘버 </a> </td>
+    <td> 수학, 구현, 브루트포스 알고리즘 </td>
+    <td> <a href="./Baekjoon/Python/02_Silver/4673.py"> 4673.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-4673"> [ 알고리즘 ] 백준 4673번: 셀프 넘버 </a> </td>
+    <td> 2022. 06. 17 </td>
+</tr>
 </table>
 
 </details>
