@@ -1247,6 +1247,11 @@
     <td> <a href="./LeetCode/SQL/3_Hard/1917_leetcodify_friends_recommendations.sql"> 1917_leetcodify_friends_recommendations.sql </a> </td>
     <td> 2022. 06. 17 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/leetcodify-similar-friends/"> 1919. Leetcodify Similar Friends </a> </td>
+    <td> <a href="./LeetCode/SQL/3_Hard/1919_leetcodify_similar_friends.sql"> 1919_leetcodify_similar_friends.sql </a> </td>
+    <td> 2022. 06. 18 </td>
+</tr>
 </table>
 
 </details>
