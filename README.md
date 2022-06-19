@@ -1252,6 +1252,11 @@
     <td> <a href="./LeetCode/SQL/3_Hard/1919_leetcodify_similar_friends.sql"> 1919_leetcodify_similar_friends.sql </a> </td>
     <td> 2022. 06. 18 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company/"> 2004. The Number of Seniors and Juniors to Join the Company </a> </td>
+    <td> <a href="./LeetCode/SQL/3_Hard/2004_the_number_of_seniors_and_juniors_to_join_the_company.sql"> 2004_the_number_of_seniors_and_juniors_to_join_the_company.sql </a> </td>
+    <td> 2022. 06. 19 </td>
+</tr>
 </table>
 
 </details>
