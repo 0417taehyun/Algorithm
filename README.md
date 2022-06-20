@@ -1257,6 +1257,11 @@
     <td> <a href="./LeetCode/SQL/3_Hard/2004_the_number_of_seniors_and_juniors_to_join_the_company.sql"> 2004_the_number_of_seniors_and_juniors_to_join_the_company.sql </a> </td>
     <td> 2022. 06. 19 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/longest-winning-streak/"> 2173. Longest Winning Streak </a> </td>
+    <td> <a href="./LeetCode/SQL/3_Hard/2173_longest_winning_streak.sql"> 2173_longest_winning_streak.sql </a> </td>
+    <td> 2022. 06. 20 </td>
+</tr>
 </table>
 
 </details>
