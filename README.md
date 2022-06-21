@@ -1262,6 +1262,11 @@
     <td> <a href="./LeetCode/SQL/3_Hard/2173_longest_winning_streak.sql"> 2173_longest_winning_streak.sql </a> </td>
     <td> 2022. 06. 20 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/finding-the-topic-of-each-post/"> 2199. Finding the Topic of Each Post </a> </td>
+    <td> <a href="./LeetCode/SQL/3_Hard/2199_finding_the_topic_of_each_post.sql"> 2199_finding_the_topic_of_each_post.sql </a> </td>
+    <td> 2022. 06. 21 </td>
+</tr>
 </table>
 
 </details>
