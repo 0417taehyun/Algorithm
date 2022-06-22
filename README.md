@@ -1272,6 +1272,11 @@
     <td> <a href="./LeetCode/SQL/3_Hard/2153_the_number_of_passengers_in_each_bus_II.sql"> 2153_the_number_of_passengers_in_each_bus_II.sql </a> </td>
     <td> 2022. 06. 22 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/build-the-equation/"> 2118. Build the Equation </a> </td>
+    <td> <a href="./LeetCode/SQL/3_Hard/2118_build_the_equation.sql"> 2118_build_the_equation.sql </a> </td>
+    <td> 2022. 06. 23 </td>
+</tr>
 </table>
 
 </details>
