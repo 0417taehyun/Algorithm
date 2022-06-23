@@ -1103,6 +1103,11 @@
     <td> <a href="./LeetCode/SQL/2_Medium/2308_arrange_table_by_gender.sql"> 2308_arrange_table_by_gender.sql </a> </td>
     <td> 2022. 06. 16 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/the-first-day-of-the-maximum-recorded-degree-in-each-city/"> 2314. The First Day of the Maximum Recorded Degree in Each City </a> </td>
+    <td> <a href="./LeetCode/SQL/2_Medium/2314_the_first_day_of_the_maximum_recorded_degree_in_each_city.sql"> 2314_the_first_day_of_the_maximum_recorded_degree_in_each_city.sql </a> </td>
+    <td> 2022. 06. 23 </td>
+</tr>
 </table>
 
 </details>
