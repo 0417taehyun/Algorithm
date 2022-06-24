@@ -1405,6 +1405,13 @@
     <td> <a href=""> </a> </td>
     <td> 2022. 06. 24 </td>
 </tr>
+<tr align="left">
+    <td> 그리디 </td>
+    <td> 기출문제 </td>
+    <td> <a href="./이것이 취업을 위한 코딩 테스트다/01_Greedy/02_기출문제/02.py"> 곱하기 혹은 더하기 </a> </td>
+    <td> <a href=""> </a> </td>
+    <td> 2022. 06. 24 </td>
+</tr>
 </table>
 
 </details>
