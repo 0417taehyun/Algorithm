@@ -8,6 +8,7 @@
   - [SQL](#sql-1)
 - [Baekjoon](#baekjoon)
   - [Python](#python)
+- [이것이 취업을 위한 코딩 테스트다 with 파이썬](#이것이-취업을-위한-코딩-테스트다-with-파이썬)
 
 ### Programmers
 
@@ -1357,6 +1358,31 @@
     <td> <a href="./Baekjoon/Python/02_Silver/10773.py"> 10773.py </a> </td>
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-10773"> [ 알고리즘 ] 백준 10773번: 제로 </a> </td>
     <td> 2022. 06. 18 </td>
+</tr>
+</table>
+
+</details>
+
+### 이것이 취업을 위한 코딩 테스트다 with 파이썬
+
+<details>
+
+<summary> Source Code </summary>
+
+<table>
+<tr>
+    <th> 알고리즘 </th>
+    <th> 분류 </th>
+    <th> 코드 </th>
+    <th> 풀이 </th>
+    <th> 일자 </th>
+</tr>
+<tr align="left">
+    <td> 그리디 </td>
+    <td> 실전문제 </td>
+    <td> <a href="./이것이 취업을 위한 코딩 테스트다/01_Greedy/01_실전문제/01.py"> 큰 수의 법칙 </a> </td>
+    <td> <a href=""> </a> </td>
+    <td> 2022. 06. 24 </td>
 </tr>
 </table>
 
