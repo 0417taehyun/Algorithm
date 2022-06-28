@@ -1433,6 +1433,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-greedy"> </a> </td>
     <td> 2022. 06. 26 </td>
 </tr>
+<tr align="left">
+    <td> 구현 </td>
+    <td> 실전문제 </td>
+    <td> <a href="./이것이 취업을 위한 코딩 테스트다/02_Implementation/01_실전문제/01.py"> 왕실의 나이트 </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-implementation"> [ 알고리즘 ] 이것이 취업을 위한 코딩 테스트다 with 파이썬 : 구현 </a> </td>
+    <td> 2022. 06. 28 </td>
+</tr>
 </table>
 
 </details>
