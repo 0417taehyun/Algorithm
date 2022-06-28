@@ -1381,56 +1381,56 @@
     <td> 그리디 </td>
     <td> 실전문제 </td>
     <td> <a href="./이것이 취업을 위한 코딩 테스트다/01_Greedy/01_실전문제/01.py"> 큰 수의 법칙 </a> </td>
-    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-greedy"> </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-greedy"> [ 알고리즘 ] 이것이 취업을 위한 코딩 테스트다 with 파이썬 : 그리디 </a> </td>
     <td> 2022. 06. 24 </td>
 </tr>
 <tr align="left">
     <td> 그리디 </td>
     <td> 실전문제 </td>
     <td> <a href="./이것이 취업을 위한 코딩 테스트다/01_Greedy/01_실전문제/02.py"> 숫자 카드 게임 </a> </td>
-    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-greedy"> </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-greedy"> [ 알고리즘 ] 이것이 취업을 위한 코딩 테스트다 with 파이썬 : 그리디 </a> </td>
     <td> 2022. 06. 24 </td>
 </tr>
 <tr align="left">
     <td> 그리디 </td>
     <td> 실전문제 </td>
     <td> <a href="./이것이 취업을 위한 코딩 테스트다/01_Greedy/01_실전문제/03.py"> 1이 될 때까지 </a> </td>
-    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-greedy"> </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-greedy"> [ 알고리즘 ] 이것이 취업을 위한 코딩 테스트다 with 파이썬 : 그리디 </a> </td>
     <td> 2022. 06. 24 </td>
 </tr>
 <tr align="left">
     <td> 그리디 </td>
     <td> 기출문제 </td>
     <td> <a href="./이것이 취업을 위한 코딩 테스트다/01_Greedy/02_기출문제/01.py"> 모험가 길드 </a> </td>
-    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-greedy"> </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-greedy"> [ 알고리즘 ] 이것이 취업을 위한 코딩 테스트다 with 파이썬 : 그리디 </a> </td>
     <td> 2022. 06. 24 </td>
 </tr>
 <tr align="left">
     <td> 그리디 </td>
     <td> 기출문제 </td>
     <td> <a href="./이것이 취업을 위한 코딩 테스트다/01_Greedy/02_기출문제/02.py"> 곱하기 혹은 더하기 </a> </td>
-    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-greedy"> </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-greedy"> [ 알고리즘 ] 이것이 취업을 위한 코딩 테스트다 with 파이썬 : 그리디 </a> </td>
     <td> 2022. 06. 24 </td>
 </tr>
 <tr align="left">
     <td> 그리디 </td>
     <td> 기출문제 </td>
     <td> <a href="./이것이 취업을 위한 코딩 테스트다/01_Greedy/02_기출문제/03.py"> 문자열 뒤집기 </a> </td>
-    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-greedy"> </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-greedy"> [ 알고리즘 ] 이것이 취업을 위한 코딩 테스트다 with 파이썬 : 그리디 </a> </td>
     <td> 2022. 06. 24 </td>
 </tr>
 <tr align="left">
     <td> 그리디 </td>
     <td> 기출문제 </td>
     <td> <a href="./이것이 취업을 위한 코딩 테스트다/01_Greedy/02_기출문제/04.py"> 만들 수 없는 금액 </a> </td>
-    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-greedy"> </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-greedy"> [ 알고리즘 ] 이것이 취업을 위한 코딩 테스트다 with 파이썬 : 그리디 </a> </td>
     <td> 2022. 06. 24 </td>
 </tr>
 <tr align="left">
     <td> 그리디 </td>
     <td> 기출문제 </td>
     <td> <a href="./이것이 취업을 위한 코딩 테스트다/01_Greedy/02_기출문제/05.py"> 볼링공 고르기 </a> </td>
-    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-greedy"> </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-greedy"> [ 알고리즘 ] 이것이 취업을 위한 코딩 테스트다 with 파이썬 : 그리디 </a> </td>
     <td> 2022. 06. 26 </td>
 </tr>
 <tr align="left">
