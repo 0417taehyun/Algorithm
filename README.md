@@ -1109,6 +1109,11 @@
     <td> <a href="./LeetCode/SQL/2_Medium/2314_the_first_day_of_the_maximum_recorded_degree_in_each_city.sql"> 2314_the_first_day_of_the_maximum_recorded_degree_in_each_city.sql </a> </td>
     <td> 2022. 06. 23 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/product-sales-analysis-iv/"> 2324. Product Sales Analysis IV </a> </td>
+    <td> <a href="./LeetCode/SQL/2_Medium/2324_product_sales_analysis_IV.sql"> 2324_product_sales_analysis_IV.sql </a> </td>
+    <td> 2022. 07. 01 </td>
+</tr>
 </table>
 
 </details>
