@@ -1293,6 +1293,30 @@
 
 <details>
 
+<summary> Bronze </summary>
+
+<table>
+<tr>
+    <th> 문제 </th>
+    <th> 분류 </th>
+    <th> 코드 </th>
+    <th> 풀이 </th>
+    <th> 일자 </th>
+</tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/18406"> 18406번: 럭키 스트레이트 </a> </td>
+    <td> 그리디 알고리즘, 정렬 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/18406.py"> 18406.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-18406"> [ 알고리즘 ] 백준 18406번: 럭키 스트레이트 </a> </td>
+    <td> 2022. 07. 02 </td>
+</tr>
+
+</table>
+
+</details>
+
+<details>
+
 <summary> Silver </summary>
 
 <table>
@@ -1465,6 +1489,13 @@
     <td> 구현 </td>
     <td> 기출문제 </td>
     <td> <a href="./이것이 취업을 위한 코딩 테스트다/02_Implementation/02_기출문제/03.py"> 문자열 압축 </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-implementation"> [ 알고리즘 ] 이것이 취업을 위한 코딩 테스트다 with 파이썬 : 구현 </a> </td>
+    <td> 2022. 06. 30 </td>
+</tr>
+<tr align="left">
+    <td> 구현 </td>
+    <td> 기출문제 </td>
+    <td> <a href="./이것이 취업을 위한 코딩 테스트다/02_Implementation/02_기출문제/04.py"> 자물쇠와 열쇠 </a> </td>
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-implementation"> [ 알고리즘 ] 이것이 취업을 위한 코딩 테스트다 with 파이썬 : 구현 </a> </td>
     <td> 2022. 06. 30 </td>
 </tr>
