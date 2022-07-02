@@ -1305,7 +1305,7 @@
 </tr>
 <tr align="left">
     <td> <a href="https://www.acmicpc.net/problem/18406"> 18406번: 럭키 스트레이트 </a> </td>
-    <td> 그리디 알고리즘, 정렬 </td>
+    <td> 구현, 문자열 </td>
     <td> <a href="./Baekjoon/Python/01_Bronze/18406.py"> 18406.py </a> </td>
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-18406"> [ 알고리즘 ] 백준 18406번: 럭키 스트레이트 </a> </td>
     <td> 2022. 07. 02 </td>
@@ -1386,6 +1386,28 @@
 </table>
 
 </details>
+
+<details>
+
+<summary> Gold </summary>
+
+<table>
+<tr>
+    <th> 문제 </th>
+    <th> 분류 </th>
+    <th> 코드 </th>
+    <th> 풀이 </th>
+    <th> 일자 </th>
+</tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/3190"> 3190번: 뱀 </a> </td>
+    <td> 구현, 자료 구조, 시뮬레이션, 덱, 큐 </td>
+    <td> <a href="./Baekjoon/Python/03_Gold/3190.py"> 3190.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-3190"> [ 알고리즘 ] 백준 3190번: 뱀 </a> </td>
+    <td> 2022. 07. 02 </td>
+</tr>
+
+</table>
 
 ### 이것이 취업을 위한 코딩 테스트다 with 파이썬
 
