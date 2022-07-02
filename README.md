@@ -1533,6 +1533,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-implementation"> [ 알고리즘 ] 이것이 취업을 위한 코딩 테스트다 with 파이썬 : 구현 </a> </td>
     <td> 2022. 07. 03 </td>
 </tr>
+<tr align="left">
+    <td> 구현 </td>
+    <td> 기출문제 </td>
+    <td> <a href="./이것이 취업을 위한 코딩 테스트다/02_Implementation/02_기출문제/06.py"> 기둥과 보 설치 </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-this-is-coding-test-for-employment-implementation"> [ 알고리즘 ] 이것이 취업을 위한 코딩 테스트다 with 파이썬 : 구현 </a> </td>
+    <td> 2022. 07. 03 </td>
+</tr>
 </table>
 
 </details>
