@@ -1411,6 +1411,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-3190"> [ 알고리즘 ] 백준 3190번: 뱀 </a> </td>
     <td> 2022. 07. 02 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/15686"> 15686번: 치킨 배달 </a> </td>
+    <td> 구현, 브루트포스 알고리즘, 백트래킹 </td>
+    <td> <a href="./Baekjoon/Python/03_Gold/15686.py"> 15686.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-15686"> [ 알고리즘 ] 백준 15686번: 치킨 배달 </a> </td>
+    <td> 2022. 07. 03 </td>
+</tr>
 
 </table>
 
