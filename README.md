@@ -1393,6 +1393,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-10773"> [ 알고리즘 ] 백준 10773번: 제로 </a> </td>
     <td> 2022. 06. 18 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/1541"> 1541번: 잃어버린 괄호 </a> </td>
+    <td> 수학, 문자열, 그리디 알고리즘, 문자열 파싱 </td>
+    <td> <a href="./Baekjoon/Python/02_Silver/1541.py"> 1541.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-1541"> [ 알고리즘 ] 백준 1541번: 잃어버린 괄호 </a> </td>
+    <td> 2022. 07. 05 </td>
+</tr>
 </table>
 
 </details>
