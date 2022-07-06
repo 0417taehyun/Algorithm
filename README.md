@@ -1400,6 +1400,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-1541"> [ 알고리즘 ] 백준 1541번: 잃어버린 괄호 </a> </td>
     <td> 2022. 07. 05 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/1946"> 1946번: 신입 사원 </a> </td>
+    <td> 그리디 알고리즘, 정렬 </td>
+    <td> <a href="./Baekjoon/Python/02_Silver/1946.py"> 1946.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-1946"> [ 알고리즘 ] 백준 1946번: 신입 사원 </a> </td>
+    <td> 2022. 07. 06 </td>
+</tr>
 </table>
 
 </details>
