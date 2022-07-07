@@ -1437,8 +1437,16 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-15686"> [ 알고리즘 ] 백준 15686번: 치킨 배달 </a> </td>
     <td> 2022. 07. 03 </td>
 </tr>
-
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/1339"> 1339번: 단어 수학 </a> </td>
+    <td> 그리디 알고리즘, 브루트포스 알고리즘 </td>
+    <td> <a href="./Baekjoon/Python/03_Gold/1339.py"> 1339.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-1339"> [ 알고리즘 ] 백준 1339번: 단어 수학 </a> </td>
+    <td> 2022. 07. 07 </td>
+</tr>
 </table>
+
+</details>
 
 ### 이것이 취업을 위한 코딩 테스트다 with 파이썬
 
