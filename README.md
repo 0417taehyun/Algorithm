@@ -1414,6 +1414,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-1213"> [ 알고리즘 ] 백준 1213번: 팰린드롬 만들기 </a> </td>
     <td> 2022. 07. 08 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/18111"> 18111번: 마인크래프트 </a> </td>
+    <td> 구현, 브루트포스 알고리즘 </td>
+    <td> <a href="./Baekjoon/Python/02_Silver/18111.py"> 18111.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-18111"> [ 알고리즘 ] 백준 18111번: 마인크래프트 </a> </td>
+    <td> 2022. 07. 09 </td>
+</tr>
 </table>
 
 </details>
