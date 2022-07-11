@@ -1355,6 +1355,13 @@
     <td>  </td>
     <td> 2022. 07. 11 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/25083"> 25083번: 새싹 </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/25083.py"> 25083.py </a> </td>
+    <td>  </td>
+    <td> 2022. 07. 11 </td>
+</tr>
 </table>
 
 </details>
