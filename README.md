@@ -1320,7 +1320,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-18406"> [ 알고리즘 ] 백준 18406번: 럭키 스트레이트 </a> </td>
     <td> 2022. 07. 02 </td>
 </tr>
-
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2557"> 2557번: Hello World </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/2557.py.py"> 2557.py </a> </td>
+    <td>  </td>
+    <td> 2022. 07. 11 </td>
+</tr>
 </table>
 
 </details>
