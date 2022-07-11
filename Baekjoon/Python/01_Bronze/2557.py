@@ -4,7 +4,7 @@ def solution() -> None:
     print("Hello World!")
 
 
-if __name__ == "__main":
+if __name__ == "__main__":
     from io import StringIO
     from unittest.mock import patch
     

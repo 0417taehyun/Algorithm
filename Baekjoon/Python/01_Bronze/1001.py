@@ -1,11 +1,10 @@
 # [ 백준 ] 1001번: A-B
 
 def solution() -> None:
-    a, b = map(int, input().split())
-    print(a-b)
+    print((lambda x: x[0]-x[1])(list(map(int, input().split()))))
 
 
-if __name__ == "__main":
+if __name__ == "__main__":
     from io import StringIO
     from unittest.mock import patch
     

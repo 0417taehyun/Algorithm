@@ -8,7 +8,7 @@ def solution() -> None:
     print("||_/=\\\\__|")
 
 
-if __name__ == "__main":
+if __name__ == "__main__":
     from io import StringIO
     from unittest.mock import patch
     
@@ -23,7 +23,7 @@ if __name__ == "__main":
     
     case: dict[str, list[str] | str] = {
         "input": [],
-        "output": "|\\_/|\n|q p|   /}\n( 0 )\"\"\"\\\n|\"^\"`    |\n||_/=\\\\__|\n"
+        "output": "|\\_/|\n|q p|   /}\n( 0 )\"\"\"\\\n|\"^\"`    |\n||_/=\\\\__|"
     }
     
     output: str = case["output"]

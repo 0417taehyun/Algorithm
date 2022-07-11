@@ -5,7 +5,7 @@ def solution() -> None:
     print("leedobby")
 
 
-if __name__ == "__main":
+if __name__ == "__main__":
     from io import StringIO
     from unittest.mock import patch
     
