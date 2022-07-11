@@ -1383,6 +1383,13 @@
     <td>  </td>
     <td> 2022. 07. 11 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/10869"> 10869번: 사칙연산 </a> </td>
+    <td> 수학, 구현, 사칙연산 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/10869.py"> 10869.py </a> </td>
+    <td>  </td>
+    <td> 2022. 07. 11 </td>
+</tr>
 </table>
 
 </details>
