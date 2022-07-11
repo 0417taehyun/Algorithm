@@ -8,6 +8,7 @@ def solution() -> None:
     print("      |")
     print("      |")
 
+
 if __name__ == "__main":
     from io import StringIO
     from unittest.mock import patch
