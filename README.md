@@ -1323,7 +1323,14 @@
 <tr align="left">
     <td> <a href="https://www.acmicpc.net/problem/2557"> 2557번: Hello World </a> </td>
     <td> 구현 </td>
-    <td> <a href="./Baekjoon/Python/01_Bronze/2557.py.py"> 2557.py </a> </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/2557.py"> 2557.py </a> </td>
+    <td>  </td>
+    <td> 2022. 07. 11 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/10699"> 10699번: 오늘 날짜 </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/10699.py"> 10699.py </a> </td>
     <td>  </td>
     <td> 2022. 07. 11 </td>
 </tr>
