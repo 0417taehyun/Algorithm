@@ -1334,6 +1334,13 @@
     <td>  </td>
     <td> 2022. 07. 11 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/7287"> 7287번: 등록 </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/7287.py"> 7287.py </a> </td>
+    <td>  </td>
+    <td> 2022. 07. 11 </td>
+</tr>
 </table>
 
 </details>
