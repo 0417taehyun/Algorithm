@@ -1504,6 +1504,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-18111"> [ 알고리즘 ] 백준 18111번: 마인크래프트 </a> </td>
     <td> 2022. 07. 09 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/1931"> 1931번: 회의실 배정 </a> </td>
+    <td> 그리디 알고리즘, 정렬 </td>
+    <td> <a href="./Baekjoon/Python/02_Silver/1931.py"> 1931.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-1931"> [ 알고리즘 ] 백준 1931번: 회의실 배정 </a> </td>
+    <td> 2022. 07. 12 </td>
+</tr>
 </table>
 
 </details>
