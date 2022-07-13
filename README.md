@@ -1411,6 +1411,13 @@
     <td>  </td>
     <td> 2022. 07. 13 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/9498"> 9498번: 시험 성적 </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/9498.py"> 9498.py </a> </td>
+    <td>  </td>
+    <td> 2022. 07. 13 </td>
+</tr>
 </table>
 
 </details>
