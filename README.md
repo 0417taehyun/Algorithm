@@ -1404,6 +1404,13 @@
     <td>  </td>
     <td> 2022. 07. 11 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/1330"> 1330번: 두 수 비교하기 </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/1330.py"> 1330.py </a> </td>
+    <td>  </td>
+    <td> 2022. 07. 13 </td>
+</tr>
 </table>
 
 </details>
