@@ -665,6 +665,11 @@
     <td> <a href="./LeetCode/SQL/1_Easy/2230_the_users_that_are_eligible_for_discount.sql"> 2230_the_users_that_are_eligible_for_discount.sql </a> </td>
     <td> 2022. 04. 23 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/all-the-matches-of-the-league/"> 2239. All the Matches of the League </a> </td>
+    <td> <a href="./LeetCode/SQL/1_Easy/2339_all_the_matches_of_the_league.sql"> 2339_all_the_matches_of_the_league.sql </a> </td>
+    <td> 2022. 07. 14 </td>
+</tr>
 </table>
 
 </details>
