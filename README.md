@@ -1423,6 +1423,13 @@
     <td>  </td>
     <td> 2022. 07. 13 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/14681"> 14681번: 사분면 고르기 </a> </td>
+    <td> 구현, 기하학 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/14681.py"> 14681.py </a> </td>
+    <td>  </td>
+    <td> 2022. 07. 15 </td>
+</tr>
 </table>
 
 </details>
