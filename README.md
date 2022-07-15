@@ -1444,6 +1444,13 @@
     <td>  </td>
     <td> 2022. 07. 15 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/15552"> 15552번: 빠른 A+B </a> </td>
+    <td> 수학, 구현, 사칙연산 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/15552.py"> 15552.py </a> </td>
+    <td>  </td>
+    <td> 2022. 07. 15 </td>
+</tr>
 </table>
 
 </details>
