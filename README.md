@@ -1431,9 +1431,16 @@
     <td> 2022. 07. 15 </td>
 </tr>
 <tr align="left">
-    <td> <a href="https://www.acmicpc.net/problem/14681"> 2420번: 사파리월드 </a> </td>
+    <td> <a href="https://www.acmicpc.net/problem/2420"> 2420번: 사파리월드 </a> </td>
     <td> 수학, 구현, 사칙연산 </td>
     <td> <a href="./Baekjoon/Python/01_Bronze/2420.py"> 2420.py </a> </td>
+    <td>  </td>
+    <td> 2022. 07. 15 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2753"> 2753번: 윤년 </a> </td>
+    <td> 수학, 구현, 사칙연산 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/2753.py"> 2753.py </a> </td>
     <td>  </td>
     <td> 2022. 07. 15 </td>
 </tr>
