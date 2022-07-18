@@ -1451,6 +1451,13 @@
     <td>  </td>
     <td> 2022. 07. 15 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/10871"> 10871번: X보다 작은 수 </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/10871.py"> 10871.py </a> </td>
+    <td>  </td>
+    <td> 2022. 07. 18 </td>
+</tr>
 </table>
 
 </details>
