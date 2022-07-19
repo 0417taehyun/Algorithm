@@ -1472,6 +1472,13 @@
     <td>  </td>
     <td> 2022. 07. 19 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2738"> 2738번: 행렬 덧셈 </a> </td>
+    <td> 수학, 구현 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/2738.py"> 2738.py </a> </td>
+    <td>  </td>
+    <td> 2022. 07. 19 </td>
+</tr>
 </table>
 
 </details>
