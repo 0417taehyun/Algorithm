@@ -1458,6 +1458,13 @@
     <td>  </td>
     <td> 2022. 07. 18 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/10807"> 10807번: 개수 세기 </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/10807.py"> 10807.py </a> </td>
+    <td>  </td>
+    <td> 2022. 07. 19 </td>
+</tr>
 </table>
 
 </details>
@@ -1503,7 +1510,7 @@
     <td> 2022. 06. 15 </td>
 </tr>
 <tr align="left">
-    <td> <a href="https://www.acmicpc.net/problem/2839"> 2839번: 설탕 배달 </a> </td>
+    <td> <a href="https://www.acmicpc.net/problem/28397"> 2839번: 설탕 배달 </a> </td>
     <td> 수학, 다이나믹 프로그래밍, 그리디 알고리즘 </td>
     <td> <a href="./Baekjoon/Python/02_Silver/2839.py"> 2839.py </a> </td>
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-2839"> [ 알고리즘 ] 백준 2839번: 설탕 배달 </a> </td>
