@@ -1479,6 +1479,13 @@
     <td>  </td>
     <td> 2022. 07. 19 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2741"> 2741번: N 찍기 </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/2741.py"> 2741.py </a> </td>
+    <td>  </td>
+    <td> 2022. 07. 20 </td>
+</tr>
 </table>
 
 </details>
