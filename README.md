@@ -1486,6 +1486,13 @@
     <td>  </td>
     <td> 2022. 07. 20 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/10950"> 10950번: A+B - 3 </a> </td>
+    <td> 수학, 구현, 사칙연산 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/10950.py"> 10950.py </a> </td>
+    <td>  </td>
+    <td> 2022. 07. 21 </td>
+</tr>
 </table>
 
 </details>
