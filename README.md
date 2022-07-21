@@ -1493,6 +1493,13 @@
     <td>  </td>
     <td> 2022. 07. 21 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/10872"> 10872번: 팩토리얼 </a> </td>
+    <td> 수학, 구현, 조합론 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/10872.py"> 10872.py </a> </td>
+    <td>  </td>
+    <td> 2022. 07. 21 </td>
+</tr>
 </table>
 
 </details>
