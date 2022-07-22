@@ -1510,6 +1510,13 @@
     <td>  </td>
     <td> 2022. 07. 21 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/10952"> 10952번: A+B - 5 </a> </td>
+    <td> 수학, 구현, 사칙연산 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/10952.py"> 10952.py </a> </td>
+    <td>  </td>
+    <td> 2022. 07. 22 </td>
+</tr>
 </table>
 
 </details>
