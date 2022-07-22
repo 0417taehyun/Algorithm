@@ -670,6 +670,11 @@
     <td> <a href="./LeetCode/SQL/1_Easy/2339_all_the_matches_of_the_league.sql"> 2339_all_the_matches_of_the_league.sql </a> </td>
     <td> 2022. 07. 14 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/compute-the-rank-as-a-percentage/"> 2346. Compute the Rank as a Percentage </a> </td>
+    <td> <a href="./LeetCode/SQL/1_Easy/2346_compute_the_rank_as_a_percentage.sql"> 2346_compute_the_rank_as_a_percentage.sql </a> </td>
+    <td> 2022. 07. 22 </td>
+</tr>
 </table>
 
 </details>
@@ -1297,6 +1302,11 @@
     <td> <a href="https://leetcode.com/problems/build-the-equation/"> 2118. Build the Equation </a> </td>
     <td> <a href="./LeetCode/SQL/3_Hard/2118_build_the_equation.sql"> 2118_build_the_equation.sql </a> </td>
     <td> 2022. 06. 23 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/dynamic-pivoting-of-a-table/"> 2252. Dynamic Pivoting of a Table </a> </td>
+    <td> <a href="./LeetCode/SQL/3_Hard/2252_dynamic_pivoting_of_a_table.sql"> 2252_dynamic_pivoting_of_a_table.sql </a> </td>
+    <td> 2022. 07. 22 </td>
 </tr>
 </table>
 
