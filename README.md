@@ -1308,6 +1308,11 @@
     <td> <a href="./LeetCode/SQL/3_Hard/2252_dynamic_pivoting_of_a_table.sql"> 2252_dynamic_pivoting_of_a_table.sql </a> </td>
     <td> 2022. 07. 22 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/dynamic-unpivoting-of-a-table/"> 2253. Dynamic Unpivoting of a Table </a> </td>
+    <td> <a href="./LeetCode/SQL/3_Hard/2253_dynamic_unpivoting_of_a_table.sql"> 2253_dynamic_unpivoting_of_a_table.sql </a> </td>
+    <td> 2022. 07. 22 </td>
+</tr>
 </table>
 
 </details>
