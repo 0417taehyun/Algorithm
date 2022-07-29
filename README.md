@@ -675,6 +675,11 @@
     <td> <a href="./LeetCode/SQL/1_Easy/2346_compute_the_rank_as_a_percentage.sql"> 2346_compute_the_rank_as_a_percentage.sql </a> </td>
     <td> 2022. 07. 22 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/"> 2356. Number of Unique Subjects Taught by Each Teacher </a> </td>
+    <td> <a href="./LeetCode/SQL/1_Easy/2356_number_of_unique_subjects_taught_by_each_teacher.sql"> 2356_number_of_unique_subjects_taught_by_each_teacher.sql </a> </td>
+    <td> 2022. 07. 29 </td>
+</tr>
 </table>
 
 </details>
