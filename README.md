@@ -1634,6 +1634,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-1931"> [ 알고리즘 ] 백준 1931번: 회의실 배정 </a> </td>
     <td> 2022. 07. 12 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/10815"> 10815번: 숫자 카드 </a> </td>
+    <td> 자료 구조, 정렬, 이분 탐색 </td>
+    <td> <a href="./Baekjoon/Python/02_Silver/10815.py"> 10815.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-10815"> [ 알고리즘 ] 백준 10815번: 숫자 카드 </a> </td>
+    <td> 2022. 07. 31 </td>
+</tr>
 </table>
 
 </details>
