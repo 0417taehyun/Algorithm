@@ -4,10 +4,12 @@
 
 - [Programmers](#programmers)
   - [SQL](#sql)
+  - [Python](#python)
 - [LeetCode](#leetcode)
   - [SQL](#sql-1)
+  - [Python](#python-1)
 - [Baekjoon](#baekjoon)
-  - [Python](#python)
+  - [Python](#python-2)
 - [이것이 취업을 위한 코딩 테스트다 with 파이썬](#이것이-취업을-위한-코딩-테스트다-with-파이썬)
 
 ### Programmers
@@ -221,6 +223,29 @@
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59045"> 보호소에서 중성화한 동물 </a> </td>
     <td> <a href="./Programmers/SQL/LEVEL_4/3_netuering_at_shelter.sql"> 3_netuering_at_shelter.sql </a> </td>
     <td> 2022. 03. 23 </td>
+</tr>
+</table>
+
+</details>
+
+#### Python
+
+<details>
+
+<summary> LEVEL 3 </summary>
+
+<table>
+<tr>
+    <th> 문제 </th>
+    <th> 코드 </th>
+    <th> 풀이 </th>
+    <th> 일자 </th>
+</tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43238"> 입국심사 </a> </td>
+    <td> <a href="./Programmers/Python/LEVEL_3/43238.py"> 43238.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/alogrithm-programmers-43238"> [ 알고리즘 ] 프로그래머스: 입국심사 </a> </td>
+    <td> 2022. 08. 01 </td>
 </tr>
 </table>
 
@@ -1317,6 +1342,29 @@
     <td> <a href="https://leetcode.com/problems/dynamic-unpivoting-of-a-table/"> 2253. Dynamic Unpivoting of a Table </a> </td>
     <td> <a href="./LeetCode/SQL/3_Hard/2253_dynamic_unpivoting_of_a_table.sql"> 2253_dynamic_unpivoting_of_a_table.sql </a> </td>
     <td> 2022. 07. 22 </td>
+</tr>
+</table>
+
+</details>
+
+#### Python
+
+<details>
+
+<summary> Easy </summary>
+
+<table>
+<tr>
+    <th> 문제 </th>
+    <th> 코드 </th>
+    <th> 풀이 </th>
+    <th> 일자 </th>
+</tr>
+<tr align="left">
+    <td> <a href="">  </a></td>
+    <td> <a href="">  </a></td>
+    <td> <a href="">  </a></td>
+    <td>  </td>
 </tr>
 </table>
 
