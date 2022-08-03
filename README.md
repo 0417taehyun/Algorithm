@@ -1384,6 +1384,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-278"> [ 알고리즘 ] LeetCode 278. First Bad Version </a></td>
     <td> 2022. 08. 03 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/search-insert-position/"> 35. Search Insert Position </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/35_search_insert_position.py"> 35_search_insert_position.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-35"> [ 알고리즘 ] LeetCode 35. Search Insert Position </a></td>
+    <td> 2022. 08. 03 </td>
+</tr>
 </table>
 
 </details>
