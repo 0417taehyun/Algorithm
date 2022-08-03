@@ -1372,6 +1372,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1491"> [ 알고리즘 ] LeetCode 1491. Average Salary Excluding the Minimum and Maximum Salary </a></td>
     <td> 2022. 08. 03 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/binary-search/"> 704. Binary Search </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/704_binary_search.py"> 704_binary_search.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-704"> [ 알고리즘 ] LeetCode 704. Binary Search </a></td>
+    <td> 2022. 08. 03 </td>
+</tr>
 </table>
 
 </details>
