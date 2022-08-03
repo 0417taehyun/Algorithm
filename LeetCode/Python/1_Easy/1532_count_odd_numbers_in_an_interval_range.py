@@ -18,4 +18,8 @@ if __name__ == "__main__":
             "output": 1
         }        
     ]
-    
+    for case in cases:
+        assert case["output"] == solution(
+            low=case["input"]["low"], high=case["input"]["high"]
+        )
+        
