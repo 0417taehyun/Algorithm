@@ -1378,6 +1378,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-704"> [ 알고리즘 ] LeetCode 704. Binary Search </a></td>
     <td> 2022. 08. 03 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/first-bad-version/"> 278. First Bad Version </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/278_first_bad_version.py"> 278_first_bad_version.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-278"> [ 알고리즘 ] LeetCode 278. First Bad Version </a></td>
+    <td> 2022. 08. 03 </td>
+</tr>
 </table>
 
 </details>
