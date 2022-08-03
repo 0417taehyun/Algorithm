@@ -1366,6 +1366,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1523"> [ 알고리즘 ] LeetCode 1523. Count Odd Numbers in an Interval Range </a></td>
     <td> 2022. 08. 03 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/"> 1491. Average Salary Excluding the Minimum and Maximum Salary </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1491_average_salary_excluding_the_minimum_and_maximum_salary.py"> 1491_average_salary_excluding_the_minimum_and_maximum_salary.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1491"> [ 알고리즘 ] LeetCode 1491. Average Salary Excluding the Minimum and Maximum Salary </a></td>
+    <td> 2022. 08. 03 </td>
+</tr>
 </table>
 
 </details>
