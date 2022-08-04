@@ -1390,6 +1390,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-35"> [ 알고리즘 ] LeetCode 35. Search Insert Position </a></td>
     <td> 2022. 08. 03 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/"> 1281. Subtract the Product and Sum of Digits of an Integer </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1281_subtract_the_product_and_sum_of_digits_of_an_integer.py"> 1281_subtract_the_product_and_sum_of_digits_of_an_integer.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1281"> [ 알고리즘 ] LeetCode 1281. Subtract the Product and Sum of Digits of an Integer </a></td>
+    <td> 2022. 08. 04 </td>
+</tr>
 </table>
 
 </details>
