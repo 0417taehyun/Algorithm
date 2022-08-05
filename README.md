@@ -1343,6 +1343,11 @@
     <td> <a href="./LeetCode/SQL/3_Hard/2253_dynamic_unpivoting_of_a_table.sql"> 2253_dynamic_unpivoting_of_a_table.sql </a> </td>
     <td> 2022. 07. 22 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/generate-the-invoice/"> 2362. Generate the Invoice </a> </td>
+    <td> <a href="./LeetCode/SQL/3_Hard/2362_generate_the_invoice.sql"> 2362_generate_the_invoice.sql </a> </td>
+    <td> 2022. 08. 06 </td>
+</tr>
 </table>
 
 </details>
