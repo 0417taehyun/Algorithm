@@ -1411,7 +1411,13 @@
     <td> <a href="https://leetcode.com/problems/two-sum/"> 1. Two Sum </a></td>
     <td> <a href="./LeetCode/Python/1_Easy/1_two_sum.py"> 191_number_of_1_bits.py </a></td>
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-191"> [ 알고리즘 ] LeetCode 1. Two Sum </a></td>
-    <td> 2022. 08. 04 </td>
+    <td> 2022. 08. 07 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/check-if-it-is-a-straight-line/"> 1232. Check If It Is a Straight Line </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1232_check_if_it_is_a_straight_line.py"> 1232_check_if_it_is_a_straight_line.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1232"> [ 알고리즘 ] LeetCode 1232. Check If It Is a Straight Line </a></td>
+    <td> 2022. 08. 08 </td>
 </tr>
 </table>
 
