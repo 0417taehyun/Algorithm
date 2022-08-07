@@ -1407,6 +1407,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-191"> [ 알고리즘 ] LeetCode 191. Number of 1 Bits </a></td>
     <td> 2022. 08. 04 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/two-sum/"> 1. Two Sum </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1_two_sum.py"> 191_number_of_1_bits.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-191"> [ 알고리즘 ] LeetCode 1. Two Sum </a></td>
+    <td> 2022. 08. 04 </td>
+</tr>
 </table>
 
 </details>
