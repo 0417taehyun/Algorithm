@@ -1628,6 +1628,13 @@
     <td>  </td>
     <td> 2022. 07. 22 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2750"> 2750번: 수 정렬하기 </a> </td>
+    <td> 구현, 정렬 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/2750"> 2750.py </a> </td>
+    <td>  </td>
+    <td> 2022. 08. 08 </td>
+</tr>
 </table>
 
 </details>
