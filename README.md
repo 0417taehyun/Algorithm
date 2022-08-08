@@ -1786,6 +1786,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-1339"> [ 알고리즘 ] 백준 1339번: 단어 수학 </a> </td>
     <td> 2022. 07. 07 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/1092"> 1092번: 배 </a> </td>
+    <td> 그리디 알고리즘, 정렬 </td>
+    <td> <a href="./Baekjoon/Python/03_Gold/1092.py"> 1092.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-1092"> [ 알고리즘 ] 백준 1092번: 배 </a> </td>
+    <td> 2022. 08. 07 </td>
+</tr>
 </table>
 
 </details>
