@@ -1749,6 +1749,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-10815"> [ 알고리즘 ] 백준 10815번: 숫자 카드 </a> </td>
     <td> 2022. 07. 31 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2805"> 2805번: 나무 자르기 </a> </td>
+    <td> 이분 탐색, 매개 변수 탐색 </td>
+    <td> <a href="/Baekjoon/Python/02_Silver/2805.py"> 2805.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-10815"> [ 알고리즘 ] 백준 2805번: 나무 자르기 </a> </td>
+    <td> 2022. 08. 09 </td>
+</tr>
 </table>
 
 </details>
