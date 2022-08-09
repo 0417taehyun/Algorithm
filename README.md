@@ -1756,6 +1756,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-10815"> [ 알고리즘 ] 백준 2805번: 나무 자르기 </a> </td>
     <td> 2022. 08. 09 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/1654"> 1654번: 랜선 자르기 </a> </td>
+    <td> 이분 탐색, 매개 변수 탐색 </td>
+    <td> <a href="/Baekjoon/Python/02_Silver/1654.py"> 1654.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-10815"> [ 알고리즘 ] 백준 1654번: 랜선 자르기 </a> </td>
+    <td> 2022. 08. 09 </td>
+</tr>
 </table>
 
 </details>
