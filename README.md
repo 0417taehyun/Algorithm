@@ -1770,6 +1770,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-1966"> [ 알고리즘 ] 백준 1966번: 프린터 큐 </a> </td>
     <td> 2022. 08. 10 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2504"> 2504번: 괄호의 값 </a> </td>
+    <td> 구현, 자료 구조, 스택, 재귀 </td>
+    <td> <a href="/Baekjoon/Python/02_Silver/2504.py"> 2504.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-2504"> [ 알고리즘 ] 백준 2504번: 괄호의 값 </a> </td>
+    <td> 2022. 08. 11 </td>
+</tr>
 </table>
 
 </details>
