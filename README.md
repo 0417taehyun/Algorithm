@@ -1419,6 +1419,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1232"> [ 알고리즘 ] LeetCode 1232. Check If It Is a Straight Line </a></td>
     <td> 2022. 08. 08 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/concatenation-of-array/"> 1929. Concatenation of Array </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1929_concatenation_of_array.py"> 1929_concatenation_of_array.py </a></td>
+    <td> </td>
+    <td> 2022. 08. 11 </td>
+</tr>
 </table>
 
 </details>
