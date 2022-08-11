@@ -1834,6 +1834,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-2470"> [ 알고리즘 ] 백준 2470번: 두 용액 </a> </td>
     <td> 2022. 08. 07 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2110"> 2110번: 공유기 설치 </a> </td>
+    <td> 이분 탐색, 매개 변수 탐색 </td>
+    <td> <a href="./Baekjoon/Python/03_Gold/2110.py"> 2110.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-2110"> [ 알고리즘 ] 백준 2110번: 공유기 설치 </a> </td>
+    <td> 2022. 08. 11 </td>
+</tr>
 </table>
 
 </details>
