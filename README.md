@@ -1429,6 +1429,27 @@
 
 </details>
 
+<details>
+
+<summary> Medium </summary>
+
+<table>
+<tr>
+    <th> 문제 </th>
+    <th> 코드 </th>
+    <th> 풀이 </th>
+    <th> 일자 </th>
+</tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"> 167. Two Sum II - Input Array Is Sorted </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/167_two_sum_II-input_array_is_sorted.py"> 167_two_sum_II-input_array_is_sorted.py </a></td>
+ <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-167"> [ 알고리즘 ] LeetCode 167. Two Sum II - Input Array Is Sorted </a></td>
+    <td> 2022. 08. 06 </td>
+</tr>
+</table>
+
+</deails>
+
 ### Baekjoon
 
 #### Python
