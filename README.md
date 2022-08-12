@@ -1804,6 +1804,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-2504"> [ 알고리즘 ] 백준 2504번: 괄호의 값 </a> </td>
     <td> 2022. 08. 11 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/11659"> 11659번: 구간 합 구하기 4 </a> </td>
+    <td> 구현, 자료 구조, 스택, 재귀 </td>
+    <td> <a href="/Baekjoon/Python/02_Silver/11659.py"> 11659.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-11659"> [ 알고리즘 ] 백준 11659번: 구간 합 구하기 4 </a> </td>
+    <td> 2022. 08. 13 </td>
+</tr>
 </table>
 
 </details>
