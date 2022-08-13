@@ -1817,6 +1817,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-11659"> [ 알고리즘 ] 백준 11659번: 구간 합 구하기 4 </a> </td>
     <td> 2022. 08. 13 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/11660"> 11660번: 구간 합 구하기 5 </a> </td>
+    <td> 다이나믹 프로그래밍, 누적 합 </td>
+    <td> <a href="/Baekjoon/Python/02_Silver/11660.py"> 11660.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-11660"> [ 알고리즘 ] 백준 11660번: 구간 합 구하기 5 </a> </td>
+    <td> 2022. 08. 14 </td>
+</tr>
 </table>
 
 </details>
