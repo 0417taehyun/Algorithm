@@ -1673,6 +1673,13 @@
     <td>  </td>
     <td> 2022. 08. 08 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/1546"> 1546번: 평균 </a> </td>
+    <td> 수학, 사칙연산 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/1546.py"> 1546.py </a> </td>
+    <td>  </td>
+    <td> 2022. 08. 08 </td>
+</tr>
 </table>
 
 </details>
