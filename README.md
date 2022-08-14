@@ -1159,6 +1159,11 @@
     <td> <a href="./LeetCode/SQL/2_Medium/2329_product_sales_analysis_V.sql"> 2329_product_sales_analysis_V.sql </a> </td>
     <td> 2022. 07. 04 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/calculate-the-influence-of-each-salesperson/"> 2372. Calculate the Influence of Each Salesperson </a> </td>
+    <td> <a href="./LeetCode/SQL/2_Medium/2372_calculate_the_influence_of_each_salesperson.sql"> 2372_calculate_the_influence_of_each_salesperson.sql </a> </td>
+    <td> 2022. 08. 14 </td>
+</tr>
 </table>
 
 </details>
