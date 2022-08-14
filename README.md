@@ -1678,7 +1678,14 @@
     <td> 수학, 사칙연산 </td>
     <td> <a href="./Baekjoon/Python/01_Bronze/1546.py"> 1546.py </a> </td>
     <td>  </td>
-    <td> 2022. 08. 08 </td>
+    <td> 2022. 08. 14 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/1157"> 1157번: 단어 공부 </a> </td>
+    <td> 구현, 문자열 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/1157.py"> 1157.py </a> </td>
+    <td>  </td>
+    <td> 2022. 08. 14 </td>
 </tr>
 </table>
 
