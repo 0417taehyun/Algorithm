@@ -1436,6 +1436,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-709"> [ 알고리즘 ] LeetCode 709. To Lower Case </a> </td>
     <td> 2022. 08. 14 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/goal-parser-interpretation/"> 1678. Goal Parser Interpretation </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1678_goal_parser_interpretation.py"> 1678_goal_parser_interpretation.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1678"> [ 알고리즘 ] LeetCode 1678. Goal Parser Interpretation </a> </td>
+    <td> 2022. 08. 15 </td>
+</tr>
 </table>
 
 </details>
