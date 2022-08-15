@@ -1855,6 +1855,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-11660"> [ 알고리즘 ] 백준 11660번: 구간 합 구하기 5 </a> </td>
     <td> 2022. 08. 14 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/1874"> 1874번: 스택 수열 </a> </td>
+    <td> 자료 구조, 스택 </td>
+    <td> <a href="/Baekjoon/Python/02_Silver/1874.py"> 1874.py </a> </td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-1874"> [ 알고리즘 ] 백준 1874번: 스택 수열 </a> </td>
+    <td> 2022. 08. 15 </td>
+</tr>
 </table>
 
 </details>
