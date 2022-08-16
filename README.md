@@ -1722,6 +1722,13 @@
     <td>  </td>
     <td> 2022. 08. 14 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/1152"> 1152번: 단어의 개수 </a> </td>
+    <td> 구현, 문자열 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/1152.py"> 1152.py </a> </td>
+    <td>  </td>
+    <td> 2022. 08. 16 </td>
+</tr>
 </table>
 
 </details>
