@@ -707,7 +707,7 @@
 </tr>
 <tr align="left">
     <td> <a href="https://leetcode.com/problems/sort-the-olympic-table/"> 2377. Sort the Olympic Table </a> </td>
-    <td> <a href="./LeetCode/SQL/1_Easy/2377_sort_the_olympic_table.sql"> 2377_sort_the_olympic_table.sql </a> </td>
+    <td> <a href="./LeetCode/SQL/1_Easy/2377_sort_the_olympic_table.sql"> 2356_number_of_unique_subjects_taught_by_each_teacher.sql </a> </td>
     <td> 2022. 08. 16 </td>
 </tr>
 </table>
@@ -1452,6 +1452,12 @@
     <td> <a href="./LeetCode/Python/1_Easy/13_roman_to_integer.py"> 13_roman_to_integer.py </a></td>
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-13"> [ 알고리즘 ] LeetCode 13. Roman to Integer </a> </td>
     <td> 2022. 08. 15 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/first-unique-character-in-a-string/"> 387. First Unique Character in a String </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/387_first_unique_character_in_a_string.py"> 387_first_unique_character_in_a_string.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-387"> [ 알고리즘 ] LeetCode 387. First Unique Character in a String </a> </td>
+    <td> 2022. 08. 16 </td>
 </tr>
 </table>
 
