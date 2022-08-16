@@ -705,6 +705,11 @@
     <td> <a href="./LeetCode/SQL/1_Easy/2356_number_of_unique_subjects_taught_by_each_teacher.sql"> 2356_number_of_unique_subjects_taught_by_each_teacher.sql </a> </td>
     <td> 2022. 07. 29 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/sort-the-olympic-table/"> 2377. Sort the Olympic Table </a> </td>
+    <td> <a href="./LeetCode/SQL/1_Easy/2377_sort_the_olympic_table.sql"> 2377_sort_the_olympic_table.sql </a> </td>
+    <td> 2022. 08. 16 </td>
+</tr>
 </table>
 
 </details>
