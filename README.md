@@ -1459,6 +1459,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-387"> [ 알고리즘 ] LeetCode 387. First Unique Character in a String </a> </td>
     <td> 2022. 08. 16 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/first-letter-to-appear-twice/"> 2351. First Letter to Appear Twice </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/2351_first_letter_to_appear_twice.py"> 2351_first_letter_to_appear_twice.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-2351"> [ 알고리즘 ] LeetCode 2351. First Letter to Appear Twice </a> </td>
+    <td> 2022. 08. 16 </td>
+</tr>
 </table>
 
 </details>
