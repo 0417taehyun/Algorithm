@@ -1465,6 +1465,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-2351"> [ 알고리즘 ] LeetCode 2351. First Letter to Appear Twice </a> </td>
     <td> 2022. 08. 16 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/two-sum-iii-data-structure-design/"> 170. Two Sum III - Data structure design </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/170_two_sum_III-data_structure_design.py"> 170_two_sum_III-data_structure_design.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-170"> [ 알고리즘 ] LeetCode 170. Two Sum III - Data structure design </a> </td>
+    <td> 2022. 08. 16 </td>
+</tr>
 </table>
 
 </details>
