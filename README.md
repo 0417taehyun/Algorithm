@@ -1767,6 +1767,13 @@
     <td>  </td>
     <td> 2022. 08. 17 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/3052"> 3052번: 나머지 </a> </td>
+    <td> 수학, 사칙연산 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/3052.py"> 3052.py </a> </td>
+    <td>  </td>
+    <td> 2022. 08. 17 </td>
+</tr>
 </table>
 
 </details>
