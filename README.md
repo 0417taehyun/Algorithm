@@ -1377,7 +1377,7 @@
 </tr>
 <tr align="left">
     <td> <a href="https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/"> 1523. Count Odd Numbers in an Interval Range </a></td>
-    <td> <a href="./LeetCode/Python/1_Easy/1532_count_odd_numbers_in_an_interval_range.py"> 1532_count_odd_numbers_in_an_interval_range.py </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1523_count_odd_numbers_in_an_interval_range.py"> 1523_count_odd_numbers_in_an_interval_range.py </a></td>
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1523"> [ 알고리즘 ] LeetCode 1523. Count Odd Numbers in an Interval Range </a></td>
     <td> 2022. 08. 03 </td>
 </tr>
