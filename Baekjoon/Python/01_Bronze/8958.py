@@ -1,4 +1,4 @@
-# [ 백준 ] 8958번: OX 퀴즈
+# [ 백준 ] 8958번: OX퀴즈
 
 def solution() -> None:
     import sys
