@@ -1774,6 +1774,13 @@
     <td>  </td>
     <td> 2022. 08. 17 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/8958"> 8958번: OX 퀴즈 </a> </td>
+    <td> 구현, 문자열 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/8958.py"> 8958.py </a> </td>
+    <td>  </td>
+    <td> 2022. 08. 17 </td>
+</tr>
 </table>
 
 </details>
