@@ -1760,6 +1760,13 @@
     <td>  </td>
     <td> 2022. 08. 17 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2908"> 2908번: 상수 </a> </td>
+    <td> 수학, 구현 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/2908.py"> 2908.py </a> </td>
+    <td>  </td>
+    <td> 2022. 08. 17 </td>
+</tr>
 </table>
 
 </details>
