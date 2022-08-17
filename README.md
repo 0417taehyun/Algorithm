@@ -1489,6 +1489,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-217"> [ 알고리즘 ] LeetCode 217. Contains Duplicate </a> </td>
     <td> 2022. 08. 17 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/contains-duplicate-ii/"> 219. Contains Duplicate II </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/219_contains_duplicate_II.py"> 219_contains_duplicate_II.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-219"> [ 알고리즘 ] LeetCode 219. Contains Duplicate II </a> </td>
+    <td> 2022. 08. 17 </td>
+</tr>
 </table>
 
 </details>
