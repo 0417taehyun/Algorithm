@@ -1471,6 +1471,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-170"> [ 알고리즘 ] LeetCode 170. Two Sum III - Data structure design </a> </td>
     <td> 2022. 08. 16 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/unique-morse-code-words/"> 804. Unique Morse Code Words </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/804_unique_morse_code_words.py"> 804_unique_morse_code_words.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-804"> [ 알고리즘 ] LeetCode 804. Unique Morse Code Words </a> </td>
+    <td> 2022. 08. 17 </td>
+</tr>
 </table>
 
 </details>
