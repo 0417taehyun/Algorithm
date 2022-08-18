@@ -1788,6 +1788,13 @@
     <td>  </td>
     <td> 2022. 08. 17 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2920"> 2920번: 음계 </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/2920.py"> 2920.py </a> </td>
+    <td>  </td>
+    <td> 2022. 08. 18 </td>
+</tr>
 </table>
 
 </details>
