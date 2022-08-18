@@ -1795,6 +1795,13 @@
     <td>  </td>
     <td> 2022. 08. 18 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/10818"> 10818번: 최소, 최대 </a> </td>
+    <td> 수학, 구현 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/10818.py"> 10818.py </a> </td>
+    <td>  </td>
+    <td> 2022. 08. 18 </td>
+</tr>
 </table>
 
 </details>
