@@ -1501,6 +1501,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1779"> [ 알고리즘 ] LeetCode 1779. Find Nearest Point That Has the Same X or Y Coordinate </a> </td>
     <td> 2022. 08. 18 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/largest-perimeter-triangle/"> 976. Largest Perimeter Triangle </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/976_largest_perimeter_triangle.py"> 976_largest_perimeter_triangle.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-976"> [ 알고리즘 ] LeetCode 976. Largest Perimeter Triangle </a> </td>
+    <td> 2022. 08. 18 </td>
+</tr>
 </table>
 
 </details>
