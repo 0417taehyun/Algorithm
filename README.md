@@ -1513,6 +1513,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1309"> [ 알고리즘 ] LeetCode 1309. Decrypt String from Alphabet to Integer Mapping </a> </td>
     <td> 2022. 08. 18 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/verifying-an-alien-dictionary/"> 953. Verifying an Alien Dictionary </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/953_verifying_an_alien_dictionary.py"> 953_verifying_an_alien_dictionary.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-953"> [ 알고리즘 ] LeetCode 953. Verifying an Alien Dictionary </a> </td>
+    <td> 2022. 08. 18 </td>
+</tr>
 </table>
 
 </details>
