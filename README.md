@@ -1495,6 +1495,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-219"> [ 알고리즘 ] LeetCode 219. Contains Duplicate II </a> </td>
     <td> 2022. 08. 17 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/"> 1779. Find Nearest Point That Has the Same X or Y Coordinate </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1779_find_nearest_point_that_has_the_same_x_or_y_coordinate.py"> 1779_find_nearest_point_that_has_the_same_x_or_y_coordinate.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1779"> [ 알고리즘 ] LeetCode 1779. Find Nearest Point That Has the Same X or Y Coordinate </a> </td>
+    <td> 2022. 08. 18 </td>
+</tr>
 </table>
 
 </details>
