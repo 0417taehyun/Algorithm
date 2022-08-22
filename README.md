@@ -1540,6 +1540,12 @@
  <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-167"> [ 알고리즘 ] LeetCode 167. Two Sum II - Input Array Is Sorted </a></td>
     <td> 2022. 08. 06 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/reduce-array-size-to-the-half/solution/"> 1338. Reduce Array Size to The Half </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/1338_reduce_array_size_to_the_half.py"> 1338_reduce_array_size_to_the_half.py </a></td>
+ <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1338"> [ 알고리즘 ] LeetCode 1338. Reduce Array Size to The Half </a></td>
+    <td> 2022. 08. 18 </td>
+</tr>
 </table>
 
 </deails>
@@ -1825,6 +1831,13 @@
     <td> <a href="./Baekjoon/Python/01_Bronze/10818.py"> 10818.py </a> </td>
     <td>  </td>
     <td> 2022. 08. 18 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/11720"> 11720번: 숫자의 합 </a> </td>
+    <td> 수학, 구현, 문자열 </td>
+    <td> <a href="./Baekjoon/Python/01_Bronze/11720.py"> 11720.py </a> </td>
+    <td>  </td>
+    <td> 2022. 08. 22 </td>
 </tr>
 </table>
 
