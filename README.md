@@ -1531,6 +1531,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-342"> [ 알고리즘 ] LeetCode 342. Power of Four </a> </td>
     <td> 2022. 08. 24 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/power-of-three/"> 326. Power of Three </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/326_power_of_three.py"> 326_power_of_three.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-326"> [ 알고리즘 ] LeetCode 326. Power of Three </a> </td>
+    <td> 2022. 08. 24 </td>
+</tr>
 </table>
 
 </details>
