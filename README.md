@@ -1519,6 +1519,18 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-953"> [ 알고리즘 ] LeetCode 953. Verifying an Alien Dictionary </a> </td>
     <td> 2022. 08. 18 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/verifying-an-alien-dictionary/"> 953. Verifying an Alien Dictionary </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/953_verifying_an_alien_dictionary.py"> 953_verifying_an_alien_dictionary.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-953"> [ 알고리즘 ] LeetCode 953. Verifying an Alien Dictionary </a> </td>
+    <td> 2022. 08. 22 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/power-of-four/"> 342. Power of Four </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/342_power_of_four.py"> 342_power_of_four.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-342"> [ 알고리즘 ] LeetCode 342. Power of Four </a> </td>
+    <td> 2022. 08. 24 </td>
+</tr>
 </table>
 
 </details>
