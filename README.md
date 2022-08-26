@@ -1169,6 +1169,11 @@
     <td> <a href="./LeetCode/SQL/2_Medium/2372_calculate_the_influence_of_each_salesperson.sql"> 2372_calculate_the_influence_of_each_salesperson.sql </a> </td>
     <td> 2022. 08. 14 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value/"> 2388. Change Null Values in a Table to the Previous Value </a> </td>
+    <td> <a href="./LeetCode/SQL/2_Medium/2388_change_null_values_in_a_table_to_the_previous_value.sql"> 2388_change_null_values_in_a_table_to_the_previous_value.sql </a> </td>
+    <td> 2022. 08. 26 </td>
+</tr>
 </table>
 
 </details>
