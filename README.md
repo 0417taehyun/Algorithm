@@ -1541,6 +1541,11 @@
     <td> <a href="./LeetCode/Python/1_Easy/326_power_of_three.py"> 326_power_of_three.py </a></td>
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-326"> [ 알고리즘 ] LeetCode 326. Power of Three </a> </td>
     <td> 2022. 08. 24 </td>
+</tr><tr align="left">
+    <td> <a href="https://leetcode.com/problems/ransom-note/"> 383. Ransom Note </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/383_ransom_note.py"> 383_ransom_note.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-383"> [ 알고리즘 ] LeetCode 383. Ransom Note </a> </td>
+    <td> 2022. 08. 25 </td>
 </tr>
 </table>
 
