@@ -1565,14 +1565,20 @@
 <tr align="left">
     <td> <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"> 167. Two Sum II - Input Array Is Sorted </a></td>
     <td> <a href="./LeetCode/Python/2_Medium/167_two_sum_II-input_array_is_sorted.py"> 167_two_sum_II-input_array_is_sorted.py </a></td>
- <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-167"> [ 알고리즘 ] LeetCode 167. Two Sum II - Input Array Is Sorted </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-167"> [ 알고리즘 ] LeetCode 167. Two Sum II - Input Array Is Sorted </a></td>
     <td> 2022. 08. 06 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://leetcode.com/problems/reduce-array-size-to-the-half/solution/"> 1338. Reduce Array Size to The Half </a></td>
     <td> <a href="./LeetCode/Python/2_Medium/1338_reduce_array_size_to_the_half.py"> 1338_reduce_array_size_to_the_half.py </a></td>
- <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1338"> [ 알고리즘 ] LeetCode 1338. Reduce Array Size to The Half </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1338"> [ 알고리즘 ] LeetCode 1338. Reduce Array Size to The Half </a></td>
     <td> 2022. 08. 18 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/reordered-power-of-2/"> 869. Reordered Power of 2 </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/869_reordered_power_of_2.py"> 869_reordered_power_of_2.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-869"> [ 알고리즘 ] LeetCode 869. Reordered Power of 2 </a></td>
+    <td> 2022. 08. 26 </td>
 </tr>
 </table>
 
