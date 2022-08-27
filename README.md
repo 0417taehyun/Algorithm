@@ -1554,6 +1554,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-389"> [ 알고리즘 ] LeetCode 389. Find the Difference </a> </td>
     <td> 2022. 08. 27 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/merge-strings-alternately/"> 1768. Merge Strings Alternately </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1768_merge_strings_alternately.py"> 1768_merge_strings_alternately.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1768"> [ 알고리즘 ] LeetCode 1768. Merge Strings Alternately </a> </td>
+    <td> 2022. 08. 27 </td>
+</tr>
 </table>
 
 </details>
