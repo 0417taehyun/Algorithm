@@ -1566,6 +1566,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1137"> [ 알고리즘 ] LeetCode 1137. N-th Tribonacci Number </a> </td>
     <td> 2022. 08. 28 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/implement-queue-using-stacks/"> 232. Implement Queue using Stacks </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/232_implement_queue_using_stacks.py"> 232_implement_queue_using_stacks.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-232"> [ 알고리즘 ] LeetCode 232. Implement Queue using Stacks </a> </td>
+    <td> 2022. 08. 29 </td>
+</tr>
 </table>
 
 </details>
