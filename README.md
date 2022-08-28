@@ -1560,6 +1560,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1768"> [ 알고리즘 ] LeetCode 1768. Merge Strings Alternately </a> </td>
     <td> 2022. 08. 27 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/n-th-tribonacci-number/"> 1137. N-th Tribonacci Number </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1137_n-th_tribonacci_number.py"> 1137_n-th_tribonacci_number.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1137"> [ 알고리즘 ] LeetCode 1137. N-th Tribonacci Number </a> </td>
+    <td> 2022. 08. 28 </td>
+</tr>
 </table>
 
 </details>
