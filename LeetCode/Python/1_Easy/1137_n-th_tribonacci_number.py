@@ -1,5 +1,4 @@
 # [ LeetCode ] 1137. N-th Tribonacci Number
-# [ LeetCode ] 1137. N-th Tribonacci Number
 
 def solution(n: int) -> int:
     dp: list[int] = [0] * (n + 1)
