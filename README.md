@@ -1572,6 +1572,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-232"> [ 알고리즘 ] LeetCode 232. Implement Queue using Stacks </a> </td>
     <td> 2022. 08. 29 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/design-parking-system/"> 1603. Design Parking System  </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1603_design_parking_system.py"> 1603_design_parking_system.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1603"> [ 알고리즘 ] LeetCode 1603. Design Parking System </a> </td>
+    <td> 2022. 08. 29 </td>
+</tr>
 </table>
 
 </details>
