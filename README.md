@@ -1623,6 +1623,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-200"> [ 알고리즘 ] LeetCode 200. Number of Islands </a></td>
     <td> 2022. 08. 30 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/rotate-image/"> 48. Rotate Image </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/48_rotate_image.py"> 48_rotate_image.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-48"> [ 알고리즘 ] LeetCode 48. Rotate Image </a></td>
+    <td> 2022. 08. 30 </td>
+</tr>
 </table>
 
 </deails>
