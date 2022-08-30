@@ -1573,10 +1573,16 @@
     <td> 2022. 08. 29 </td>
 </tr>
 <tr align="left">
-    <td> <a href="https://leetcode.com/problems/design-parking-system/"> 1603. Design Parking System  </a></td>
+    <td> <a href="https://leetcode.com/problems/design-parking-system/"> 1603. Design Parking System </a></td>
     <td> <a href="./LeetCode/Python/1_Easy/1603_design_parking_system.py"> 1603_design_parking_system.py </a></td>
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1603"> [ 알고리즘 ] LeetCode 1603. Design Parking System </a> </td>
     <td> 2022. 08. 29 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/"> 1356. Sort Integers by The Number of 1 Bits </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1356_sort_integers_by_the_number_of_1_bits.py"> 1356_sort_integers_by_the_number_of_1_bits.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1356"> [ 알고리즘 ] LeetCode 1356. Sort Integers by The Number of 1 Bits </a> </td>
+    <td> 2022. 08. 30 </td>
 </tr>
 </table>
 
