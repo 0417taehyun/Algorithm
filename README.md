@@ -1602,6 +1602,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1502"> [ 알고리즘 ] LeetCode 1502. Can Make Arithmetic Progression From Sequence </a> </td>
     <td> 2022. 09. 01 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/"> 1790. Check if One String Swap Can Make Strings Equal </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1790_check_if_one_string_swap_can_make_strings_equal.py"> 1790_check_if_one_string_swap_can_make_strings_equal.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1790"> [ 알고리즘 ] LeetCode 1790. Check if One String Swap Can Make Strings Equal </a> </td>
+    <td> 2022. 09. 01 </td>
+</tr>
 </table>
 
 </details>
