@@ -18,7 +18,17 @@ def solution(s1: str, s2: str) -> bool:
     )
                     
 
-def another_solution(s1: str, s2: str) -> bool:
+def failure_solution(s1: str, s2: str) -> bool:
+    """
+    실제 아래 코드로 LeetCode 문제 자체는 풀 수 있지만 확장성 측면에서 실패했다.
+    아래는 발견하게 된 엣지 테스트 케이스다.
+    
+    s1: aabb
+    s2: bbaa
+    
+    위 테스트 케이스처럼 동일한 문자열이 두 개 이상일 때
+    해시 테이블은 결국 고유한 키만 가지기 때문에 문제를 해결할 수 없는 자료 구조다.
+    """
     def validate(iter1: list[str], iter2: list[str]) -> bool:
         temp: dict[str, int] = {}
         for character in iter1:
@@ -114,4 +124,3 @@ if __name__ == "__main__":
     ]
     for case in cases:
         assert case["output"] == solution(**case["input"])
-        assert case["output"] == another_solution(**case["input"])
