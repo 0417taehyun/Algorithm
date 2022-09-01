@@ -1590,6 +1590,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1886"> [ 알고리즘 ] LeetCode 1886. Determine Whether Matrix Can Be Obtained By Rotation </a> </td>
     <td> 2022. 08. 31 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/sign-of-the-product-of-an-array/"> 1822. Sign of the Product of an Array </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1822_sign_of_the_product_of_an_array.py"> 1822_sign_of_the_product_of_an_array.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1822"> [ 알고리즘 ] LeetCode 1822. Sign of the Product of an Array </a> </td>
+    <td> 2022. 09. 01 </td>
+</tr>
 </table>
 
 </details>
