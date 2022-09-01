@@ -1635,6 +1635,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-48"> [ 알고리즘 ] LeetCode 48. Rotate Image </a></td>
     <td> 2022. 08. 30 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/count-good-nodes-in-binary-tree/"> 1448. Count Good Nodes in Binary Tree </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/1448_count_good_nodes_in_binary_tree.py"> 448_count_good_nodes_in_binary_tree.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1448"> [ 알고리즘 ] LeetCode 1448. Count Good Nodes in Binary Tree </a></td>
+    <td> 2022. 09. 01 </td>
+</tr>
 </table>
 
 </deails>
