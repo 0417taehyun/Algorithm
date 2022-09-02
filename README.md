@@ -1608,6 +1608,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1790"> [ 알고리즘 ] LeetCode 1790. Check if One String Swap Can Make Strings Equal </a> </td>
     <td> 2022. 09. 01 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/average-of-levels-in-binary-tree/"> 637. Average of Levels in Binary Tree </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/637_average_of_levels_in_binary_tree.py"> 637_average_of_levels_in_binary_tree.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-637"> [ 알고리즘 ] LeetCode 637. Average of Levels in Binary Tree </a> </td>
+    <td> 2022. 09. 02 </td>
+</tr>
 </table>
 
 </details>
