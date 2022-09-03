@@ -1174,6 +1174,11 @@
     <td> <a href="./LeetCode/SQL/2_Medium/2388_change_null_values_in_a_table_to_the_previous_value.sql"> 2388_change_null_values_in_a_table_to_the_previous_value.sql </a> </td>
     <td> 2022. 08. 26 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/employees-with-deductions/"> 2394. Employees With Deductions </a> </td>
+    <td> <a href="./LeetCode/SQL/2_Medium/2394_employees_with_deductions.sql"> 2394. Employees With Deductions </a> </td>
+    <td> 2022. 09. 03 </td>
+</tr>
 </table>
 
 </details>
