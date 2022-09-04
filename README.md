@@ -1670,6 +1670,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1448"> [ 알고리즘 ] LeetCode 1448. Count Good Nodes in Binary Tree </a></td>
     <td> 2022. 09. 01 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/numbers-with-same-consecutive-differences/"> 967. Numbers With Same Consecutive Differences </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/967_numbers_with_same_consecutive_differences.py"> 967_numbers_with_same_consecutive_differences.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-967"> [ 알고리즘 ] LeetCode 967. Numbers With Same Consecutive Differences </a></td>
+    <td> 2022. 09. 03 </td>
+</tr>
 </table>
 
 </deails>
