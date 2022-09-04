@@ -1680,6 +1680,27 @@
 
 </deails>
 
+<details>
+
+<summary> Hard </summary>
+
+<table>
+<tr>
+    <th> 문제 </th>
+    <th> 코드 </th>
+    <th> 풀이 </th>
+    <th> 일자 </th>
+</tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/"> 987. Vertical Order Traversal of a Binary Tree </a></td>
+    <td> <a href="./LeetCode/Python/3_Hard/987_vertical_order_traversal_of_a_binary_tree.py"> 987_vertical_order_traversal_of_a_binary_tree.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-987"> [ 알고리즘 ] LeetCode 987. Vertical Order Traversal of a Binary Tree </a></td>
+    <td> 2022. 09. 04 </td>
+</tr>
+</table>
+
+</deails>
+
 ### Baekjoon
 
 #### Python
