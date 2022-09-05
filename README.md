@@ -1625,6 +1625,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-145"> [ 알고리즘 ] LeetCode 145. Binary Tree Postorder Traversal </a> </td>
     <td> 2022. 09. 05 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/binary-tree-postorder-traversal/"> 94. Binary Tree Inorder Traversal </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/94_binary_tree_inorder_traversal.py"> 94_binary_tree_inorder_traversal.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-145"> [ 알고리즘 ] LeetCode 94. Binary Tree Inorder Traversal </a> </td>
+    <td> 2022. 09. 05 </td>
+</tr>
 </table>
 
 </details>
