@@ -1631,6 +1631,18 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-145"> [ 알고리즘 ] LeetCode 94. Binary Tree Inorder Traversal </a> </td>
     <td> 2022. 09. 05 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/"> 144. Binary Tree Preorder Traversal </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/144_binary_tree_preorder_traversal.py"> 144_binary_tree_preorder_traversal.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-144"> [ 알고리즘 ] LeetCode 144. Binary Tree Preorder Traversal </a> </td>
+    <td> 2022. 09. 06 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/"> 104. Maximum Depth of Binary Tree </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/104_maximum_depth_of_binary_tree.py"> 104_maximum_depth_of_binary_tree.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-104"> [ 알고리즘 ] LeetCode 104. Maximum Depth of Binary Tree </a> </td>
+    <td> 2022. 09. 06 </td>
+</tr>
 </table>
 
 </details>
