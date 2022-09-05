@@ -1619,6 +1619,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-637"> [ 알고리즘 ] LeetCode 637. Average of Levels in Binary Tree </a> </td>
     <td> 2022. 09. 02 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/binary-tree-postorder-traversal/"> 145. Binary Tree Postorder Traversal </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/145_binary_tree_postorder_traversal.py"> 145_binary_tree_postorder_traversal.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-145"> [ 알고리즘 ] LeetCode 145. Binary Tree Postorder Traversal </a> </td>
+    <td> 2022. 09. 05 </td>
+</tr>
 </table>
 
 </details>
