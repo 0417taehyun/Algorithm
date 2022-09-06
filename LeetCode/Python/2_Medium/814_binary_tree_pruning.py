@@ -22,9 +22,8 @@ def another_solution(root: "TreeNode") -> "TreeNode":
         if not another_solution(root=root.right):
             root.right = None
         
-        if not root.val or not root.left or not root.right:
+        if not root.val and not root.left and not root.right:
             return None
-        
         else:
             return root
 
@@ -40,7 +39,7 @@ if __name__ == "__main__":
             self.val = val
             self.left = left
             self.right = right
-        
+            
     
     def create_binary_tree(index: int, items: list[int | None]) -> TreeNode:
         if items[index] != None:
@@ -54,7 +53,23 @@ if __name__ == "__main__":
         
         else:
             return None
-        
+    
+    
+    def convert_binary_tree_to_list(node: TreeNode):
+        global nodes
+        if node:
+            nodes.append(node.val)
+            if node.left or node.right:
+                if node.left:
+                    convert_binary_tree_to_list(node.left)
+                else:
+                    nodes.append(None)
+                    
+                if node.right:
+                    convert_binary_tree_to_list(node.right)
+                else:
+                    nodes.append(None)
+                
 
     cases: list[dict[str, dict[str, list[int | None]] | list[int | None]]] = [
         {
@@ -70,17 +85,24 @@ if __name__ == "__main__":
             "output": [1, None, 1, None, 1]
         },
         {
-            "input": {
-                "items": [
-                    1, 1, 0, 1, 1, 0, 1, 0, None,
-                    None, None, None, None, None, None
-                ]
-            },
-            "output": [1, 1, 0, 1, 1, None, 1]
-        },
-               {
             "input": { "items": [0] },
             "output": []
         }                 
     ]
-    
+    for case in cases:
+        nodes: list[int | None] = []
+        convert_binary_tree_to_list(
+            node=solution(
+                root=create_binary_tree(index=0, items=case["input"]["items"])
+            )
+        )
+        assert case["output"] == nodes
+        
+        nodes: list[int | None] = []
+        convert_binary_tree_to_list(
+            node=another_solution(
+                root=create_binary_tree(index=0, items=case["input"]["items"])
+            )
+        )
+        assert case["output"] == nodes
+        
