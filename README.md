@@ -1706,6 +1706,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-814"> [ 알고리즘 ] LeetCode 814. Binary Tree Pruning </a></td>
     <td> 2022. 09. 06 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/"> 298. Binary Tree Longest Consecutive Sequence </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/298_binary_tree_longest_consecutive_sequence.py"> 298_binary_tree_longest_consecutive_sequence.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-814"> [ 알고리즘 ] LeetCode 298. Binary Tree Longest Consecutive Sequence </a></td>
+    <td> 2022. 09. 07 </td>
+</tr>
 </table>
 
 </deails>
