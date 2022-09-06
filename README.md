@@ -1700,6 +1700,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-967"> [ 알고리즘 ] LeetCode 967. Numbers With Same Consecutive Differences </a></td>
     <td> 2022. 09. 03 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/binary-tree-pruning/"> 814. Binary Tree Pruning </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/814_binary_tree_pruning.py"> 814_binary_tree_pruning.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-814"> [ 알고리즘 ] LeetCode 814. Binary Tree Pruning </a></td>
+    <td> 2022. 09. 06 </td>
+</tr>
 </table>
 
 </deails>
