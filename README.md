@@ -1643,6 +1643,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-104"> [ 알고리즘 ] LeetCode 104. Maximum Depth of Binary Tree </a> </td>
     <td> 2022. 09. 06 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/check-if-an-array-is-consecutive/"> 2229. Check if an Array Is Consecutive </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/2229_check_if_an_array_Is_consecutive.py"> 2229_check_if_an_array_Is_consecutive.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-2229"> [ 알고리즘 ] LeetCode 2229. Check if an Array Is Consecutive </a> </td>
+    <td> 2022. 09. 07 </td>
+</tr>
 </table>
 
 </details>
