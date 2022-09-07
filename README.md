@@ -1649,6 +1649,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-2229"> [ 알고리즘 ] LeetCode 2229. Check if an Array Is Consecutive </a> </td>
     <td> 2022. 09. 07 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/construct-string-from-binary-tree/"> 606. Construct String from Binary Tree </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/606_construct_string_from_binary_tree.py"> 606_construct_string_from_binary_tree.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-2229"> [ 알고리즘 ] LeetCode 606. Construct String from Binary Tree </a> </td>
+    <td> 2022. 09. 07 </td>
+</tr>
 </table>
 
 </details>
