@@ -1655,6 +1655,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-2229"> [ 알고리즘 ] LeetCode 606. Construct String from Binary Tree </a> </td>
     <td> 2022. 09. 07 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/sum-of-left-leaves/"> 404. Sum of Left Leaves </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/404_sum_of_left_leaves.py"> 404_sum_of_left_leaves.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-2229"> [ 알고리즘 ] LeetCode 404. Sum of Left Leaves </a> </td>
+    <td> 2022. 09. 07 </td>
+</tr>
 </table>
 
 </details>
