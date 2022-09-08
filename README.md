@@ -1730,6 +1730,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-814"> [ 알고리즘 ] LeetCode 298. Binary Tree Longest Consecutive Sequence </a></td>
     <td> 2022. 09. 07 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/design-hit-counter/"> 362. Design Hit Counter </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/362_design_hit_counter.py"> 362_design_hit_counter.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-362"> [ 알고리즘 ] LeetCode 362. Design Hit Counter </a></td>
+    <td> 2022. 09. 08 </td>
+</tr>
 </table>
 
 </deails>
