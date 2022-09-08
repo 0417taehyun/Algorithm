@@ -18,6 +18,43 @@ def solution(root: "TreeNode") -> list[int]:
     return answer
 
 
+def another_solution(root: "TreeNode") -> list[int]:
+    answer: list[int] = []
+    stack: list[TreeNode] = []
+    node: TreeNode = root
+    while node or stack:
+        while node:
+            stack.append(node)
+            node = node.left
+        node = stack.pop()
+        answer.append(node.val)
+        node = node.right
+    
+    return answer
+
+
+def morris_solution(root: "TreeNode") -> list[int]:
+    answer: list[int] = []
+    current_node: TreeNode = root
+    rightmost_node: TreeNode = None
+    while current_node:
+        if current_node.left:
+            rightmost_node = current_node.left
+            while rightmost_node.right:
+                rightmost_node = rightmost_node.right
+            
+            temp: TreeNode = current_node
+            rightmost_node.right = current_node
+            current_node = current_node.left
+            temp.left = None
+        
+        else:
+            answer.append(current_node.val)
+            current_node = current_node.right
+            
+    return answer
+
+
 if __name__ == "__main__":
     class TreeNode:
         def __init__(
@@ -53,7 +90,7 @@ if __name__ == "__main__":
     cases: list = [
         {
             "input": { "items": [1, None, 2, None, None, 3, None] },
-            "output": [3, 2, 1]
+            "output": [1, 3, 2]
         },
         {
             "input": { "items": [None] },
@@ -68,4 +105,10 @@ if __name__ == "__main__":
         assert case["output"] == solution(
             root=create_binary_tree(index=0, items=case["input"]["items"])
         )
+        assert case["output"] == another_solution(
+            root=create_binary_tree(index=0, items=case["input"]["items"])
+        )
+        assert case["output"] == morris_solution(
+            root=create_binary_tree(index=0, items=case["input"]["items"])
+        )                
         
