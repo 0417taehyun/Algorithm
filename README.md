@@ -1736,6 +1736,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-362"> [ 알고리즘 ] LeetCode 362. Design Hit Counter </a></td>
     <td> 2022. 09. 08 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/"> 1996. The Number of Weak Characters in the Game </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/1996_the_number_of_weak_characters_in_the_game.py"> 1996_the_number_of_weak_characters_in_the_game.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1996"> [ 알고리즘 ] LeetCode 1996. The Number of Weak Characters in the Game </a></td>
+    <td> 2022. 09. 09 </td>
+</tr>
 </table>
 
 </deails>
