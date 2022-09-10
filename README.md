@@ -1661,6 +1661,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-2229"> [ 알고리즘 ] LeetCode 404. Sum of Left Leaves </a> </td>
     <td> 2022. 09. 07 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"> 121. Best Time to Buy and Sell Stock </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/121_best_time_to_buy_and_sell_stock.py"> 121_best_time_to_buy_and_sell_stock.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-121"> [ 알고리즘 ] LeetCode 121. Best Time to Buy and Sell Stock </a> </td>
+    <td> 2022. 09. 10 </td>
+</tr>
 </table>
 
 </details>
