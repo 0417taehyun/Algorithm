@@ -12,7 +12,7 @@ def solution(prices: list[int]) -> int:
 
 
 if __name__ == "__main__":
-    cases: dict[str, dict[str, list[int]] | int] = [
+    cases: list[str, dict[str, list[int]] | int] = [
         {
             "input": { "prices": [7, 1, 5, 3, 6, 4] },
             "output": 5

@@ -1667,6 +1667,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-121"> [ 알고리즘 ] LeetCode 121. Best Time to Buy and Sell Stock </a> </td>
     <td> 2022. 09. 10 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/maximum-difference-between-increasing-elements/"> 2016. Maximum Difference Between Increasing Elements </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/2016_maximum_difference_between_increasing_elements.py"> 2016_maximum_difference_between_increasing_elements.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-2016"> [ 알고리즘 ] LeetCode 2016. Maximum Difference Between Increasing Elements </a> </td>
+    <td> 2022. 09. 10 </td>
+</tr>
 </table>
 
 </details>
@@ -1747,6 +1753,12 @@
     <td> <a href="./LeetCode/Python/2_Medium/1996_the_number_of_weak_characters_in_the_game.py"> 1996_the_number_of_weak_characters_in_the_game.py </a></td>
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1996"> [ 알고리즘 ] LeetCode 1996. The Number of Weak Characters in the Game </a></td>
     <td> 2022. 09. 09 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/maximum-subarray/"> 53. Maximum Subarray </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/53_maximum_subarray.py"> 53_maximum_subarray.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-53"> [ 알고리즘 ] LeetCode 53. Maximum Subarray </a></td>
+    <td> 2022. 09. 10 </td>
 </tr>
 </table>
 
