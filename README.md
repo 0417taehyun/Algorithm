@@ -1673,6 +1673,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-2016"> [ 알고리즘 ] LeetCode 2016. Maximum Difference Between Increasing Elements </a> </td>
     <td> 2022. 09. 10 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/two-furthest-houses-with-different-colors/"> 2078. Two Furthest Houses With Different Colors </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/2078_two_furthest_houses_with_different_colors.py"> 2078_two_furthest_houses_with_different_colors.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-2078"> [ 알고리즘 ] LeetCode 2078. Two Furthest Houses With Different Colors </a> </td>
+    <td> 2022. 09. 10 </td>
+</tr>
 </table>
 
 </details>
