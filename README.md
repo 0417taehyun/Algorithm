@@ -1778,6 +1778,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-152"> [ 알고리즘 ] LeetCode 152. Maximum Product Subarray </a></td>
     <td> 2022. 09. 12 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii"> 122. Best Time to Buy and Sell Stock II </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/122_best_time_to_buy_and_sell_stock_II.py"> 122_best_time_to_buy_and_sell_stock_II.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-122"> [ 알고리즘 ] LeetCode 122. Best Time to Buy and Sell Stock II </a></td>
+    <td> 2022. 09. 12 </td>
+</tr>
 </table>
 
 </deails>
