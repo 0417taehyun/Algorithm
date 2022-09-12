@@ -1772,6 +1772,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-948"> [ 알고리즘 ] LeetCode 948. Bag of Tokens </a></td>
     <td> 2022. 09. 12 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/maximum-product-subarray/"> 152. Maximum Product Subarray </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/152_maximum_product_subarray.py"> 152_maximum_product_subarray.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-152"> [ 알고리즘 ] LeetCode 152. Maximum Product Subarray </a></td>
+    <td> 2022. 09. 12 </td>
+</tr>
 </table>
 
 </deails>
