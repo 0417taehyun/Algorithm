@@ -1766,6 +1766,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-53"> [ 알고리즘 ] LeetCode 53. Maximum Subarray </a></td>
     <td> 2022. 09. 10 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/bag-of-tokens/"> 948. Bag of Tokens </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/948_bag_of_tokens.py"> 948_bag_of_tokens.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-948"> [ 알고리즘 ] LeetCode 948. Bag of Tokens </a></td>
+    <td> 2022. 09. 12 </td>
+</tr>
 </table>
 
 </deails>
