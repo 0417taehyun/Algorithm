@@ -1784,6 +1784,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-122"> [ 알고리즘 ] LeetCode 122. Best Time to Buy and Sell Stock II </a></td>
     <td> 2022. 09. 12 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/utf-8-validation"> 393. UTF-8 Validation </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/393_utf-8_validation.py"> 393_utf-8_validation.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-122"> [ 알고리즘 ] LeetCode 393. UTF-8 Validation </a></td>
+    <td> 2022. 09. 13 </td>
+</tr>
 </table>
 
 </deails>
