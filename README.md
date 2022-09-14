@@ -1691,6 +1691,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-136"> [ 알고리즘 ] LeetCode 136. Single Number </a> </td>
     <td> 2022. 09. 14 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/missing-number/"> 268. Missing Number </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/268_missing_number.py"> 268_missing_number.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-268"> [ 알고리즘 ] LeetCode 268. Missing Number </a> </td>
+    <td> 2022. 09. 14 </td>
+</tr>
 </table>
 
 </details>
