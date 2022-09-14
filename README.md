@@ -1790,6 +1790,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-122"> [ 알고리즘 ] LeetCode 393. UTF-8 Validation </a></td>
     <td> 2022. 09. 13 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/"> 1457. Pseudo-Palindromic Paths in a Binary Tree </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/1457_pseudo-palindromic_paths_in_a_binary_tree.py"> 1457_pseudo-palindromic_paths_in_a_binary_tree.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1457"> [ 알고리즘 ] LeetCode 1457. Pseudo-Palindromic Paths in a Binary Tree </a></td>
+    <td> 2022. 09. 14 </td>
+</tr>
 </table>
 
 </deails>
