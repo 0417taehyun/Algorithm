@@ -1679,6 +1679,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-2078"> [ 알고리즘 ] LeetCode 2078. Two Furthest Houses With Different Colors </a> </td>
     <td> 2022. 09. 10 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/power-of-two/"> 231. Power of Two </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/231_power_of_two.py"> 231_power_of_two.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-231"> [ 알고리즘 ] LeetCode 231. Power of Two </a> </td>
+    <td> 2022. 09. 14 </td>
+</tr>
 </table>
 
 </details>
