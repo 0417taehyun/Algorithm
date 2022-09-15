@@ -1814,6 +1814,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-1457"> [ 알고리즘 ] LeetCode 1457. Pseudo-Palindromic Paths in a Binary Tree </a></td>
     <td> 2022. 09. 14 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/find-original-array-from-doubled-array/"> 2007. Find Original Array From Doubled Array </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/2007_find_original_array_from_doubled_array.py"> 2007_find_original_array_from_doubled_array.py </a></td>
+    <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-2007"> [ 알고리즘 ] LeetCode 2007. Find Original Array From Doubled Array </a></td>
+    <td> 2022. 09. 15 </td>
+</tr>
 </table>
 
 </deails>
