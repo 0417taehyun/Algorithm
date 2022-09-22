@@ -1709,6 +1709,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 344. Reverse String </a> </td>
     <td> 2022. 09. 22 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/reverse-string/"> 1119. Remove Vowels from a String </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1119_remove_vowels_from_a_string.py"> 1119_remove_vowels_from_a_string.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 1119. Remove Vowels from a String </a> </td>
+    <td> 2022. 09. 23 </td>
+</tr>
 </table>
 
 </details>
