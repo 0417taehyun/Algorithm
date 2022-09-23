@@ -1733,6 +1733,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 1796. Second Largest Digit in a String </a> </td>
     <td> 2022. 09. 23 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/"> 2259. Remove Digit From Number to Maximize Result </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/2259_remove_digit_from_number_to_maximize_result.py"> 2259_remove_digit_from_number_to_maximize_result.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 2259. Remove Digit From Number to Maximize Result </a> </td>
+    <td> 2022. 09. 23 </td>
+</tr>
 </table>
 
 </details>
