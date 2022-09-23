@@ -1721,6 +1721,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 541. Reverse String II </a> </td>
     <td> 2022. 09. 23 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/reverse-vowels-of-a-string/"> 345. Reverse Vowels of a String </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/345_reverse_vowels_of_a_string.py"> 345_reverse_vowels_of_a_string.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 345. Reverse Vowels of a String </a> </td>
+    <td> 2022. 09. 23 </td>
+</tr>
 </table>
 
 </details>
