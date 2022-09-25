@@ -1868,6 +1868,12 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-leetcode-2007"> [ 알고리즘 ] LeetCode 2007. Find Original Array From Doubled Array </a></td>
     <td> 2022. 09. 15 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/path-sum-ii/"> 113. Path Sum II </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/113_path_sum_II.py"> 113_path_sum_II.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 113. Path Sum II </a></td>
+    <td> 2022. 09. 25 </td>
+</tr>
 </table>
 
 </deails>
