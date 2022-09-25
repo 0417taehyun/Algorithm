@@ -1739,6 +1739,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 2259. Remove Digit From Number to Maximize Result </a> </td>
     <td> 2022. 09. 23 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/path-sum/"> 112. Path Sum </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/112_path_sum.py"> 112_path_sum.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 112. Path Sum </a> </td>
+    <td> 2022. 09. 25 </td>
+</tr>
 </table>
 
 </details>
