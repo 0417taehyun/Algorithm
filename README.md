@@ -1745,6 +1745,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 112. Path Sum </a> </td>
     <td> 2022. 09. 25 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/guess-number-higher-or-lower/"> 374. Guess Number Higher or Lower </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/374_guess_number_higher_or_lower.py"> 374_guess_number_higher_or_lower.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 374. Guess Number Higher or Lower </a> </td>
+    <td> 2022. 09. 27 </td>
+</tr>
 </table>
 
 </details>
