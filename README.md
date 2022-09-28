@@ -1880,6 +1880,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 113. Path Sum II </a></td>
     <td> 2022. 09. 25 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/"> 852. Peak Index in a Mountain Array </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/852_peak_index_in_a_mountain_array.py"> 852_peak_index_in_a_mountain_array.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 852. Peak Index in a Mountain Array </a></td>
+    <td> 2022. 09. 28 </td>
+</tr>
 </table>
 
 </deails>
