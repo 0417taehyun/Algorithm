@@ -19,6 +19,16 @@ def solution(num: int) -> bool:
         return False
 
 
+def newton_method(num: int) -> bool:
+    if num <= 1:
+        return True
+    else:
+        x: int = num // 2
+        while (x * x) > num:
+            x = (x + (num // x)) // 2
+        return x * x == num
+
+
 if __name__ == "__main__":
     cases: list[dict[str, dict[str, int] | bool]] = [
         { "input": { "num": 16 }, "output": True },
@@ -26,4 +36,5 @@ if __name__ == "__main__":
     ]
     for case in cases:
         assert case["output"] == solution(**case["input"])
-    
+        assert case["output"] == newton_method(**case["input"])
+        
