@@ -1757,6 +1757,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 367. Valid Perfect Square </a> </td>
     <td> 2022. 09. 29 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/sqrtx/"> 69. Sqrt(x) </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/69_sqrt(x).py"> 69_sqrt(x).py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 69. Sqrt(x) </a> </td>
+    <td> 2022. 09. 29 </td>
+</tr>
 </table>
 
 </details>
