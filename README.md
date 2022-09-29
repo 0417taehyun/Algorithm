@@ -1763,6 +1763,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 69. Sqrt(x) </a> </td>
     <td> 2022. 09. 29 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/"> 744. Find Smallest Letter Greater Than Target </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/744_find_smallest_letter_greater_than_target.py"> 744_find_smallest_letter_greater_than_target.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 744. Find Smallest Letter Greater Than Target </a> </td>
+    <td> 2022. 09. 30 </td>
+</tr>
 </table>
 
 </details>
