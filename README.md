@@ -1751,6 +1751,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 374. Guess Number Higher or Lower </a> </td>
     <td> 2022. 09. 27 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/valid-perfect-square/"> 367. Valid Perfect Square </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/367_valid_perfect_square.py"> 367_valid_perfect_square.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 367. Valid Perfect Square </a> </td>
+    <td> 2022. 09. 29 </td>
+</tr>
 </table>
 
 </details>
