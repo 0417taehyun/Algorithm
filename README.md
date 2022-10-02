@@ -1775,6 +1775,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 441. Arranging Coins </a> </td>
     <td> 2022. 10. 02 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/kth-missing-positive-number/"> 1539. Kth Missing Positive Number </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1539_kth_missing_positive_number.py"> 1539_kth_missing_positive_number.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 1539. Kth Missing Positive Number </a> </td>
+    <td> 2022. 10. 02 </td>
+</tr>
 </table>
 
 </details>
