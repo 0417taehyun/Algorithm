@@ -1904,6 +1904,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 852. Peak Index in a Mountain Array </a></td>
     <td> 2022. 09. 28 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/"> 34. Find First and Last Position of Element in Sorted Array </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/34_find_first_and_last_position_of_element_in_sorted_array.py"> 34_find_first_and_last_position_of_element_in_sorted_array.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 34. Find First and Last Position of Element in Sorted Array </a></td>
+    <td> 2022. 10. 02 </td>
+</tr>
 </table>
 
 </deails>
