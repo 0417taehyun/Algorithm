@@ -1769,6 +1769,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 744. Find Smallest Letter Greater Than Target </a> </td>
     <td> 2022. 09. 30 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/arranging-coins/"> 441. Arranging Coins </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/441_arranging_coins.py"> 441_arranging_coins.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 441. Arranging Coins </a> </td>
+    <td> 2022. 10. 02 </td>
+</tr>
 </table>
 
 </details>
