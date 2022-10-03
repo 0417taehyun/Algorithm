@@ -1787,6 +1787,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 1608. Special Array With X Elements Greater Than or Equal X </a> </td>
     <td> 2022. 10. 03 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/"> 1351. Count Negative Numbers in a Sorted Matrix </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1351_count_negative_numbers_in_a_sorted_matrix.py"> 1351_count_negative_numbers_in_a_sorted_matrix.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 1351. Count Negative Numbers in a Sorted Matrix </a> </td>
+    <td> 2022. 10. 04 </td>
+</tr>
 </table>
 
 </details>
