@@ -1781,6 +1781,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 1539. Kth Missing Positive Number </a> </td>
     <td> 2022. 10. 02 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/"> 1608. Special Array With X Elements Greater Than or Equal X </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1608_special_array_with_x_elements_greater_than_or_equal_x.py"> 1608_special_array_with_x_elements_greater_than_or_equal_x.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 1608. Special Array With X Elements Greater Than or Equal X </a> </td>
+    <td> 2022. 10. 03 </td>
+</tr>
 </table>
 
 </details>
