@@ -1934,6 +1934,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 34. Find First and Last Position of Element in Sorted Array </a></td>
     <td> 2022. 10. 02 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/search-a-2d-matrix/"> 74. Search a 2D Matrix </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/74_search_a_2d_matrix.py"> 74_search_a_2d_matrix.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 74. Search a 2D Matrix </a></td>
+    <td> 2022. 10. 04 </td>
+</tr>
 </table>
 
 </deails>
