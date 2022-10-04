@@ -12,6 +12,18 @@ def solution(arr: list[int], k: int) -> int:
                 return number
 
 
+def another_soluiton(arr: list[int], k: int) -> int:
+    start, end = 0, len(arr) - 1
+    while start <= end:
+        middle: int = start + (end - start) // 2
+        if arr[middle] - middle - 1 < k:
+            start = middle + 1
+        else:
+            end = middle - 1
+    
+    return k + start
+
+
 if __name__ == "__main__":
     cases: list[dict[str, dict[str, list[int] | int] | int]] = [
         {
