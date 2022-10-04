@@ -1793,6 +1793,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 1351. Count Negative Numbers in a Sorted Matrix </a> </td>
     <td> 2022. 10. 04 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/"> 1337. The K Weakest Rows in a Matrix </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1337_the_k_weakest_rows_in_a_matrix.py"> 1337_the_k_weakest_rows_in_a_matrix.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 1337. The K Weakest Rows in a Matrix </a> </td>
+    <td> 2022. 10. 05 </td>
+</tr>
 </table>
 
 </details>
