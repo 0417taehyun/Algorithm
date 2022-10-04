@@ -1799,6 +1799,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 1337. The K Weakest Rows in a Matrix </a> </td>
     <td> 2022. 10. 05 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/"> 1346. Check If N and Its Double Exist </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1346_check_if_n_and_its_double_exist.py"> 1346_check_if_n_and_its_double_exist.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 1346. Check If N and Its Double Exist </a> </td>
+    <td> 2022. 10. 05 </td>
+</tr>
 </table>
 
 </details>
