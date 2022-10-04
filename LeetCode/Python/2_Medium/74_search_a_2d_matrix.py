@@ -11,7 +11,23 @@ def solution(matrix: list[list[int]], target: int) -> bool:
             left += 1
         else:
             return True
-    
+
+    return False
+
+
+def another_solution(matrix: list[list[int]], target: int) -> bool:
+    M, N = len(matrix), len(matrix[0])
+    start, end = 0, M * N - 1
+    while start <= end:
+        middle: int = start + (end - start) // 2
+        compare: int = matrix[middle//N][middle%N]
+        if compare > target:
+            end = middle - 1
+        elif compare < target:
+            start = middle + 1
+        else:
+            return True
+        
     return False
 
 
@@ -42,4 +58,5 @@ if __name__ == "__main__":
     ]
     for case in cases:
         assert case["output"] == solution(**case["input"])
+        assert case["output"] == another_solution(**case["input"])
         
