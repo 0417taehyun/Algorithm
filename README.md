@@ -1964,6 +1964,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 74. Search a 2D Matrix </a></td>
     <td> 2022. 10. 04 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/sum-of-square-numbers/"> 633. Sum of Square Numbers </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/633_sum_of_square_numbers.py"> 633_sum_of_square_numbers.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 633. Sum of Square Numbers </a></td>
+    <td> 2022. 10. 06 </td>
+</tr>
 </table>
 
 </deails>
