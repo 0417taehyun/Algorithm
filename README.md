@@ -1811,6 +1811,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 350. Intersection of Two Arrays II </a> </td>
     <td> 2022. 10. 06 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/intersection-of-two-arrays/"> 349. Intersection of Two Arrays </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/349_intersection_of_two_arrays.py"> 349_intersection_of_two_arrays.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 349. Intersection of Two Arrays </a> </td>
+    <td> 2022. 10. 06 </td>
+</tr>
 </table>
 
 </details>
