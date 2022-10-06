@@ -1805,6 +1805,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 1346. Check If N and Its Double Exist </a> </td>
     <td> 2022. 10. 05 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/intersection-of-two-arrays-ii/"> 350. Intersection of Two Arrays II </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/350_intersection_of_two_arrays_II.py"> 350_intersection_of_two_arrays_II.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 350. Intersection of Two Arrays II </a> </td>
+    <td> 2022. 10. 06 </td>
+</tr>
 </table>
 
 </details>
