@@ -14,6 +14,17 @@ def solution(arr: list[int]) -> bool:
     return False
 
 
+def another_solution(arr: list[int]) -> bool:
+    seen: set = set()
+    for number in arr:
+        if (number * 2) in seen or (number / 2) in seen:
+            return True
+        else:
+            seen.add(number)
+    
+    return False
+
+
 if __name__ == "__main__":
     cases: list[dict[str, dict[str, list[int]] | bool]] = [
         {
