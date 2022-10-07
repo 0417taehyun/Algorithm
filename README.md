@@ -1970,6 +1970,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 633. Sum of Square Numbers </a></td>
     <td> 2022. 10. 06 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/"> 1855. Maximum Distance Between a Pair of Values </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/1855_maximum_distance_between_a_pair_of_values.py"> 1855_maximum_distance_between_a_pair_of_values.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 1855. Maximum Distance Between a Pair of Values </a></td>
+    <td> 2022. 10. 07 </td>
+</tr>
 </table>
 
 </deails>
