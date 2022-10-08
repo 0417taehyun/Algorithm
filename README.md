@@ -1982,6 +1982,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 153. Find Minimum in Rotated Sorted Array </a></td>
     <td> 2022. 10. 08 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/"> 33. Search in Rotated Sorted Array </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/33_search_in_rotated_sorted_array.py"> 33_search_in_rotated_sorted_array.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 33. Search in Rotated Sorted Array </a></td>
+    <td> 2022. 10. 08 </td>
+</tr>
 </table>
 
 </deails>
