@@ -1976,6 +1976,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 1855. Maximum Distance Between a Pair of Values </a></td>
     <td> 2022. 10. 07 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"> 153. Find Minimum in Rotated Sorted Array </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/153_find_minimum_in_rotated_sorted_array.py"> 153_find_minimum_in_rotated_sorted_array.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 153. Find Minimum in Rotated Sorted Array </a></td>
+    <td> 2022. 10. 08 </td>
+</tr>
 </table>
 
 </deails>
