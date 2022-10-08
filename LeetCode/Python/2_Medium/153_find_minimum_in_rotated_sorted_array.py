@@ -13,6 +13,23 @@ def solution(nums: list[int]) -> int:
     return answer
 
 
+def another_solution(nums: list[int]) -> int:
+    start, end = 0, len(nums) - 1
+    if end == 0:
+        return nums[0]
+    elif nums[start] < nums[end]:
+        return nums[0]
+    else:
+        while start <= end:
+            middle: int = start + (end - start) // 2
+            if nums[middle] > nums[middle + 1]:
+                return nums[middle + 1]
+            elif nums[start] > nums[middle]:
+                end = middle - 1
+            else:
+                start = middle + 1
+
+
 if __name__ == "__main__":
     cases: list[dict[str, dict[list[int]] | int]] = [
         {
@@ -34,4 +51,5 @@ if __name__ == "__main__":
     ]
     for case in cases:
         assert case["output"] == solution(**case["input"])
+        assert case["output"] == another_solution(**case["input"])
         
