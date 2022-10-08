@@ -1817,6 +1817,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 349. Intersection of Two Arrays </a> </td>
     <td> 2022. 10. 06 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/find-the-distance-value-between-two-arrays/"> 1385. Find the Distance Value Between Two Arrays </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1385_find_the_distance_value_between_two_arrays.py"> 1385_find_the_distance_value_between_two_arrays.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 1385. Find the Distance Value Between Two Arrays </a> </td>
+    <td> 2022. 10. 08 </td>
+</tr>
 </table>
 
 </details>
