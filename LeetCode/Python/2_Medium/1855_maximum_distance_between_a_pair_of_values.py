@@ -15,6 +15,22 @@ def solution(nums1: list[int], nums2: list[int]) -> int:
     return answer
 
 
+def another_solution(nums1: list[int], nums2: list[int]) -> int:
+    answer: int = 0
+    for i, number in enumerate(nums1):
+        start, end = i, len(nums2) - 1
+        while start <= end:
+            middle: int = start + (end - start) // 2
+            if number <= nums2[middle]:
+                start = middle + 1
+            else:
+                end = middle - 1
+        
+        answer = max(answer, end - i)
+    
+    return answer
+
+
 if __name__ == "__main__":
     cases: list[dict[str, dict[str, list[int]] | int]] = [
         {
@@ -41,3 +57,4 @@ if __name__ == "__main__":
     ]
     for case in cases:
         assert case["output"] == solution(**case["input"])
+        assert case["output"] == another_solution(**case["input"])
