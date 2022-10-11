@@ -25,6 +25,41 @@ def solution(mat: list[list[int]], k: int) -> list[int]:
     return answer
 
 
+def another_solution(mat: list[list[int]], k: int) -> list[int]:
+    import heapq
+    
+    
+    n: int = len(mat[0])
+    queue: list[tuple[int, int]] = []
+    for index in range(len(mat)):
+        start, end = 0, n - 1
+        while start <= end:
+            middle: int = start + (end - start) // 2
+            if mat[index][middle] == 0:
+                end = middle - 1
+            else:
+                start = middle + 1
+        
+        entry: tuple[int, int] = (-start, -index)
+        if len(queue) < k or queue[0] < entry:
+            heapq.heappush(queue, entry)
+
+        if len(queue) > k:
+            heapq.heappop(queue)
+        
+    answer: list[int] = []
+    while queue:
+        _, index = heapq.heappop(queue)
+        answer.append(-index)
+    
+    answer.reverse()
+    return answer
+
+
+def vertical_interation(mat: list[list[int]], k: int) -> list[int]:
+    pass
+
+
 if __name__ == "__main__":
     cases: list[dict[str, dict[str, list[list[int]] | int] | list[int]]] = [
         {
@@ -55,4 +90,6 @@ if __name__ == "__main__":
     ]
     for case in cases:
         assert case["output"] == solution(**case["input"])
+        assert case["output"] == another_solution(**case["input"])
+        # assert case["output"] == vertical_interation(**case["input"])
         
