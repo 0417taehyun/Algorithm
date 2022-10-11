@@ -57,7 +57,29 @@ def another_solution(mat: list[list[int]], k: int) -> list[int]:
 
 
 def vertical_interation(mat: list[list[int]], k: int) -> list[int]:
-    pass
+    answer: list[int] = []
+    m, n = len(mat), len(mat[0])
+    for column in len(n):
+        for row in range(m):
+            if (
+                len(answer) < k
+                and
+                mat[row][column] == 0
+                and (
+                    column == 0
+                    or
+                    mat[row][column - 1] == 1
+                )
+            ):
+                answer.append(row)
+
+    row: int = 0
+    while len(answer) < k:
+        if mat[row][-1] == 1:
+            answer.append(row)
+        row += 1
+    
+    return answer
 
 
 if __name__ == "__main__":
