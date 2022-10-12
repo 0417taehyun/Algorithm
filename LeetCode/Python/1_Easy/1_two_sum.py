@@ -1,30 +1,43 @@
 # [ LeetCode ] 1. Two Sum
 
 def solution(nums: list[int], target: int) -> list[int]:
-    numbers: list[tuple[int, int]] = sorted(
-        [ (idx, number) for idx, number in enumerate(nums) ],
-        key=lambda x: x[1]
-    )
+    table: dict[int, int] = {
+        index: number for index, number in enumerate(nums)
+    }
+    numbers: list[tuple[int, int]] = sorted(table.items(), key=lambda x: x[1])
     left, right = 0, len(nums) - 1
-    while left <= right:
-        compare_target: int = numbers[left][1] + numbers[right][1]
-        if compare_target == target:
-            return [ numbers[left][0], numbers[right][0] ]
-        elif compare_target > target:
+    while left < right:
+        left_value, right_value = numbers[left][1], numbers[right][1]
+        compare: int = left_value + right_value
+            
+        if compare > target:
             right -= 1
-        else:
+        elif compare < target:
             left += 1
+        else:
+            return [numbers[left][0], numbers[right][0]]
 
 
 def another_solution(nums: list[int], target: int) -> list[int]:
+    numbers: dict[int, int] = {
+        number: index for index, number in enumerate(nums)
+    }
+    for index, number in enumerate(nums):
+        diff: int = target - number
+        if diff in numbers and numbers[diff] != index:
+            return [index, numbers[diff]]
+
+
+def one_pass_solution(nums: list[int], target: int) -> list[int]:
     numbers: dict[int, int] = {}
-    for idx, num in enumerate(nums):
-        complement: int = target - num
-        if complement in numbers:
-            return [ numbers[complement], idx ]
-        else:
-            numbers[num] = idx
+    for index, number in enumerate(nums):
+        diff: int = target - number
+        if diff in numbers:
+            return [numbers[diff], index]
         
+        else:
+            numbers[number] = index
+
     
 if __name__ == "__main__":
     cases: list[dict[str, dict[str, list[int] | int]] | list[int]] = [
@@ -51,10 +64,7 @@ if __name__ == "__main__":
         },                
     ]
     for case in cases:
-        assert case["output"] == solution(
-            nums=case["input"]["nums"], target=case["input"]["target"]
-        )
-        assert case["output"] == another_solution(
-            nums=case["input"]["nums"], target=case["input"]["target"]
-        )
+        assert case["output"] == solution(**case["input"])
+        assert case["output"] == another_solution(**case["input"])
+        assert case["output"] == one_pass_solution(**case["input"])
                 
