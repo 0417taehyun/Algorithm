@@ -1829,6 +1829,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 88. Merge Sorted Array </a> </td>
     <td> 2022. 10. 15 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/pascals-triangle/"> 118. Pascal's Triangle </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/118_pascal's_triangle.py"> 118_pascal's_triangle.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 118. Pascal's Triangle </a> </td>
+    <td> 2022. 10. 16 </td>
+</tr>
 </table>
 
 </details>
