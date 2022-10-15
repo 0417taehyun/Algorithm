@@ -1823,6 +1823,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 1385. Find the Distance Value Between Two Arrays </a> </td>
     <td> 2022. 10. 08 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/merge-sorted-array/"> 88. Merge Sorted Array </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/88_merge_sorted_array.py"> 88_merge_sorted_array.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 88. Merge Sorted Array </a> </td>
+    <td> 2022. 10. 15 </td>
+</tr>
 </table>
 
 </details>
