@@ -2012,6 +2012,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 33. Search in Rotated Sorted Array </a></td>
     <td> 2022. 10. 08 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/find-triangular-sum-of-an-array/"> 2221. Find Triangular Sum of an Array </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/2221_find_triangular_sum_of_an_array.py"> 2221_find_triangular_sum_of_an_array.py </a></td>
+    <td> <a href=""> [ 알고리즘 ] LeetCode 2221. Find Triangular Sum of an Array </a></td>
+    <td> 2022. 10. 08 </td>
+</tr>
 </table>
 
 </deails>
