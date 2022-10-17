@@ -87,6 +87,12 @@
     <td> <a href="https://www.weekwith.me/algorithms/programmers/sql/level-1/10-top-nth-records/"> 상위 n개 레코드 </a> </td>
     <td> 2021. 12. 10 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131528"> 나이 정보가 없는 회원 수 구하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/11_count_missing_age_data_users.sql"> 11_count_missing_age_data_users.sql </a> </td>
+    <td> <a href=""> 나이 정보가 없는 회원 수 구하기 </a> </td>
+    <td> 2022. 10. 17 </td>
+</tr>
 </table>
 
 </details>
