@@ -93,6 +93,12 @@
     <td> <a href=""> 나이 정보가 없는 회원 수 구하기 </a> </td>
     <td> 2022. 10. 17 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131112"> 강원도에 위치한 생산공장 목록 출력하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/12_factory_located_in_gangwon_do.sql"> 12_factory_located_in_gangwon_do.sql </a> </td>
+    <td> <a href=""> 강원도에 위치한 생산공장 목록 출력하기 </a> </td>
+    <td> 2022. 10. 19 </td>
+</tr>
 </table>
 
 </details>
