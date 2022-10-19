@@ -99,6 +99,12 @@
     <td> <a href=""> 강원도에 위치한 생산공장 목록 출력하기 </a> </td>
     <td> 2022. 10. 19 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131114"> 경기도에 위치한 식품창고 목록 출력하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/13_factory_located_in_gyeonggi_do.sql"> 13_factory_located_in_gyeonggi_do.sql </a> </td>
+    <td> <a href=""> 경기도에 위치한 식품창고 목록 출력하기 </a> </td>
+    <td> 2022. 10. 20 </td>
+</tr>
 </table>
 
 </details>
