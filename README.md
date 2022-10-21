@@ -105,6 +105,12 @@
     <td> <a href=""> 경기도에 위치한 식품창고 목록 출력하기 </a> </td>
     <td> 2022. 10. 20 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131697"> 가장 비싼 상품 구하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/14_most_expensive_product.sql"> 14_most_expensive_product.sql </a> </td>
+    <td> <a href=""> 가장 비싼 상품 구하기 </a> </td>
+    <td> 2022. 10. 21 </td>
+</tr>
 </table>
 
 </details>
