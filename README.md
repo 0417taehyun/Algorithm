@@ -123,6 +123,12 @@
     <td> <a href=""> 흉부외과 또는 일반외과 의사 목록 출력하기 </a> </td>
     <td> 2022. 10. 22 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132201"> 12세 이하인 여자 환자 목록 출력하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/17_select_patient.sql"> 17_select_patient.sql </a> </td>
+    <td> <a href=""> 12세 이하인 여자 환자 목록 출력하기 </a> </td>
+    <td> 2022. 10. 23 </td>
+</tr>
 </table>
 
 </details>
