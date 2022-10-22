@@ -111,6 +111,12 @@
     <td> <a href=""> 가장 비싼 상품 구하기 </a> </td>
     <td> 2022. 10. 21 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131535"> 조건에 맞는 회원수 구하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/15_count_users_who_meet_the_condition.sql"> 15_count_users_who_meet_the_condition.sql </a> </td>
+    <td> <a href=""> 조건에 맞는 회원수 구하기 </a> </td>
+    <td> 2022. 10. 22 </td>
+</tr>
 </table>
 
 </details>
