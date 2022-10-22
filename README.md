@@ -117,6 +117,12 @@
     <td> <a href=""> 조건에 맞는 회원수 구하기 </a> </td>
     <td> 2022. 10. 22 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132203"> 흉부외과 또는 일반외과 의사 목록 출력하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/16_count_doctors.sql"> 16_count_doctors.sql </a> </td>
+    <td> <a href=""> 흉부외과 또는 일반외과 의사 목록 출력하기 </a> </td>
+    <td> 2022. 10. 22 </td>
+</tr>
 </table>
 
 </details>
