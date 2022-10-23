@@ -198,6 +198,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_2/11_format_from_datetime_to_date.sql"> 11_format_from_datetime_to_date.sql </a> </td>
     <td> 2022. 03. 21 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131115#"> 가격이 제일 비싼 식품의 정보 출력하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/12_the_most_expensive_price_food.sql"> 12_the_most_expensive_price_food.sql </a> </td>
+    <td> 2022. 10. 24 </td>
+</tr>
 </table>
 
 </details>
