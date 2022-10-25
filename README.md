@@ -203,6 +203,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_2/12_the_most_expensive_price_food.sql"> 12_the_most_expensive_price_food.sql </a> </td>
     <td> 2022. 10. 24 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132202"> 진료과별 총 예약 횟수 출력하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/13_count_reservation.sql"> 13_count_reservation.sql </a> </td>
+    <td> 2022. 10. 25 </td>
+</tr>
 </table>
 
 </details>
