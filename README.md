@@ -213,6 +213,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_2/14_count_each_category.sql"> 14_count_each_category.sql </a> </td>
     <td> 2022. 10. 26 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131533"> 상품 별 오프라인 매출 구하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/15_count_product_sale_amount.sql"> 15_count_product_sale_amount.sql </a> </td>
+    <td> 2022. 10. 27 </td>
+</tr>
 </table>
 
 </details>
