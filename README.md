@@ -211,6 +211,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_2/15.sql"> 15.sql </a> </td>
     <td> 2022. 10. 27 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131120"> 3월에 태어난 여성 회원 목록 출력하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/16.sql"> 16.sql </a> </td>
+    <td> 2022. 10. 28 </td>
+</tr>
 </table>
 
 </details>
