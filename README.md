@@ -221,6 +221,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_2/17.sql"> 17.sql </a> </td>
     <td> 2022. 10. 28 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131536"> 재구매가 일어난 상품과 회원 리스트 구하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/18.sql"> 18.sql </a> </td>
+    <td> 2022. 10. 28 </td>
+</tr>
 </table>
 
 </details>
