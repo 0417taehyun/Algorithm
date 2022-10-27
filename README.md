@@ -129,6 +129,12 @@
     <td> <a href=""> 12세 이하인 여자 환자 목록 출력하기 </a> </td>
     <td> 2022. 10. 23 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133024"> 인기있는 아이스크림 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/18_icecream.sql"> 18_icecream.sql </a> </td>
+    <td> <a href=""> 인기있는 아이스크림 </a> </td>
+    <td> 2022. 10. 28 </td>
+</tr>
 </table>
 
 </details>
