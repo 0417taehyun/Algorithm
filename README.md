@@ -135,6 +135,12 @@
     <td> <a href=""> 인기있는 아이스크림 </a> </td>
     <td> 2022. 10. 28 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133025"> 과일로 만든 아이스크림 고르기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/19_icecream_II.sql"> 19_icecream_II.sql </a> </td>
+    <td> <a href=""> 과일로 만든 아이스크림 고르기 </a> </td>
+    <td> 2022. 10. 28 </td>
+</tr>
 </table>
 
 </details>
