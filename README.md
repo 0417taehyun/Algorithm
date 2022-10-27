@@ -29,116 +29,97 @@
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59034"> 모든 레코드 조회하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/1_get_all_records.sql"> 1_get_all_records.sql </a> </td>
-    <td> <a href="https://www.weekwith.me/algorithms/programmers/sql/level-1/1-get-all-records/"> 모든 레코드 조회하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/1.sql"> 1.sql </a> </td>
     <td> 2021. 12. 10 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59415"> 최대값 구하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/2_get_max_number.sql"> 2_get_max_number.sql </a> </td>
-    <td> <a href="https://www.weekwith.me/algorithms/programmers/sql/level-1/2-get-max-number/"> 최대값 구하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/2.sql"> 2.sql </a> </td>
     <td> 2021. 12. 10 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59039"> 이름이 없는 동물의 아이디 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/3_no_name_animal_id.sql"> 3_no_name_animal_id.sql </a> </td>
-    <td> <a href="https://www.weekwith.me/algorithms/programmers/sql/level-1/3-no-name-animal-id/"> 이름이 없는 동물의 아이디 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/3.sql"> 3.sql </a> </td>
     <td> 2021. 12. 10 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59035"> 역순 정렬하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/4_reverse_ordering.sql"> 4_reverse_ordering.sql </a> </td>
-    <td> <a href="https://www.weekwith.me/algorithms/programmers/sql/level-1/4-reverse-ordering/"> 역순 정렬하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/4.sql"> 4.sql </a> </td>
     <td> 2021. 12. 10 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59407"> 이름이 있는 동물의 아이디 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/5_exists_name_animal_id.sql"> 5_exists_name_animal_id.sql </a> </td>
-    <td> <a href="https://www.weekwith.me/algorithms/programmers/sql/level-1/5-exists-name-animal-id/"> 이름이 있는 동물의 아이디 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/5.sql"> 5.sql </a> </td>
     <td> 2021. 12. 10 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59036#fn1"> 아픈 동물 찾기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/6_find_sick_animal.sql"> 6_find_sick_animal.sql </a> </td>
-    <td> <a href="https://www.weekwith.me/algorithms/programmers/sql/level-1/6-find-sick-animal/"> 아픈 동물 찾기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/6.sql"> 6.sql </a> </td>
     <td> 2021. 12. 10 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59037#fn1"> 어린 동물 찾기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/7_find_young_animal.sql"> 7_find_young_animal.sql </a> </td>
-    <td> <a href="https://www.weekwith.me/algorithms/programmers/sql/level-1/7-find-young-animal/"> 어린 동물 찾기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/7.sql"> 7.sql </a> </td>
     <td> 2021. 12. 10 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59403"> 동물의 아이디와 이름 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/8_animal_id_and_name.sql"> 8_animal_id_and_name.sql </a> </td>
-    <td> <a href="https://www.weekwith.me/algorithms/programmers/sql/level-1/8-animal-id-and-name/"> 동물의 아이디와 이름 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/8.sql"> 8.sql </a> </td>
     <td> 2021. 12. 10 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59404"> 여러 기준으로 정렬하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/9_ordering_with_multiple_options.sql"> 9_ordering_with_multiple_options.sql </a> </td>
-    <td> <a href="https://www.weekwith.me/algorithms/programmers/sql/level-1/9-ordering-with-multiple-options/"> 여러 기준으로 정렬하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/9.sql"> 9.sql </a> </td>
     <td> 2021. 12. 10 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59405"> 상위 n개 레코드 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/10_top_nth_records.sql"> 10_top_nth_records.sql </a> </td>
-    <td> <a href="https://www.weekwith.me/algorithms/programmers/sql/level-1/10-top-nth-records/"> 상위 n개 레코드 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/10.sql"> 10.sql </a> </td>
     <td> 2021. 12. 10 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131528"> 나이 정보가 없는 회원 수 구하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/11_count_missing_age_data_users.sql"> 11_count_missing_age_data_users.sql </a> </td>
-    <td> <a href=""> 나이 정보가 없는 회원 수 구하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/11.sql"> 11.sql </a> </td>
     <td> 2022. 10. 17 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131112"> 강원도에 위치한 생산공장 목록 출력하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/12_factory_located_in_gangwon_do.sql"> 12_factory_located_in_gangwon_do.sql </a> </td>
-    <td> <a href=""> 강원도에 위치한 생산공장 목록 출력하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/12.sql"> 12.sql </a> </td>
     <td> 2022. 10. 19 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131114"> 경기도에 위치한 식품창고 목록 출력하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/13_factory_located_in_gyeonggi_do.sql"> 13_factory_located_in_gyeonggi_do.sql </a> </td>
-    <td> <a href=""> 경기도에 위치한 식품창고 목록 출력하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/13.sql"> 13.sql </a> </td>
     <td> 2022. 10. 20 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131697"> 가장 비싼 상품 구하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/14_most_expensive_product.sql"> 14_most_expensive_product.sql </a> </td>
-    <td> <a href=""> 가장 비싼 상품 구하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/14.sql"> 14.sql </a> </td>
     <td> 2022. 10. 21 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131535"> 조건에 맞는 회원수 구하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/15_count_users_who_meet_the_condition.sql"> 15_count_users_who_meet_the_condition.sql </a> </td>
-    <td> <a href=""> 조건에 맞는 회원수 구하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/15.sql"> 15.sql </a> </td>
     <td> 2022. 10. 22 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132203"> 흉부외과 또는 일반외과 의사 목록 출력하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/16_count_doctors.sql"> 16_count_doctors.sql </a> </td>
-    <td> <a href=""> 흉부외과 또는 일반외과 의사 목록 출력하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/16.sql"> 16.sql </a> </td>
     <td> 2022. 10. 22 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132201"> 12세 이하인 여자 환자 목록 출력하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/17_select_patient.sql"> 17_select_patient.sql </a> </td>
-    <td> <a href=""> 12세 이하인 여자 환자 목록 출력하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/17.sql"> 17.sql </a> </td>
     <td> 2022. 10. 23 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133024"> 인기있는 아이스크림 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/18_icecream.sql"> 18_icecream.sql </a> </td>
-    <td> <a href=""> 인기있는 아이스크림 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/18.sql"> 18.sql </a> </td>
     <td> 2022. 10. 28 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133025"> 과일로 만든 아이스크림 고르기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/19_icecream_II.sql"> 19_icecream_II.sql </a> </td>
-    <td> <a href=""> 과일로 만든 아이스크림 고르기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/19.sql"> 19.sql </a> </td>
     <td> 2022. 10. 28 </td>
 </tr>
 </table>
@@ -157,77 +138,77 @@
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59040"> 고양이와 개는 몇 마리 있을까 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_2/1_count_cats_and_dogs.sql"> 1_count_cats_and_dogs.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/1.sql"> 1.sql </a> </td>
     <td> 2022. 03. 18 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59046"> 루시와 엘라 찾기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_2/2_find_lucy_and_ella.sql"> 2_find_lucy_and_ella.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/2.sql"> 2.sql </a> </td>
     <td> 2022. 03. 19 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59038"> 최솟값 구하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_2/3_find_minimum.sql"> 3_find_minimum.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/3.sql"> 3.sql </a> </td>
     <td> 2022. 03. 19 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59041"> 동명 동물 수 찾기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_2/4_find_same_name_animals.sql"> 4_find_same_name_animals.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/4.sql"> 4.sql </a> </td>
     <td> 2022. 03. 19 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59047"> 이름에 el이 들어가는 동물 찾기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_2/5_find_animal_which_contains_el_in_name.sql"> 5_find_animal_which_contains_el_in_name.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/5.sql"> 5.sql </a> </td>
     <td> 2022. 03. 20 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59406"> 동물 수 구하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_2/6_count_animals.sql"> 6_count_animals.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/6.sql"> 6.sql </a> </td>
     <td> 2022. 03. 20 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59412"> 입양 시각 구하기(1) </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_2/7_find_datetime.sql"> 7_find_datetime.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/7.sql"> 7.sql </a> </td>
     <td> 2022. 03. 20 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59410"> NULL 처리하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_2/8_handling_null_value.sql"> 8_handling_null_value.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/8.sql"> 8.sql </a> </td>
     <td> 2022. 03. 21 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59409"> 중성화 여부 파악하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_2/9_neutering_or_not.sql"> 9_ordering_with_multiple_options.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/9.sql"> 9.sql </a> </td>
     <td> 2022. 03. 21 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59408"> 중복 제거하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_2/10_remove_duplicated_value.sql"> 10_remove_duplicated_value.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/10.sql"> 10.sql </a> </td>
     <td> 2022. 03. 21 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59414"> DATETIME에서 DATE로 형 변환 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_2/11_format_from_datetime_to_date.sql"> 11_format_from_datetime_to_date.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/11.sql"> 11.sql </a> </td>
     <td> 2022. 03. 21 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131115#"> 가격이 제일 비싼 식품의 정보 출력하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_2/12_the_most_expensive_price_food.sql"> 12_the_most_expensive_price_food.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/12.sql"> 12.sql </a> </td>
     <td> 2022. 10. 24 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132202"> 진료과별 총 예약 횟수 출력하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_2/13_count_reservation.sql"> 13_count_reservation.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/13.sql"> 13.sql </a> </td>
     <td> 2022. 10. 25 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131529"> 카테고리 별 상품 개수 구하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_2/14_count_each_category.sql"> 14_count_each_category.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/14.sql"> 14.sql </a> </td>
     <td> 2022. 10. 26 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131533"> 상품 별 오프라인 매출 구하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_2/15_count_product_sale_amount.sql"> 15_count_product_sale_amount.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/15.sql"> 15.sql </a> </td>
     <td> 2022. 10. 27 </td>
 </tr>
 </table>
@@ -246,27 +227,27 @@
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59042"> 없어진 기록 찾기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_3/1_find_lost_data.sql"> 1_find_lost_data.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_3/1.sql"> 1.sql </a> </td>
     <td> 2022. 03. 22 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59043"> 있었는데요 없었습니다 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_3/2_it_was_but_was_not.sql"> 2_it_was_but_was_not.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_3/2.sql"> 2.sql </a> </td>
     <td> 2022. 03. 22 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59044"> 오랜 기간 보호한 동물(1) </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_3/3_long_protected_animal_1.sql"> 3_long_protected_animal_1.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_3/3.sql"> 3.sql </a> </td>
     <td> 2022. 03. 22 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59411"> 오랜 기간 보호한 동물(2) </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_3/4_long_protected_animal_2.sql"> 4_long_protected_animal_2.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_3/4.sql"> 4.sql </a> </td>
     <td> 2022. 03. 22 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/77487"> 헤비 유저가 소유한 장소 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_3/5_place_owned_by_heavy_user.sql"> 5_place_owned_by_heavy_user.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_3/5.sql"> 5.sql </a> </td>
     <td> 2022. 03. 20 </td>
 </tr>
 </table>
@@ -285,17 +266,17 @@
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/62284"> 우유와 요거트가 담긴 장바구니 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_4/1_basket_with_milk_and_yogurt.sql"> 1_basket_with_milk_and_yogurt.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_4/1.sql"> 1.sql </a> </td>
     <td> 2022. 03. 23 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59413"> 입양 시각 구하기(2) </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_4/2_find_datetime_2.sql"> 2_find_datetime_2.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_4/2.sql"> 2.sql </a> </td>
     <td> 2022. 03. 23 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://programmers.co.kr/learn/courses/30/lessons/59045"> 보호소에서 중성화한 동물 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_4/3_netuering_at_shelter.sql"> 3_netuering_at_shelter.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_4/3.sql"> 3.sql </a> </td>
     <td> 2022. 03. 23 </td>
 </tr>
 </table>
