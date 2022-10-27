@@ -216,6 +216,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_2/16.sql"> 16.sql </a> </td>
     <td> 2022. 10. 28 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133026"> 성분으로 구분한 아이스크림 총 주문량 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/17.sql"> 17.sql </a> </td>
+    <td> 2022. 10. 28 </td>
+</tr>
 </table>
 
 </details>
