@@ -270,6 +270,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_3/5.sql"> 5.sql </a> </td>
     <td> 2022. 03. 20 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131123"> 즐겨찾기가 가장 많은 식당 정보 출력하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_3/6.sql"> 6.sql </a> </td>
+    <td> 2022. 10. 29 </td>
+</tr>
 </table>
 
 </details>
