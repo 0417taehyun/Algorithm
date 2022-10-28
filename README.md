@@ -275,6 +275,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_3/6.sql"> 6.sql </a> </td>
     <td> 2022. 10. 29 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131113"> 조건별로 분류하여 주문상태 출력하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_3/7.sql"> 7.sql </a> </td>
+    <td> 2022. 10. 29 </td>
+</tr>
 </table>
 
 </details>
