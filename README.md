@@ -2638,6 +2638,13 @@
     <td> <a href="https://velog.io/@dev_taehyun/algorithm-baekjoon-2110"> [ 알고리즘 ] 백준 2110번: 공유기 설치 </a> </td>
     <td> 2022. 08. 11 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/1918"> 1918번: 후위 표기식 </a> </td>
+    <td> 자료 구조, 스택 </td>
+    <td> <a href="./Baekjoon/Python/03_Gold/1918.py"> 1918.py </a> </td>
+    <td> <a href=""> [ 알고리즘 ] 백준 1918번: 후위 표기식 </a> </td>
+    <td> 2022. 10. 29 </td>
+</tr>
 </table>
 
 </details>
