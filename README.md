@@ -333,6 +333,25 @@
 
 </details>
 
+<details>
+
+<summary> LEVEL 5 </summary>
+
+<table>
+<tr>
+    <th> 문제 </th>
+    <th> 코드 </th>
+    <th> 일자 </th>
+</tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131534"> 상품을 구매한 회원 비율 구하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_5/1.sql"> 1.sql </a> </td>
+    <td> 2022. 10. 30 </td>
+</tr>
+</table>
+
+</details>
+
 #### Python
 
 <details>
