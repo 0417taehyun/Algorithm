@@ -339,6 +339,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_4/9.sql"> 9.sql </a> </td>
     <td> 2022. 10. 30 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131537"> 오프라인/온라인 판매 데이터 통합하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_4/10.sql"> 10.sql </a> </td>
+    <td> 2022. 10. 30 </td>
+</tr>
 </table>
 
 </details>
