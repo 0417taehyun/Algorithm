@@ -329,6 +329,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_4/7.sql"> 7.sql </a> </td>
     <td> 2022. 10. 30 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131532"> 년, 월, 성별 별 상품 구매 회원 수 구하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_4/8.sql"> 8.sql </a> </td>
+    <td> 2022. 10. 30 </td>
+</tr>
 </table>
 
 </details>
