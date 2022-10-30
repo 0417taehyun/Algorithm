@@ -319,6 +319,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_4/5.sql"> 5.sql </a> </td>
     <td> 2022. 10. 30 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133027"> 주문량이 많은 아이스크림들 조회하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_4/6.sql"> 6.sql </a> </td>
+    <td> 2022. 10. 30 </td>
+</tr>
 </table>
 
 </details>
