@@ -314,6 +314,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_4/4.sql"> 4.sql </a> </td>
     <td> 2022. 10. 30 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131116"> 식품분류별 가장 비싼 식품의 정보 조회하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_4/5.sql"> 5.sql </a> </td>
+    <td> 2022. 10. 30 </td>
+</tr>
 </table>
 
 </details>
