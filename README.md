@@ -2189,6 +2189,36 @@
 
 ### Baekjoon
 
+#### C
+
+<details>
+
+<summary> Bronze </summary>
+
+<table>
+<tr>
+    <th> 문제 </th>
+    <th> 분류 </th>
+    <th> 코드 </th>
+    <th> 풀이 </th>
+    <th> 일자 </th>
+</tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2739"> 2739번: 구구단 </a> </td>
+    <td> 수학, 구현 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/2739.c"> 2739.c </a> </td>
+    <td> 2022. 10. 31 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/10951"> 10951번: A+B - 4 </a> </td>
+    <td> 수학, 구현, 사칙연산 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/10951.c"> 10951.c </a> </td>
+    <td> 2022. 11. 01 </td>
+</tr>
+</table>
+
+</details>
+
 #### Python
 
 <details>
