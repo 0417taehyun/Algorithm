@@ -2215,6 +2215,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/10951.c"> 10951.c </a> </td>
     <td> 2022. 11. 01 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2438"> 2438번: 별 찍기 - 1 </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/2438.c"> 2438.c </a> </td>
+    <td> 2022. 11. 02 </td>
+</tr>
 </table>
 
 </details>
