@@ -2221,6 +2221,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/2438.c"> 2438.c </a> </td>
     <td> 2022. 11. 02 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/11654"> 11654번: 아스키 코드 </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/11654.c"> 11654.c </a> </td>
+    <td> 2022. 11. 03 </td>
+</tr>
 </table>
 
 </details>
