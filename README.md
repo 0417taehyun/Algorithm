@@ -9,6 +9,7 @@
   - [SQL](#sql-1)
   - [Python](#python-1)
 - [Baekjoon](#baekjoon)
+  - [C](#c)
   - [Python](#python-2)
 - [이것이 취업을 위한 코딩 테스트다 with 파이썬](#이것이-취업을-위한-코딩-테스트다-with-파이썬)
 
@@ -2231,6 +2232,12 @@
     <td> <a href="https://www.acmicpc.net/problem/2744"> 2744번: 대소문자 바꾸기 </a> </td>
     <td> 구현, 문자열 </td>
     <td> <a href="./Baekjoon/C/01_Bronze/2744.c"> 2744.c </a> </td>
+    <td> 2022. 11. 03 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2743"> 2743번: 단어 길이 재기 </a> </td>
+    <td> 구현, 문자열 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/2743.c"> 2743.c </a> </td>
     <td> 2022. 11. 03 </td>
 </tr>
 </table>
