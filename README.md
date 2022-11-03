@@ -2227,6 +2227,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/11654.c"> 11654.c </a> </td>
     <td> 2022. 11. 03 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2744"> 2744번: 대소문자 바꾸기 </a> </td>
+    <td> 구현, 문자열 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/2744.c"> 2744.c </a> </td>
+    <td> 2022. 11. 03 </td>
+</tr>
 </table>
 
 </details>
