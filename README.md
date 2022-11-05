@@ -2252,6 +2252,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/2755.c"> 2755.c </a> </td>
     <td> 2022. 11. 04 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/11718"> 11718번: 그대로 출력하기 </a> </td>
+    <td> 구현, 문자열 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/11718.c"> 11718.c </a> </td>
+    <td> 2022. 11. 05 </td>
+</tr>
 </table>
 
 </details>
