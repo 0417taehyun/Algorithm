@@ -2241,9 +2241,15 @@
     <td> 2022. 11. 03 </td>
 </tr>
 <tr align="left">
-    <td> <a href="https://www.acmicpc.net/problem/2754"> 2743번: 학점계산 </a> </td>
+    <td> <a href="https://www.acmicpc.net/problem/2754"> 2754번: 학점계산 </a> </td>
     <td> 구현, 문자열 </td>
     <td> <a href="./Baekjoon/C/01_Bronze/2754.c"> 2754.c </a> </td>
+    <td> 2022. 11. 04 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2755"> 2755번: 이번학기 평점은 몇점? </a> </td>
+    <td> 수학, 구현, 사칙연산 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/2755.c"> 2755.c </a> </td>
     <td> 2022. 11. 04 </td>
 </tr>
 </table>
