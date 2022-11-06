@@ -2270,6 +2270,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/10809.c"> 10809.c </a> </td>
     <td> 2022. 11. 05 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2475"> 2475번: 검증수 </a> </td>
+    <td> 수학, 구현, 사칙연산 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/2475.c"> 2475.c </a> </td>
+    <td> 2022. 11. 06 </td>
+</tr>
 </table>
 
 </details>
