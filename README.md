@@ -2288,6 +2288,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/2742.c"> 2742.c </a> </td>
     <td> 2022. 11. 07 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/1085"> 1085번: 직사각형에서 탈출 </a> </td>
+    <td> 수학, 기하학 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/1085.c"> 1085.c </a> </td>
+    <td> 2022. 11. 08 </td>
+</tr>
 </table>
 
 </details>
