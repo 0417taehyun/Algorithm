@@ -2294,6 +2294,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/1085.c"> 1085.c </a> </td>
     <td> 2022. 11. 08 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/4153"> 4153번: 직각삼각형 </a> </td>
+    <td> 수학, 기하학, 피타고라스 정리 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/4153.c"> 4153.c </a> </td>
+    <td> 2022. 11. 09 </td>
+</tr>
 </table>
 
 </details>
