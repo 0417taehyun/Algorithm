@@ -2300,6 +2300,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/4153.c"> 4153.c </a> </td>
     <td> 2022. 11. 09 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/4153"> 15964번: 이상한 기호 </a> </td>
+    <td> 수학, 구현, 사칙연산 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/15964.c"> 15964.c </a> </td>
+    <td> 2022. 11. 10 </td>
+</tr>
 </table>
 
 </details>
