@@ -2312,6 +2312,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/15829.c"> 15829.c </a> </td>
     <td> 2022. 11. 11 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/10250"> 110250번: Hashing </a> </td>
+    <td> 수학, 구현, 사칙연산 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/10250.c"> 10250.c </a> </td>
+    <td> 2022. 11. 12 </td>
+</tr>
 </table>
 
 </details>
