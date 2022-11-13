@@ -2165,7 +2165,7 @@
 </tr>
 </table>
 
-</deails>
+</details>
 
 <details>
 
@@ -2186,7 +2186,7 @@
 </tr>
 </table>
 
-</deails>
+</details>
 
 ### Baekjoon
 
