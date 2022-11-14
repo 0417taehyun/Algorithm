@@ -2324,6 +2324,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/1259.c"> 1259.c </a> </td>
     <td> 2022. 11. 13 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2609"> 2609번: 최대공약수와 최소공배수 </a> </td>
+    <td> 수학, 정수론, 유클리드 호제법 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/2609.c"> 2609.c </a> </td>
+    <td> 2022. 11. 14 </td>
+</tr>
 </table>
 
 </details>
