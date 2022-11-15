@@ -2334,6 +2334,29 @@
 
 </details>
 
+<details>
+
+<summary> Bronze </summary>
+
+<table>
+<tr>
+    <th> 문제 </th>
+    <th> 분류 </th>
+    <th> 코드 </th>
+    <th> 풀이 </th>
+    <th> 일자 </th>
+</tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/1978"> 1978번: 소수 찾기 </a> </td>
+    <td> 수학, 정수론, 소수 판정, 에라토스테네스의 체 </td>
+    <td> <a href="./Baekjoon/C/02_Silver/1978.c"> 1978.c </a> </td>
+    <td> 2022. 11. 15 </td>
+</tr>
+
+</table>
+
+</details>
+
 #### Python
 
 <details>
