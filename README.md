@@ -2332,8 +2332,14 @@
 </tr>
 <tr align="left">
     <td> <a href="https://www.acmicpc.net/problem/11050"> 11050번: 이항 계수 1 </a> </td>
-    <td> 수학, 정수론, 유클리드 호제법 </td>
+    <td> 수학, 구현, 조합론 </td>
     <td> <a href="./Baekjoon/C/01_Bronze/11050.c"> 11050.c </a> </td>
+    <td> 2022. 11. 16 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2869"> 2869번: 달팽이는 올라가고 싶다 </a> </td>
+    <td> 수학 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/2869.c"> 2869.c </a> </td>
     <td> 2022. 11. 16 </td>
 </tr>
 </table>
