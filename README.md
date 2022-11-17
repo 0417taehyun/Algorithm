@@ -2342,13 +2342,19 @@
     <td> <a href="./Baekjoon/C/01_Bronze/2869.c"> 2869.c </a> </td>
     <td> 2022. 11. 16 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2386"> 2386번: 도비의 영어 공부 </a> </td>
+    <td> 구현, 문자열, 브루트포스 알고리즘 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/2386.c"> 2386.c </a> </td>
+    <td> 2022. 11. 17 </td>
+</tr>
 </table>
 
 </details>
 
 <details>
 
-<summary> Bronze </summary>
+<summary> Silver </summary>
 
 <table>
 <tr>
