@@ -2348,6 +2348,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/2386.c"> 2386.c </a> </td>
     <td> 2022. 11. 17 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/10989"> 10989번: 수 정렬하기 3 </a> </td>
+    <td> 정렬 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/10989.c"> 10989.c </a> </td>
+    <td> 2022. 11. 19 </td>
+</tr>
 </table>
 
 </details>
