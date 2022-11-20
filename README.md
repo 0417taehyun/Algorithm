@@ -2395,6 +2395,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/10989.c"> 10989.c </a> </td>
     <td> 2022. 11. 19 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2558"> 2558번: A+B - 2 </a> </td>
+    <td> 수학, 구현, 사칙연산 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/2558.c"> 2558.c </a> </td>
+    <td> 2022. 11. 21 </td>
+</tr>
 </table>
 
 </details>
