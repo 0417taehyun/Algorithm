@@ -2376,6 +2376,12 @@
     <td> <a href="./Baekjoon/C/02_Silver/1978.c"> 1978.c </a> </td>
     <td> 2022. 11. 15 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/1929"> 1929번: 소수 구하기 </a> </td>
+    <td> 수학, 정수론, 소수 판정, 에라토스테네스의 체 </td>
+    <td> <a href="./Baekjoon/C/02_Silver/1929.c"> 1929.c </a> </td>
+    <td> 2022. 11. 20 </td>
+</tr>
 
 </table>
 
