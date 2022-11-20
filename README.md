@@ -52,7 +52,7 @@
 
 </table>
 
-</detail>
+</details>
 
 ### Programmers
 
