@@ -2,6 +2,7 @@
 
 ## :books: Table Of Contents
 
+- [Team Note](#team-note)
 - [Programmers](#programmers)
   - [SQL](#sql)
   - [Python](#python)
@@ -12,6 +13,46 @@
   - [C](#c)
   - [Python](#python-2)
 - [이것이 취업을 위한 코딩 테스트다 with 파이썬](#이것이-취업을-위한-코딩-테스트다-with-파이썬)
+
+### Team Note
+
+<details>
+
+<summary> 소스 코드 </summary>
+
+<table>
+    <tr>
+        <th> 알고리즘 종류 </th> 
+        <th> 알고리즘 한 줄 설명 </th>
+        <th> C </th>
+        <th> Java </th>
+        <th> Python </th>
+    </tr> 
+    <tr>
+        <td> 에라토스테네스의 체 </td>
+        <td> 선형 시간에 근사하게 범위 내의 소수 구하기 </td>
+        <td> <a href="./Team Note/C/eratos.c" /> eratos.c </td>
+        <td> <a href="" /> </td>
+        <td> <a href="" /> </td>
+    </tr>
+    <tr>
+        <td> 퀵 정렬 - 1 </td>
+        <td> 배열의 첫 번째 요소를 피봇의 기준으로 한 퀵 정렬 (이미 정렬이 된 최악의 경우 제곱 시간) </td>
+        <td> <a href="./Team Note/C/quick_sort_1.c" /> quick_sort_1.c </td>
+        <td> <a href="" /> </td>
+        <td> <a href="" /> </td>
+    </tr>
+    <tr>
+        <td> 평방분할 (진행 중) </td>
+        <td>  </td>
+        <td> <a href="" />  </td>
+        <td> <a href="" /> </td>
+        <td> <a href="./Team Note/Python/sqrt_decomposition.py" /> sqrt_decomposition.py </td>
+    </tr>
+
+</table>
+
+</detail>
 
 ### Programmers
 
