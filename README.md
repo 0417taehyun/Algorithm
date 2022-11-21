@@ -2401,6 +2401,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/2558.c"> 2558.c </a> </td>
     <td> 2022. 11. 21 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/10718"> 10718번: We love kriii </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/10718.c"> 10718.c </a> </td>
+    <td> 2022. 11. 22 </td>
+</tr>
 </table>
 
 </details>
