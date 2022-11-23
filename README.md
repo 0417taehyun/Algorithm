@@ -2410,8 +2410,14 @@
 <tr align="left">
     <td> <a href="https://www.acmicpc.net/problem/8393"> 8393번: 합 </a> </td>
     <td> 수학, 구현 </td>
-    <td> <a href="./Baekjoon/C/01_Bronze/8393.c"> 10718.c </a> </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/8393.c"> 8393.c </a> </td>
     <td> 2022. 11. 23 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/4101"> 4101번: 크냐? </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/4101.c"> 4101.c </a> </td>
+    <td> 2022. 11. 24 </td>
 </tr>
 </table>
 
