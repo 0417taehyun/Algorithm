@@ -2407,6 +2407,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/10718.c"> 10718.c </a> </td>
     <td> 2022. 11. 22 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/8393"> 8393번: 합 </a> </td>
+    <td> 수학, 구현 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/8393.c"> 10718.c </a> </td>
+    <td> 2022. 11. 23 </td>
+</tr>
 </table>
 
 </details>
