@@ -2419,6 +2419,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/4101.c"> 4101.c </a> </td>
     <td> 2022. 11. 24 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/4999"> 4999번: 아! </a> </td>
+    <td> 구현, 문자열 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/4999.c"> 4999.c </a> </td>
+    <td> 2022. 11. 25 </td>
+</tr>
 </table>
 
 </details>
