@@ -2425,6 +2425,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/4999.c"> 4999.c </a> </td>
     <td> 2022. 11. 25 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/11021"> 11021번: A+B - 7 </a> </td>
+    <td> 수학, 구현, 사칙연산 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/11021.c"> 11021.c </a> </td>
+    <td> 2022. 11. 26 </td>
+</tr>
 </table>
 
 </details>
