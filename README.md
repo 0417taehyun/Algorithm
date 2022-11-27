@@ -2431,6 +2431,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/11021.c"> 11021.c </a> </td>
     <td> 2022. 11. 26 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/10926"> 10926번: ??! </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/10926.c"> 10926.c </a> </td>
+    <td> 2022. 11. 27 </td>
+</tr>
 </table>
 
 </details>
