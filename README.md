@@ -2437,6 +2437,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/10926.c"> 10926.c </a> </td>
     <td> 2022. 11. 27 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/11942"> 11942번: 고려대는 사랑입니다. </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/11942.c"> 11942.c </a> </td>
+    <td> 2022. 11. 28 </td>
+</tr>
 </table>
 
 </details>
