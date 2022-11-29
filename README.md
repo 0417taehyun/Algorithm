@@ -2443,6 +2443,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/11942.c"> 11942.c </a> </td>
     <td> 2022. 11. 28 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/16394"> 16394번: 홍익대학교 </a> </td>
+    <td> 수학, 사칙연산 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/16394.c"> 16394.c </a> </td>
+    <td> 2022. 11. 29 </td>
+</tr>
 </table>
 
 </details>
