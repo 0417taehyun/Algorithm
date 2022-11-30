@@ -2449,6 +2449,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/16394.c"> 16394.c </a> </td>
     <td> 2022. 11. 29 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/16170"> 16170번: 오늘의 날짜는? </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/16170.c"> 16170.c </a> </td>
+    <td> 2022. 11. 30 </td>
+</tr>
 </table>
 
 </details>
