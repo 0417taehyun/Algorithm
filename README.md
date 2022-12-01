@@ -2460,6 +2460,11 @@
     <td> 구현 </td>
     <td> <a href="./Baekjoon/C/01_Bronze/16170.c"> 16170.c </a> </td>
     <td> 2022. 11. 30 </td>
+</tr><tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/18108"> 18108번: 1998년생인 내가 태국에서는 2541년생?! </a> </td>
+    <td> 수학, 사칙연산 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/18108.c"> 18018.c </a> </td>
+    <td> 2022. 12. 01 </td>
 </tr>
 </table>
 
