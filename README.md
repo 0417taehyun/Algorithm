@@ -2027,6 +2027,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 119. Pascal's Triangle II </a> </td>
     <td> 2022. 10. 16 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/description/"> 1704. Determine if String Halves Are Alike </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1704_determine_if_string_halves_are_alike.py"> 1704_determine_if_string_halves_are_alike.py </a></td>
+    <td> <a href="">  </a> </td>
+    <td> 2022. 12. 01 </td>
+</tr>
 </table>
 
 </details>
