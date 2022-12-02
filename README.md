@@ -2466,6 +2466,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/18108.c"> 18018.c </a> </td>
     <td> 2022. 12. 01 </td>
 </tr>
+</tr><tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/25311"> 25311번: UCPC에서 가장 쉬운 문제 번호는?  </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/25311.c"> 25311.c </a> </td>
+    <td> 2022. 12. 02 </td>
+</tr>
 </table>
 
 </details>
