@@ -896,6 +896,11 @@
     <td> <a href="./LeetCode/SQL/1_Easy/2377_sort_the_olympic_table.sql"> 2356_number_of_unique_subjects_taught_by_each_teacher.sql </a> </td>
     <td> 2022. 08. 16 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/form-a-chemical-bond/description/"> 2480. Form a Chemical Bond </a> </td>
+    <td> <a href="./LeetCode/SQL/1_Easy/2480_form_a_chemical_bond.sql"> 2480_form_a_chemical_bond.sql </a> </td>
+    <td> 2022. 12. 02 </td>
+</tr>
 </table>
 
 </details>
