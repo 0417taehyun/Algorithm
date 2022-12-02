@@ -2215,6 +2215,12 @@
     <td> <a href=""> [ 알고리즘 ] LeetCode 2221. Find Triangular Sum of an Array </a></td>
     <td> 2022. 10. 08 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/determine-if-two-strings-are-close/description/"> 1657. Determine if Two Strings Are Close </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/1657_determine_if_two_strings_are_close.py"> 1657_determine_if_two_strings_are_close.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2022. 12. 02 </td>
+</tr>
 </table>
 
 </details>
