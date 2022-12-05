@@ -2512,6 +2512,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/15733.c"> 15733.c </a> </td>
     <td> 2022. 12. 04 </td>
 </tr>
+</tr></tr><tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/15962"> 15962번: 새로운 시작 </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/15962.c"> 15962.c </a> </td>
+    <td> 2022. 12. 05 </td>
+</tr>
 </table>
 
 </details>
