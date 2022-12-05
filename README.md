@@ -2040,7 +2040,13 @@
 </tr>
 <tr align="left">
     <td> <a href="https://leetcode.com/problems/middle-of-the-linked-list/description/"> 876. Middle of the Linked List </a></td>
-    <td> <a href="./LeetCode/Python/1_Medium/876_middle_of_the_linked_list.py"> 876_middle_of_the_linked_list.py </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/876_middle_of_the_linked_list.py"> 876_middle_of_the_linked_list.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2022. 12. 05 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/single-row-keyboard/description/"> 1165. Single-Row Keyboard </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1165_single-row_keyboard.py"> 1165_single-row_keyboard.py </a></td>
     <td> <a href=""> </a></td>
     <td> 2022. 12. 05 </td>
 </tr>
