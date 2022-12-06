@@ -2056,6 +2056,12 @@
     <td> <a href=""> </a></td>
     <td> 2022. 12. 06 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/search-in-a-binary-search-tree/description/"> 700. Search in a Binary Search Tree </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/700_search_in_a_binary_search_tree.py"> 700_search_in_a_binary_search_tree.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2022. 12. 07 </td>
+</tr>
 </table>
 
 </details>
