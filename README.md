@@ -2524,6 +2524,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/15962.c"> 15962.c </a> </td>
     <td> 2022. 12. 05 </td>
 </tr>
+</tr></tr><tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/16430"> 16430번: 제리와 톰 </a> </td>
+    <td> 수학, 사칙연산 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/16430.c"> 16430.c </a> </td>
+    <td> 2022. 12. 06 </td>
+</tr>
 </table>
 
 </details>
