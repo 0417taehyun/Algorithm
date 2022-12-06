@@ -2050,6 +2050,12 @@
     <td> <a href=""> </a></td>
     <td> 2022. 12. 05 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/jewels-and-stones/description/"> 771. Jewels and Stones </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/771_jewels_and_stones.py"> 771_jewels_and_stones.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2022. 12. 06 </td>
+</tr>
 </table>
 
 </details>
