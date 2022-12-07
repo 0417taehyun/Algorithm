@@ -2558,7 +2558,7 @@
     <td> <a href="https://www.acmicpc.net/problem/20492"> 20492번: 세금 </a> </td>
     <td> 수학, 사칙연산 </td>
     <td> <a href="./Baekjoon/C/01_Bronze/20492.c"> 20492.c </a> </td>
-    <td> 2022. 12. 06 </td>
+    <td> 2022. 12. 07 </td>
 </tr>
 </table>
 
