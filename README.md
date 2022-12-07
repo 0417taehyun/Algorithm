@@ -2057,10 +2057,16 @@
     <td> 2022. 12. 06 </td>
 </tr>
 <tr align="left">
-    <td> <a href="https://leetcode.com/problems/search-in-a-binary-search-tree/description/"> 700. Search in a Binary Search Tree </a></td>
-    <td> <a href="./LeetCode/Python/1_Easy/700_search_in_a_binary_search_tree.py"> 700_search_in_a_binary_search_tree.py </a></td>
-    <td> <a href=""> </a></td>
+    <td> <a href="https://leetcode.com/problems/search-in-a-binary-search-tree/description/"> 700. Search in a Binary Search Tree </a> </td>
+    <td> <a href="./LeetCode/Python/1_Easy/700_search_in_a_binary_search_tree.py"> 700_search_in_a_binary_search_tree.py </a> </td>
+    <td> <a href=""> </a></td>i
     <td> 2022. 12. 07 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/range-sum-of-bst/description/"> 938. Range Sum of BST </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/938_range_sum_of_bst.py"> 938_range_sum_of_bst.py </a> </td>
+    <td> <a href=""> </a></td>i
+    <td> 2022. 12. 08 </td>
 </tr>
 </table>
 
