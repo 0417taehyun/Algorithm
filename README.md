@@ -2263,6 +2263,12 @@
     <td> <a href=""> </a></td>
     <td> 2022. 12. 04 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/odd-even-linked-list/description/"> 328. Odd Even Linked List </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/328_odd_even_linked_list.py"> 328_odd_even_linked_list.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2022. 12. 07 </td>
+</tr>
 </table>
 
 </details>
