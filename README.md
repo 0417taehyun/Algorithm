@@ -2560,6 +2560,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/20492.c"> 20492.c </a> </td>
     <td> 2022. 12. 07 </td>
 </tr>
+</tr></tr><tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/25372"> 25372번: 성택이의 은밀한 비밀번호 </a> </td>
+    <td> 구현, 문자열 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/25372.c"> 25372.c </a> </td>
+    <td> 2022. 12. 08 </td>
+</tr>
 </table>
 
 </details>
