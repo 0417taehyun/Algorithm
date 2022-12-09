@@ -2525,52 +2525,60 @@
     <td> 구현 </td>
     <td> <a href="./Baekjoon/C/01_Bronze/16170.c"> 16170.c </a> </td>
     <td> 2022. 11. 30 </td>
-</tr><tr align="left">
+</tr>
+<tr align="left">
     <td> <a href="https://www.acmicpc.net/problem/18108"> 18108번: 1998년생인 내가 태국에서는 2541년생?! </a> </td>
     <td> 수학, 사칙연산 </td>
     <td> <a href="./Baekjoon/C/01_Bronze/18108.c"> 18018.c </a> </td>
     <td> 2022. 12. 01 </td>
 </tr>
-</tr><tr align="left">
+<tr align="left">
     <td> <a href="https://www.acmicpc.net/problem/25311"> 25311번: UCPC에서 가장 쉬운 문제 번호는? </a> </td>
     <td> 구현 </td>
     <td> <a href="./Baekjoon/C/01_Bronze/25311.c"> 25311.c </a> </td>
     <td> 2022. 12. 02 </td>
 </tr>
-</tr><tr align="left">
+<tr align="left">
     <td> <a href="https://www.acmicpc.net/problem/17256"> 17256번: 달달함이 넘쳐흘러 </a> </td>
     <td> 수학, 구현, 사칙연산 </td>
     <td> <a href="./Baekjoon/C/01_Bronze/17256.c"> 17256.c </a> </td>
     <td> 2022. 12. 03 </td>
-</tr></tr><tr align="left">
+</tr>
+<tr align="left">
     <td> <a href="https://www.acmicpc.net/problem/15733"> 15733번: 나는 누구인가 </a> </td>
     <td> 구현 </td>
     <td> <a href="./Baekjoon/C/01_Bronze/15733.c"> 15733.c </a> </td>
     <td> 2022. 12. 04 </td>
 </tr>
-</tr></tr><tr align="left">
+<tr align="left">
     <td> <a href="https://www.acmicpc.net/problem/15962"> 15962번: 새로운 시작 </a> </td>
     <td> 구현 </td>
     <td> <a href="./Baekjoon/C/01_Bronze/15962.c"> 15962.c </a> </td>
     <td> 2022. 12. 05 </td>
 </tr>
-</tr></tr><tr align="left">
+<tr align="left">
     <td> <a href="https://www.acmicpc.net/problem/16430"> 16430번: 제리와 톰 </a> </td>
     <td> 수학, 사칙연산 </td>
     <td> <a href="./Baekjoon/C/01_Bronze/16430.c"> 16430.c </a> </td>
     <td> 2022. 12. 06 </td>
 </tr>
-</tr></tr><tr align="left">
+<tr align="left">
     <td> <a href="https://www.acmicpc.net/problem/20492"> 20492번: 세금 </a> </td>
     <td> 수학, 사칙연산 </td>
     <td> <a href="./Baekjoon/C/01_Bronze/20492.c"> 20492.c </a> </td>
     <td> 2022. 12. 07 </td>
 </tr>
-</tr></tr><tr align="left">
+<tr align="left">
     <td> <a href="https://www.acmicpc.net/problem/25372"> 25372번: 성택이의 은밀한 비밀번호 </a> </td>
     <td> 구현, 문자열 </td>
     <td> <a href="./Baekjoon/C/01_Bronze/25372.c"> 25372.c </a> </td>
     <td> 2022. 12. 08 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/26082"> 26082번: WARBOY </a> </td>
+    <td> 수학, 사칙연산 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/26082.c"> 26082.c </a> </td>
+    <td> 2022. 12. 09 </td>
 </tr>
 </table>
 
