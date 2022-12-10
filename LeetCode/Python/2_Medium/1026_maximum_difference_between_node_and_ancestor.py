@@ -62,3 +62,26 @@ def another_solution(root: TreeNode) -> int:
     maximum_node: int = root.val
     preorder_traverse(root, minimum_node, maximum_node)
     return answer
+
+
+def return_difference_directly_solution(root: TreeNode) -> int:
+    def preorder_traverse(
+        node: TreeNode, minimum_node: int, maximum_node: int
+    ) -> int:
+        if node:
+            minimum_node: int = min(minimum_node, node.val)
+            maximum_node: int = max(maximum_node, node.val)
+            left_maximum: int = preorder_traverse(
+                node.left, minimum_node, maximum_node
+            )
+            right_maximum: int = preorder_traverse(
+                node.right, minimum_node, maximum_node
+            )
+            return max(left_maximum, right_maximum)
+        
+        return maximum_node - minimum_node
+        
+    
+    minimum_node: int = root.val
+    maximum_node: int = root.val
+    return preorder_traverse(root, minimum_node, maximum_node)
