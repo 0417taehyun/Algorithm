@@ -2275,6 +2275,12 @@
     <td> <a href=""> </a></td>
     <td> 2022. 12. 07 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/"> 1339. Maximum Product of Splitted Binary Tree </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/1339_maximum_product_of_splitted_binary_tree.py"> 1339_maximum_product_of_splitted_binary_tree.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2022. 12. 12 </td>
+</tr>
 </table>
 
 </details>
