@@ -2580,6 +2580,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/26082.c"> 26082.c </a> </td>
     <td> 2022. 12. 09 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2440"> 2440번: 별 찍기 - 3 </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/2440.c"> 2440.c </a> </td>
+    <td> 2022. 12. 11 </td>
+</tr>
 </table>
 
 </details>
