@@ -901,6 +901,11 @@
     <td> <a href="./LeetCode/SQL/1_Easy/2480_form_a_chemical_bond.sql"> 2480_form_a_chemical_bond.sql </a> </td>
     <td> 2022. 12. 02 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/concatenate-the-name-and-the-profession/description/"> 2504. Concatenate the Name and the Profession </a> </td>
+    <td> <a href="./LeetCode/SQL/1_Easy/2504_concatenate_the_name_and_the_profession.sql"> 2504_concatenate_the_name_and_the_profession.sql </a> </td>
+    <td> 2022. 12. 12 </td>
+</tr>
 </table>
 
 </details>
