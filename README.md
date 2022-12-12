@@ -2079,6 +2079,12 @@
     <td> <a href=""> </a></td>
     <td> 2022. 12. 08 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/climbing-stairs/description/"> 70. Climbing Stairs </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/70_climbing_stairs.py"> 70_climbing_stairs.py </a> </td>
+    <td> <a href=""> </a></td>
+    <td> 2022. 12. 12 </td>
+</tr>
 </table>
 
 </details>
