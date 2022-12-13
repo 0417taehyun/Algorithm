@@ -2609,6 +2609,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/10808.c"> 10808.c </a> </td>
     <td> 2022. 12. 12 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/11365"> 11365번: !밀비 급일 </a> </td>
+    <td> 구현, 문자열 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/11365.c"> 11365.c </a> </td>
+    <td> 2022. 12. 13 </td>
+</tr>
 </table>
 
 </details>
