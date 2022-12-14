@@ -2615,6 +2615,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/11365.c"> 11365.c </a> </td>
     <td> 2022. 12. 13 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2083"> 2083번: 럭비 클럽 </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/2083.c"> 2083.c </a> </td>
+    <td> 2022. 12. 14 </td>
+</tr>
 </table>
 
 </details>
