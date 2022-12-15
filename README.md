@@ -2621,6 +2621,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/2083.c"> 2083.c </a> </td>
     <td> 2022. 12. 14 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2480"> 2480번: 주사위 세 개 </a> </td>
+    <td> 수학, 사칙연산, 많은 조건 분기 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/2480.c"> 2480.c </a> </td>
+    <td> 2022. 12. 15 </td>
+</tr>
 </table>
 
 </details>
