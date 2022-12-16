@@ -2627,6 +2627,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/2480.c"> 2480.c </a> </td>
     <td> 2022. 12. 15 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/3046"> 3046번: R2 </a> </td>
+    <td> 수학, 구현, 사칙연산 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/3046.c"> 3046.c </a> </td>
+    <td> 2022. 12. 16 </td>
+</tr>
 </table>
 
 </details>
