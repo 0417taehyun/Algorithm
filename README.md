@@ -2633,6 +2633,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/3046.c"> 3046.c </a> </td>
     <td> 2022. 12. 16 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/2845"> 2845번: 파티가 끝나고 난 뒤 </a> </td>
+    <td> 수학, 구현, 사칙연산 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/3046.c"> 2845.c </a> </td>
+    <td> 2022. 12. 17 </td>
+</tr>
 </table>
 
 </details>
