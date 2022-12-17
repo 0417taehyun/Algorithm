@@ -2292,6 +2292,12 @@
     <td> <a href=""> </a></td>
     <td> 2022. 12. 12 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/description/"> 150. Evaluate Reverse Polish Notation </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/150_evaluate_reverse_polish_notation.py"> 150_evaluate_reverse_polish_notation.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2022. 12. 17 </td>
+</tr>
 </table>
 
 </details>
