@@ -2645,6 +2645,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/3046.c"> 2845.c </a> </td>
     <td> 2022. 12. 17 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/3003"> 3003번: 킹, 퀸, 룩, 비숍, 나이트, 폰 </a> </td>
+    <td> 수학, 구현, 사칙연산 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/3003.c"> 3003.c </a> </td>
+    <td> 2022. 12. 18 </td>
+</tr>
 </table>
 
 </details>
