@@ -2310,6 +2310,12 @@
     <td> <a href=""> </a></td>
     <td> 2022. 12. 18 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/daily-temperatures/description/"> 739. Daily Temperatures </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/739_daily_temperatures.py"> 739_daily_temperatures.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2022. 12. 18 </td>
+</tr>
 </table>
 
 </details>
@@ -2662,6 +2668,12 @@
     <td> 수학, 구현, 사칙연산 </td>
     <td> <a href="./Baekjoon/C/01_Bronze/3003.c"> 3003.c </a> </td>
     <td> 2022. 12. 18 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/5522"> 5522번: 카드 게임 </a> </td>
+    <td> 수학, 사칙연산 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/5522.c"> 5522.c </a> </td>
+    <td> 2022. 12. 19 </td>
 </tr>
 </table>
 
