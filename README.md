@@ -2681,6 +2681,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/5522.c"> 5522.c </a> </td>
     <td> 2022. 12. 19 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/10430"> 10430번: 나머지 </a> </td>
+    <td> 수학, 구현, 사칙연산 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/10430.c"> 10430.c </a> </td>
+    <td> 2022. 12. 20 </td>
+</tr>
 </table>
 
 </details>
