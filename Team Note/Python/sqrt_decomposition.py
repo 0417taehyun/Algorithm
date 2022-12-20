@@ -37,7 +37,6 @@ if __name__ == "__main__":
         },
         "output": 0
     }
-    
     assert case["output"] == solution(
         N=case["input"]["N"], start=case["input"]["start"], end=case["input"]["end"]
     )
