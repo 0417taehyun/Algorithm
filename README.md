@@ -2342,6 +2342,12 @@
     <td> <a href=""> </a></td>
     <td> 2022. 12. 20 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/"> 323. Number of Connected Components in an Undirected Graph </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/323_number_of_connected_components_in_an_undirected_graph.py"> 323_number_of_connected_components_in_an_undirected_graph.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2022. 12. 20 </td>
+</tr>
 </table>
 
 </details>
