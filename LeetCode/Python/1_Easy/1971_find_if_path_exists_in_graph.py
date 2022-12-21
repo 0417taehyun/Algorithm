@@ -122,6 +122,48 @@ def disjoint_set_union_by_rank(
     return union_find.is_connected(source, destination)
 
 
+def disjoint_set_path_compression_and_union_by_rank_optimization(
+    n: int, edges: list[list[int]], source: int, destination: int
+) -> bool:
+    class UnionFind:
+        BASE_HEIGHT: int = 1
+
+        def __init__(self, size: int) -> None:
+            self.root: list[int] = [ vertex for vertex in range(size) ]
+            self.rank: list[int] = [
+                UnionFind.BASE_HEIGHT for _ in range(size)
+            ]
+        
+        def find(self, vertex: int) -> int:
+            if vertex == self.root[vertex]:
+                return vertex
+            self.root[vertex]: int = self.find(self.root[vertex])
+            return self.root[vertex]
+        
+        def union(self, u: int, v: int) -> None:
+            u_root: int = self.find(u)
+            v_root: int = self.find(v)
+            if u_root != v_root:
+                u_rank: int = self.rank[u_root]
+                v_rank: int = self.rank[v_root]
+                if u_rank > v_rank:
+                    self.root[v_root]: int = u_root
+                elif u_rank < v_rank:
+                    self.root[u_root]: int = v_root
+                else:
+                    self.root[v_root]: int = u_root
+                    self.rank[u_root] += 1
+        
+        def is_connected(self, u: int, v: int) -> bool:
+            return self.find(u) == self.find(v)
+
+    
+    union_find: UnionFind = UnionFind(n)
+    for u, v in edges:
+        union_find.union(u, v)
+    return union_find.is_connected(source, destination)
+
+
 if __name__ == "__main__":
     cases: list[dict[str, dict[str, int | list[list[int]]] | bool]] = [
         {
@@ -157,4 +199,6 @@ if __name__ == "__main__":
         assert case["output"] == another_solution(**case["input"])
         assert case["output"] == disjoint_set_quick_union(**case["input"])
         assert case["output"] == disjoint_set_union_by_rank(**case["input"])    
-        
+        assert case["output"] == disjoint_set_path_compression_and_union_by_rank_optimization(
+            **case["input"]
+        )
