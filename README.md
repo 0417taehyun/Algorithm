@@ -55,7 +55,14 @@
         <td> <a href="" /> </td>
         <td> <a href="./Team Note/disjoint_set_2.py" /> disjoint_set_2.py </td>
         <td> <a href="" /> </td>
-    </tr>     
+    </tr>
+    <tr>
+        <td> 서로소 집합 - 3 </td>
+        <td> Union By Rank 방식으로 구현한 UnionFind 자료구조 </td>
+        <td> <a href="" /> </td>
+        <td> <a href="./Team Note/disjoint_set_3.py" /> disjoint_set_3.py </td>
+        <td> <a href="" /> </td>
+    </tr>         
     <tr>
         <td> 평방분할 (진행 중) </td>
         <td>  </td>
@@ -2712,6 +2719,12 @@
     <td> 수학, 구현, 사칙연산 </td>
     <td> <a href="./Baekjoon/C/01_Bronze/10430.c"> 10430.c </a> </td>
     <td> 2022. 12. 20 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/15727"> 15727번: 조별과제를 하려는데 조장이 사라졌다 </a> </td>
+    <td> 수학, 사칙연산 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/15727.c"> 15727.c </a> </td>
+    <td> 2022. 12. 21 </td>
 </tr>
 </table>
 
