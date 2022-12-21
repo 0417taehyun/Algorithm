@@ -54,18 +54,39 @@ def another_solution(
     return False
 
 
-def disjoint_set(
+def disjoint_set_quick_union(
     n: int, edges: list[list[int]], source: int, destination: int
 ) -> bool:
-    return 
+    class UnionFind:
+        def __init__(self, size: int) -> None:
+            self.root: list[int] = [ vertex for vertex in range(size) ]
+        
+        def find(self, vertex: int) -> int:
+            while vertex != self.root[vertex]:
+                vertex: int = self.root[vertex]
+            return vertex
+        
+        def union(self, u: int, v: int) -> int:
+            u_root: int = self.find(u)
+            v_root: int = self.find(v)
+            if u_root != v_root:
+                self.root[v_root]: int = u_root
+        
+        def is_connected(self, u: int, v:int) -> bool:
+            return self.find(u) == self.find(v)
 
+
+    union_find: UnionFind = UnionFind(n)
+    for u, v in edges:
+        union_find.union(u, v)
+    return union_find.is_connected(source, destination)
 
 
 if __name__ == "__main__":
     cases: list[dict[str, dict[str, int | list[list[int]]] | bool]] = [
         {
             "input": {
-                "n": 0,
+                "n": 1,
                 "edges": [],
                 "source": 0,
                 "destination": 0
@@ -94,3 +115,4 @@ if __name__ == "__main__":
     for case in cases:
         assert case["output"] == solution(**case["input"])
         assert case["output"] == another_solution(**case["input"])
+        assert case["output"] == disjoint_set_quick_union(**case["input"])
