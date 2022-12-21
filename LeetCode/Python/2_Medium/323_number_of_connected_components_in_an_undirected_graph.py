@@ -75,6 +75,47 @@ def disjoint_set_quick_union(n: int, edges: list[list[int]]) -> int:
     return len(root_vertices)
 
 
+def disjoint_set_path_compression_and_union_by_rank(
+    n: int, edges: list[list[int]]
+) -> int:
+    class UnionFind:
+        BASE_HEIGHT: int = 1
+
+        def __init__(self, size: int) -> None:
+            self.root: list[int] = [ vertex for vertex in range(size) ]
+            self.rank: list[int] = [
+                UnionFind.BASE_HEIGHT for _ in range(size)
+            ]
+
+        def find(self, vertex: int) -> int:
+            if vertex == self.root[vertex]:
+                return vertex
+            self.root[vertex]: int = self.find(self.root[vertex])
+            return self.root[vertex]
+        
+        def union(self, u: int, v: int) -> None:
+            u_root: int = self.find(u)
+            v_root: int = self.find(v)
+            if u_root != v_root:
+                u_rank: int = self.rank[u_root]
+                v_rank: int = self.rank[v_root]
+                if u_rank > v_rank:
+                    self.root[v_root]: int = u_root
+                elif u_rank < v_rank:
+                    self.root[u_root]: int = v_root
+                else:
+                    self.root[v_root]: int = u_root
+                    self.rank[u_root] += 1
+
+    
+    union_find: UnionFind = UnionFind(n)
+    for u, v in edges:
+        union_find.union(u, v)
+    for vertex in range(n):
+        union_find.find(vertex)
+    return len(set(union_find.root))
+
+
 if __name__ == "__main__":
     cases: list[dict[str, dict[int, list[int]] | int]] = [
         {
@@ -96,3 +137,6 @@ if __name__ == "__main__":
         assert case["output"] == solution(**case["input"])
         assert case["output"] == another_solution(**case["input"])
         assert case["output"] == disjoint_set_quick_union(**case["input"])
+        assert case["output"] == disjoint_set_path_compression_and_union_by_rank(
+            **case["input"]
+        )
