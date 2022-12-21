@@ -67,9 +67,16 @@
         <td> 서로소 집합 - 4 </td>
         <td> 경로 압축 최적화(Path Compression Optimization) 방식으로 구현한 UnionFind 자료구조 </td>
         <td> <a href="" /> </td>
-        <td> <a href="./Team Note/disjoint_set_3.py" /> disjoint_set_4.py </td>
+        <td> <a href="./Team Note/disjoint_set_4.py" /> disjoint_set_4.py </td>
         <td> <a href="" /> </td>
     </tr>            
+    <tr>
+        <td> 서로소 집합 - 5 </td>
+        <td> 경로 압축(Path Compression) 및 Union By Rank 방식을 통한 최적화하여 구현한 UnionFind 자료구조 </td>
+        <td> <a href="" /> </td>
+        <td> <a href="./Team Note/disjoint_set_5.py" /> disjoint_set_5.py </td>
+        <td> <a href="" /> </td>
+    </tr>    
     <tr>
         <td> 평방분할 (진행 중) </td>
         <td>  </td>
