@@ -48,7 +48,14 @@
         <td> <a href="" /> </td>
         <td> <a href="./Team Note/disjoint_set_1.py" /> disjoint_set_1.py </td>
         <td> <a href="" /> </td>
-    </tr>    
+    </tr>
+    <tr>
+        <td> 서로소 집합 - 2 </td>
+        <td> Quick Union 메서드로 구현한 UnionFind 자료구조 </td>
+        <td> <a href="" /> </td>
+        <td> <a href="./Team Note/disjoint_set_2.py" /> disjoint_set_2.py </td>
+        <td> <a href="" /> </td>
+    </tr>     
     <tr>
         <td> 평방분할 (진행 중) </td>
         <td>  </td>
