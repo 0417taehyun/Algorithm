@@ -38,7 +38,7 @@ class UnionFind:
                 self.root[v_root]: int = u_root
                 self.rank[u_root] += 1
 
-    def is_connected(self, u: int, v:int) -> bool:
+    def is_connected(self, u: int, v: int) -> bool:
         return self.find(u) == self.find(v)
 
 
