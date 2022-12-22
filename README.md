@@ -2752,6 +2752,12 @@
     <td> <a href="./Baekjoon/C/01_Bronze/15727.c"> 15727.c </a> </td>
     <td> 2022. 12. 21 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://www.acmicpc.net/problem/17295"> 17295번: 엔드게임 스포일러 </a> </td>
+    <td> 구현 </td>
+    <td> <a href="./Baekjoon/C/01_Bronze/17295.c"> 17295.c </a> </td>
+    <td> 2022. 12. 22 </td>
+</tr>
 </table>
 
 </details>
