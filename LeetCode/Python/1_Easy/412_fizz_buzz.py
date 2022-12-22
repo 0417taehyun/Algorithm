@@ -24,23 +24,19 @@ def solution(n: int) -> list[str]:
 
 
 def another_solution(n: int) -> list[str]:
-    DIVISORS: list[int] = [3, 5]
-    WORDS: dict[int, str] = {3: "Fizz", 5: "Buzz"}
-
-
+    words: dict[int, str] = {3: "Fizz", 5: "Buzz"}
     answer: list[str] = []
     for idx in range(1, n+1):
         temporary_word: list[str] = []
-        for divisor in DIVISORS:
+        for divisor, word in words.items():
             if idx % divisor == 0:
-                temporary_word.append(WORDS[divisor])
+                temporary_word.append(word)
 
         if not temporary_word:
             temporary_word.append(str(idx))
 
         target: str = "".join(temporary_word)
         answer.append(target)
-
     return answer
 
 
