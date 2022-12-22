@@ -2126,6 +2126,12 @@
     <td> <a href=""> </a></td>
     <td> 2022. 12. 19 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/running-sum-of-1d-array/description/"> 1480. Running Sum of 1d Array </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1480_running_sum_of_1d_array.py"> 1480_running_sum_of_1d_array.py </a> </td>
+    <td> <a href=""> </a></td>
+    <td> 2022. 12. 21 </td>
+</tr>
 </table>
 
 </details>
