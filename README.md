@@ -2132,6 +2132,12 @@
     <td> <a href=""> </a></td>
     <td> 2022. 12. 21 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/richest-customer-wealth/description/"> 1672. Richest Customer Wealth </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1672_richest_customer_wealth.py"> 1672_richest_customer_wealth.py </a> </td>
+    <td> <a href=""> </a></td>
+    <td> 2022. 12. 22 </td>
+</tr>
 </table>
 
 </details>
