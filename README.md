@@ -2138,6 +2138,12 @@
     <td> <a href=""> </a></td>
     <td> 2022. 12. 22 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/fizz-buzz/description/"> 412. Fizz Buzz </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/412_fizz_buzz.py"> 412_fizz_buzz.py </a> </td>
+    <td> <a href=""> </a></td>
+    <td> 2022. 12. 22 </td>
+</tr>
 </table>
 
 </details>
