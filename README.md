@@ -2369,6 +2369,18 @@
     <td> <a href=""> </a></td>
     <td> 2022. 12. 20 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/number-of-provinces/description/"> 547. Number of Provinces </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/547_number_of_provinces.py"> 547_number_of_provinces.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2022. 12. 21 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/"> 1167. Minimum Cost to Connect Sticks </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/1167_minimum_cost_to_connect_sticks.py"> 1167_minimum_cost_to_connect_sticks.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2022. 12. 22 </td>
+</tr>
 </table>
 
 </details>
