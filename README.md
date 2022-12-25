@@ -315,6 +315,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_2/19.sql"> 19.sql </a> </td>
     <td> 2022. 10. 28 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/144854"> 조건에 맞는 도서와 저자 리스트 출력하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/20.sql"> 20.sql </a> </td>
+    <td> 2022. 12. 25 </td>
+</tr>
 </table>
 
 </details>
