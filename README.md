@@ -2178,6 +2178,12 @@
     <td> <a href=""> </a></td>
     <td> 2023. 01. 02 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/detect-capital/description/"> 520. Detect Capital </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/520.py"> 520.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2023. 01. 03 </td>
+</tr>
 </table>
 
 </details>
