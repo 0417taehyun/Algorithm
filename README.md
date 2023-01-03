@@ -2184,6 +2184,12 @@
     <td> <a href=""> </a></td>
     <td> 2023. 01. 03 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/delete-columns-to-make-sorted/description/"> 944. Delete Columns to Make Sorted </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/944.py"> 944.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2023. 01. 03 </td>
+</tr>
 </table>
 
 </details>
