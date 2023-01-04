@@ -2445,6 +2445,12 @@
     <td> <a href=""> </a></td>
     <td> 2022. 12. 22 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/"> 2244. Minimum Rounds to Complete All Tasks </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/2244.py"> 2244.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2023. 01. 04 </td>
+</tr>
 </table>
 
 </details>
