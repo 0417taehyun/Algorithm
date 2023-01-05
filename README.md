@@ -2457,6 +2457,12 @@
     <td> <a href=""> </a></td>
     <td> 2023. 01. 04 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/"> 452. Minimum Number of Arrows to Burst Balloons </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/452.py"> 452.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2023. 01. 05 </td>
+</tr>
 </table>
 
 </details>
