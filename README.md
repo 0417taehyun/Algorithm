@@ -2190,6 +2190,12 @@
     <td> <a href=""> </a></td>
     <td> 2023. 01. 03 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/"> 1342. Number of Steps to Reduce a Number to Zero </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/1342.py"> 1342.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2023. 01. 05 </td>
+</tr>
 </table>
 
 </details>
