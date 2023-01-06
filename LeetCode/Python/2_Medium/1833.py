@@ -9,3 +9,18 @@ def solution(costs: list[int], coins: int) -> int:
         coins -= cost
         answer += 1
     return answer
+
+
+def another_solution(costs: list[int], coins: int) -> int:
+    import heapq
+
+
+    answer: int = 0
+    heapq.heapify(costs)
+    while costs:
+        cost: int = heapq.heappop(costs)
+        if coins < cost:
+            break
+        coins -= cost
+        answer += 1
+    return answer
