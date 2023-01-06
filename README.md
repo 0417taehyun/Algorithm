@@ -2463,6 +2463,12 @@
     <td> <a href=""> </a></td>
     <td> 2023. 01. 05 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/maximum-ice-cream-bars/description/"> 1833. Maximum Ice Cream Bars </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/1833.py"> 1833.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2023. 01. 06 </td>
+</tr>
 </table>
 
 </details>
