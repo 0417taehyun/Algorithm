@@ -2502,6 +2502,12 @@
     <td> <a href=""> </a></td>
     <td> 2022. 09. 04 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/max-points-on-a-line/description/"> 149. Max Points on a Line </a></td>
+    <td> <a href="./LeetCode/Python/3_Hard/149"> 149.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2023. 01. 09 </td>
+</tr>
 </table>
 
 </details>
