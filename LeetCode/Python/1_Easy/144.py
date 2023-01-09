@@ -34,6 +34,18 @@ def another_solution(root: "TreeNode") -> list[int]:
                 count -= 1
                     
     return answer
+
+
+def iterate_solution(root: "TreeNode") -> list[int]:
+    answer: list[int] = []
+    stack: list[TreeNode] = [root]
+    while stack:
+        node: TreeNode = stack.pop()
+        if node:
+            answer.append(node.val)
+            stack.append(node.right)
+            stack.append(node.left)
+    return answer
         
 
 if __name__ == "__main__":
