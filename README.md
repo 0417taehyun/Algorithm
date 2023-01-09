@@ -2481,6 +2481,12 @@
     <td> <a href=""> </a></td>
     <td> 2023. 01. 09 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/"> 255. Verify Preorder Sequence in Binary Search Tree </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/255.py"> 255.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2023. 01. 09 </td>
+</tr>
 </table>
 
 </details>
