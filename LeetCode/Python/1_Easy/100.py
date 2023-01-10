@@ -27,7 +27,7 @@ def solution(p: TreeNode | None, q: TreeNode | None) -> bool:
     stack: list[list[TreeNode | None]] = [[p, q]]
     while stack:
         p_node, q_node = stack.pop()
-        if not is_identical_same(p_node, q_node):
+        if not is_identical_same(p_node=p_node, q_node=q_node):
             return False
         
         if p_node and q_node:
@@ -35,3 +35,18 @@ def solution(p: TreeNode | None, q: TreeNode | None) -> bool:
             stack.append([p_node.left, q_node.left])
 
     return True
+
+
+def recursive_solution(p: TreeNode | None, q: TreeNode | None) -> bool:
+    if not p and not q:
+        return True
+    if not p or not q:
+        return False
+    if p.val != q.val:
+        return False
+    return (
+        recursive_solution(p=p.left, q=q.left)
+        and
+        recursive_solution(p=p.right, q=q.right)
+    )
+    
