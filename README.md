@@ -2202,6 +2202,12 @@
     <td> <a href=""> </a></td>
     <td> 2023. 01. 10 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/cousins-in-binary-tree/description/"> 993. Cousins in Binary Tree </a></td>
+    <td> <a href="./LeetCode/Python/1_Easy/993.py"> 993.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2023. 01. 11 </td>
+</tr>
 </table>
 
 </details>
