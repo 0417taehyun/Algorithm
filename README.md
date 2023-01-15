@@ -33,58 +33,58 @@
     <tr>
         <td> 에라토스테네스의 체 </td>
         <td> 선형 시간에 근사하게 범위 내의 소수 구하기 </td>
-        <td> <a href="./Team Note/C/eratos.c" /> eratos.c </td>
-        <td> <a href="" /> </td>
-        <td> <a href="" /> </td>
+        <td> <a href="./Team Note/C/eratos.c"> eratos.c </a> </td>
+        <td> <a href=""> </a> </td>
+        <td> <a href=""> </a> </td>
     </tr>
     <tr>
         <td> 퀵 정렬 - 1 </td>
         <td> 배열의 첫 번째 요소를 피봇의 기준으로 한 퀵 정렬 (이미 정렬이 된 최악의 경우 제곱 시간) </td>
-        <td> <a href="./Team Note/C/quick_sort_1.c" /> quick_sort_1.c </td>
-        <td> <a href="" /> </td>
-        <td> <a href="" /> </td>
+        <td> <a href="./Team Note/C/quick_sort_1.c"> quick_sort_1.c </a> </td>
+        <td> <a href=""> </a> </td>
+        <td> <a href=""> </a> </td>
     </tr>
     <tr>
         <td> 서로소 집합 - 1 </td>
         <td> Quick Find 메서드로 구현한 UnionFind 자료구조 </td>
-        <td> <a href="" /> </td>
-        <td> <a href="./Team Note/disjoint_set_1.py" /> disjoint_set_1.py </td>
-        <td> <a href="" /> </td>
+        <td> <a href=""> </a> </td>
+        <td> <a href="./Team Note/disjoint_set_1.py"> disjoint_set_1.py </a> </td>
+        <td> <a href=""> </a> </td>
     </tr>
     <tr>
         <td> 서로소 집합 - 2 </td>
         <td> Quick Union 메서드로 구현한 UnionFind 자료구조 </td>
-        <td> <a href="" /> </td>
-        <td> <a href="./Team Note/disjoint_set_2.py" /> disjoint_set_2.py </td>
-        <td> <a href="" /> </td>
+        <td> <a href=""> </a> </td>
+        <td> <a href="./Team Note/disjoint_set_2.py"> disjoint_set_2.py </a> </td>
+        <td> <a href=""> </a> </td>
     </tr>
     <tr>
         <td> 서로소 집합 - 3 </td>
         <td> Union By Rank 방식으로 구현한 UnionFind 자료구조 </td>
-        <td> <a href="" /> </td>
-        <td> <a href="./Team Note/disjoint_set_3.py" /> disjoint_set_3.py </td>
-        <td> <a href="" /> </td>
+        <td> <a href=""> </a> </td>
+        <td> <a href="./Team Note/disjoint_set_3.py"> disjoint_set_3.py </a> </td>
+        <td> <a href=""> </a> </td>
     </tr>
     <tr>
         <td> 서로소 집합 - 4 </td>
         <td> 경로 압축 최적화(Path Compression Optimization) 방식으로 구현한 UnionFind 자료구조 </td>
-        <td> <a href="" /> </td>
-        <td> <a href="./Team Note/disjoint_set_4.py" /> disjoint_set_4.py </td>
-        <td> <a href="" /> </td>
+        <td> <a href=""> </a> </td>
+        <td> <a href="./Team Note/disjoint_set_4.py"> disjoint_set_4.py </a> </td>
+        <td> <a href=""> </a> </td>
     </tr>            
     <tr>
         <td> 서로소 집합 - 5 </td>
         <td> 경로 압축(Path Compression) 및 Union By Rank 방식을 통한 최적화하여 구현한 UnionFind 자료구조 </td>
-        <td> <a href="" /> </td>
-        <td> <a href="./Team Note/disjoint_set_5.py" /> disjoint_set_5.py </td>
-        <td> <a href="" /> </td>
+        <td> <a href=""> </a> </td>
+        <td> <a href="./Team Note/disjoint_set_5.py"> disjoint_set_5.py </a> </td>
+        <td> <a href=""> </a> </td>
     </tr>    
     <tr>
         <td> 평방분할 (진행 중) </td>
         <td>  </td>
-        <td> <a href="" />  </td>
-        <td> <a href="" /> </td>
-        <td> <a href="./Team Note/Python/sqrt_decomposition.py" /> sqrt_decomposition.py </td>
+        <td> <a href=""> </a>  </td>
+        <td> <a href=""> </a> </td>
+        <td> <a href="./Team Note/Python/sqrt_decomposition.py"> sqrt_decomposition.py </a> </td>
     </tr>
 
 </table>
