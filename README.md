@@ -2499,6 +2499,12 @@
     <td> <a href=""> </a></td>
     <td> 2023. 01. 09 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/"> 1061. Lexicographically Smallest Equivalent String </a></td>
+    <td> <a href="./LeetCode/Python/2_Medium/1061.py"> 1061.py </a></td>
+    <td> <a href=""> </a></td>
+    <td> 2023. 01. 15 </td>
+</tr>
 </table>
 
 </details>
