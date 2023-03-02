@@ -468,6 +468,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_4/12.sql"> 12.sql </a> </td>
     <td> 2022. 12. 25 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/151141"> 자동차 대여 기록 별 대여 금액 구하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_4/13.sql"> 12.sql </a> </td>
+    <td> 2023. 03. 03 </td>
+</tr>
 </table>
 
 </details>
