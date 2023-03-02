@@ -208,7 +208,12 @@
 </tr>
 <tr align="left">
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/151136"> 평균 일일 대여 요금 구하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_1/21.sql"> 20.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/21.sql"> 21.sql </a> </td>
+    <td> 2023. 03. 02 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/151138"> 자동차 대여 기록에서 장기/단기 대여 구분하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/22.sql"> 22.sql </a> </td>
     <td> 2023. 03. 02 </td>
 </tr>
 </table>
