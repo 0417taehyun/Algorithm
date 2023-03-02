@@ -389,6 +389,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_3/8.sql"> 8.sql </a> </td>
     <td> 2022. 12. 25 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/151139"> 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_3/9.sql"> 9.sql </a> </td>
+    <td> 2023. 03. 02 </td>
+</tr>
 </table>
 
 </details>
