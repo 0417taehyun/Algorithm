@@ -216,6 +216,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_1/22.sql"> 22.sql </a> </td>
     <td> 2023. 03. 02 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157343"> 특정 옵션이 포함된 자동차 리스트 구하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/23.sql"> 23.sql </a> </td>
+    <td> 2023. 03. 04 </td>
+</tr>
 </table>
 
 </details>
