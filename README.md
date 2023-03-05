@@ -340,6 +340,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_2/21.sql"> 21.sql </a> </td>
     <td> 2023. 03. 02 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157342"> 자동차 평균 대여 기간 구하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/22.sql"> 22.sql </a> </td>
+    <td> 2023. 03. 05 </td>
+</tr>
 </table>
 
 </details>
