@@ -409,6 +409,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_3/10.sql"> 10.sql </a> </td>
     <td> 2023. 03. 06 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157340"> 자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_3/11.sql"> 11.sql </a> </td>
+    <td> 2023. 03. 06 </td>
+</tr>
 </table>
 
 </details>
