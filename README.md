@@ -2,19 +2,17 @@
 
 ## :books: Table Of Contents
 
-- [Algorithm](#algorithm)
-  - [:books: Table Of Contents](#books-table-of-contents)
-    - [Team Note](#team-note)
-    - [Programmers](#programmers)
-      - [SQL](#sql)
-      - [Python](#python)
-    - [LeetCode](#leetcode)
-      - [SQL](#sql-1)
-      - [Python](#python-1)
-    - [Baekjoon](#baekjoon)
-      - [C](#c)
-      - [Python](#python-2)
-    - [이것이 취업을 위한 코딩 테스트다 with 파이썬](#이것이-취업을-위한-코딩-테스트다-with-파이썬)
+- [Team Note](#team-note)
+- [Programmers](#programmers)
+  - [SQL](#sql)
+  - [Python](#python)
+- [LeetCode](#leetcode)
+  - [SQL](#sql-1)
+  - [Python](#python-1)
+- [Baekjoon](#baekjoon)
+  - [C](#c)
+  - [Python](#python-2)
+- [이것이 취업을 위한 코딩 테스트다 with 파이썬](#이것이-취업을-위한-코딩-테스트다-with-파이썬)
 
 ### Team Note
 
