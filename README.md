@@ -219,6 +219,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_1/23.sql"> 23.sql </a> </td>
     <td> 2023. 03. 04 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/164673"> 조건에 부합하는 중고거래 댓글 조회하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/24.sql"> 24.sql </a> </td>
+    <td> 2023. 03. 14 </td>
+</tr>
 </table>
 
 </details>
