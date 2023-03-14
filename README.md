@@ -221,7 +221,7 @@
 </tr>
 <tr align="left">
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/164673"> 조건에 부합하는 중고거래 댓글 조회하기 </a> </td>
-    <td> <a href="./Programmers/SQL/LEVEL_2/24.sql"> 24.sql </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_1/24.sql"> 24.sql </a> </td>
     <td> 2023. 03. 14 </td>
 </tr>
 </table>
@@ -347,6 +347,11 @@
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157342"> 자동차 평균 대여 기간 구하기 </a> </td>
     <td> <a href="./Programmers/SQL/LEVEL_2/22.sql"> 22.sql </a> </td>
     <td> 2023. 03. 05 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/164672"> 조건에 부합하는 중고거래 상태 조회하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_2/23.sql"> 23.sql </a> </td>
+    <td> 2023. 03. 14 </td>
 </tr>
 </table>
 
