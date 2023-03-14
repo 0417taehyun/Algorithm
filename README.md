@@ -422,6 +422,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_3/11.sql"> 11.sql </a> </td>
     <td> 2023. 03. 06 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/164671"> 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_3/12.sql"> 12.sql </a> </td>
+    <td> 2023. 03. 14 </td>
+</tr>
 </table>
 
 </details>
