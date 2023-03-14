@@ -427,6 +427,11 @@
     <td> <a href="./Programmers/SQL/LEVEL_3/12.sql"> 12.sql </a> </td>
     <td> 2023. 03. 14 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/164670"> 조건에 맞는 사용자와 총 거래금액 조회하기 </a> </td>
+    <td> <a href="./Programmers/SQL/LEVEL_3/13.sql"> 13.sql </a> </td>
+    <td> 2023. 03. 14 </td>
+</tr>
 </table>
 
 </details>
