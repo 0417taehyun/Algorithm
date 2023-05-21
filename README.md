@@ -1041,6 +1041,11 @@
     <td> <a href="./LeetCode/SQL/1_Easy/2668.sql"> 2668.sql </a> </td>
     <td> 2023. 05. 21 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/count-artist-occurrences-on-spotify-ranking-list/description/"> 2669. Count Artist Occurrences On Spotify Ranking List </a> </td>
+    <td> <a href="./LeetCode/SQL/1_Easy/2669.sql"> 2669.sql </a> </td>
+    <td> 2023. 05. 22 </td>
+</tr>
 </table>
 
 </details>
