@@ -699,7 +699,7 @@
 <tr align="left">
     <td> <a href="https://leetcode.com/problems/project-employees-i/"> 1075. Project Employees I </a> </td>
     <td> <a href="./LeetCode/SQL/1_Easy/1075.sql"> 1075.sql </a> </td>
-    <td> 2022. 03. 2 </td>
+    <td> 2022. 03. 28 </td>
 </tr>
 <tr align="left">
     <td> <a href="https://leetcode.com/problems/project-employees-ii/"> 1076. Project Employees II </a> </td>
@@ -1035,6 +1035,11 @@
     <td> <a href="https://leetcode.com/problems/concatenate-the-name-and-the-profession/description/"> 2504. Concatenate the Name and the Profession </a> </td>
     <td> <a href="./LeetCode/SQL/1_Easy/2504.sql"> 2504.sql </a> </td>
     <td> 2022. 12. 12 </td>
+</tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/find-latest-salaries/description/"> 2668. Find Latest Salaries </a> </td>
+    <td> <a href="./LeetCode/SQL/1_Easy/2668.sql"> 2668.sql </a> </td>
+    <td> 2023. 05. 21 </td>
 </tr>
 </table>
 
