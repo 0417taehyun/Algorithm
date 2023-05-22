@@ -1046,6 +1046,11 @@
     <td> <a href="./LeetCode/SQL/1_Easy/2669.sql"> 2669.sql </a> </td>
     <td> 2023. 05. 22 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/bikes-last-time-used/description/"> 2687. Bikes Last Time Used </a> </td>
+    <td> <a href="./LeetCode/SQL/1_Easy/2687.sql"> 2687.sql </a> </td>
+    <td> 2023. 05. 23 </td>
+</tr>
 </table>
 
 </details>
