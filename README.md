@@ -1520,6 +1520,11 @@
     <td> <a href="./LeetCode/SQL/2_Medium/2394.sql"> 2394.sql </a> </td>
     <td> 2022. 09. 03 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/immediate-food-delivery-iii/description/"> 2686. Immediate Food Delivery III </a> </td>
+    <td> <a href="./LeetCode/SQL/2_Medium/2686.sql"> 2686.sql </a> </td>
+    <td> 2023. 05. 24 </td>
+</tr>
 </table>
 
 </details>
