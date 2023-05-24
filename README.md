@@ -1525,6 +1525,11 @@
     <td> <a href="./LeetCode/SQL/2_Medium/2686.sql"> 2686.sql </a> </td>
     <td> 2023. 05. 24 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/find-active-users/description/"> 2688. Find Active Users </a> </td>
+    <td> <a href="./LeetCode/SQL/2_Medium/2688.sql"> 2688.sql </a> </td>
+    <td> 2023. 05. 25 </td>
+</tr>
 </table>
 
 </details>
