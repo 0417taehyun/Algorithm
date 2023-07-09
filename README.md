@@ -1719,6 +1719,11 @@
     <td> <a href="./LeetCode/SQL/3_Hard/2362.sql"> 2362.sql </a> </td>
     <td> 2022. 08. 06 </td>
 </tr>
+<tr align="left">
+    <td> <a href="https://leetcode.com/problems/popularity-percentage/description/"> 2720. Popularity Percentage </a> </td>
+    <td> <a href="./LeetCode/SQL/3_Hard/2720.sql"> 2362.sql </a> </td>
+    <td> 2023. 07. 09 </td>
+</tr>
 </table>
 
 </details>
